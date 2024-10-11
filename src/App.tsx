@@ -1,24 +1,68 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useState} from 'react';
 import './App.css';
+import {ScheduleColumn} from "./components/ScheduleColumn";
+import {hours} from "./constants/hours";
+
+import ginekologia from "./data/ginekologia.json";
+import {dataObjectSchema} from "./schemas/DataObjectSchema";
+import {GroupClasses} from "./schemas/GroupClassesSchema";
 
 function App() {
+  const data: GroupClasses[] = []
+  data.push(...dataObjectSchema.parse(ginekologia).data);
+
+  const [chosenWeek, setChosenWeek] = useState<number | null>(null);
+  const [chosenGroup, setChosenGroup] = useState<number | null>(null);
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          UMlubNiePotrafiWPlanZajęć.pl
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
+      <div className="App-content">
+        <div className="App-hours-outer-container">
+          <h3>.</h3>
+          <div className="App-hours-inner-container">
+            {hours.map((hour, index) => {
+              return <>
+                {index !== 0 && <div style={{flex: 1}}/>}
+                <p className="App-hours-label" style={{top: 0}}>{hour}</p>
+              </>
+            })}
+          </div>
+        </div>
+        <div className="App-table">
+          <ScheduleColumn columnName="Poniedziałek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName="Wtorek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName="Środa" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName="Czwartek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName="Piątek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+        </div>
+        <div className="App-settings">
+          <p>Wybierz numer tygodnia</p>
+          <select
+            onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}
+          >
+            {
+              new Array(12).fill(null).map((_, i) => i + 1).map((week_number) => (
+                <option value={week_number}>{`Tydzień ${week_number}`}</option>
+              ))
+            }
+          </select>
+          <p>Wybierz numer grupy</p>
+          <select
+            onChange={(newChosenGroup) => setChosenGroup(Number(newChosenGroup.target.value))}
+          >
+            {
+              new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
+                <option value={group_number}>{`Grupa ${group_number}`}</option>
+              ))
+            }
+          </select>
+        </div>
+      </div>
     </div>
   );
 }

@@ -1,0 +1,3797 @@
+{
+  "data": [
+    {
+      "groups": [
+        43,
+        44,
+        45
+      ],
+      "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+      "weeks": [
+        {
+          "week": 9,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        43,
+        44,
+        45
+      ],
+      "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+      "weeks": [
+        {
+          "week": 9,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        16,
+        17
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+      "weeks": [
+        {
+          "week": 3,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        16,
+        17
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+      "weeks": [
+        {
+          "week": 3,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        25,
+        26
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+      "weeks": [
+        {
+          "week": 5,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        25,
+        26
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+      "weeks": [
+        {
+          "week": 5,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        34,
+        35
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+      "weeks": [
+        {
+          "week": 7,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00 — przez 10 dni",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        34,
+        35
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+      "weeks": [
+        {
+          "week": 7,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Patologii Ciąży",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45 — przez 9 dni",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        7,
+        8
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 1,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        7,
+        8
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 1,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        13,
+        14
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 3,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        13,
+        14
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 3,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        22,
+        23
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 5,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        22,
+        23
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 5,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        22,
+        23
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 6,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        22,
+        23
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 6,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        53,
+        54,
+        55
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 11,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        53,
+        54,
+        55
+      ],
+      "katedra": "II Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 11,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "II Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        4,
+        5
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 1,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        4,
+        5
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 1,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        31,
+        32
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 7,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        31,
+        32
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 7,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        40,
+        41
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 9,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        40,
+        41
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 9,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        50,
+        51
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 11,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        50,
+        51
+      ],
+      "katedra": "III Katedra i Klinika Ginekologii",
+      "weeks": [
+        {
+          "week": 11,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "III Katedra i Klinika Ginekologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        1,
+        2
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 1,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        1,
+        2
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 1,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        10,
+        11
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 3,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        10,
+        11
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 3,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        19,
+        20
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 5,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "8:15",
+              "end_time": "10:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        19,
+        20
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 5,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "12:15",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        28,
+        29
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 7,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        28,
+        29
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 7,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        37,
+        38
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 9,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        37,
+        38
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 9,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 10,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        47,
+        48
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 11,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "10:45",
+              "end_time": "13:00",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        47,
+        48
+      ],
+      "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+      "weeks": [
+        {
+          "week": 11,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Friday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "classes": [
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Monday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Tuesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Wednesday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            },
+            {
+              "course_name": "Ginekologia",
+              "katedra": "Katedra i Klinika Położnictwa i Perinatologii",
+              "day": "Thursday",
+              "start_time": "13:15",
+              "end_time": "14:45",
+              "type": "Seminaria",
+              "location": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+.App-table-column-item {
+    position: absolute;
+    width: 100%; /*TODO: wyświetlanie kilku bloków w tym samym slocie */
+
+    .App-table-column-card {
+        height: 100%;
+        background-color: lightgray;
+        margin-left: 4px;
+        margin-right: 4px;
+        /*background-color: white;*/
+        border-radius: 12px;
+        box-shadow: gray 0 0 6px;
+        text-align: start;
+        padding-left: 12px;
+        overflow: hidden;
+
+        p {
+            margin: 0;
+        }
+
+        h4 {
+            margin: 0;
+        }
+    }
+}
