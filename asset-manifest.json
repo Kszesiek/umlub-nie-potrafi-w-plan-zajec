@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/umlub-nie-potrafi-w-plan-zajec/static/css/main.3c2f4e2a.css",
-    "main.js": "/umlub-nie-potrafi-w-plan-zajec/static/js/main.11387f15.js",
+    "main.css": "/umlub-nie-potrafi-w-plan-zajec/static/css/main.5795424e.css",
+    "main.js": "/umlub-nie-potrafi-w-plan-zajec/static/js/main.3d68e75e.js",
     "static/js/453.ef127b7e.chunk.js": "/umlub-nie-potrafi-w-plan-zajec/static/js/453.ef127b7e.chunk.js",
     "index.html": "/umlub-nie-potrafi-w-plan-zajec/index.html",
-    "main.3c2f4e2a.css.map": "/umlub-nie-potrafi-w-plan-zajec/static/css/main.3c2f4e2a.css.map",
-    "main.11387f15.js.map": "/umlub-nie-potrafi-w-plan-zajec/static/js/main.11387f15.js.map",
+    "main.5795424e.css.map": "/umlub-nie-potrafi-w-plan-zajec/static/css/main.5795424e.css.map",
+    "main.3d68e75e.js.map": "/umlub-nie-potrafi-w-plan-zajec/static/js/main.3d68e75e.js.map",
     "453.ef127b7e.chunk.js.map": "/umlub-nie-potrafi-w-plan-zajec/static/js/453.ef127b7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c2f4e2a.css",
-    "static/js/main.11387f15.js"
+    "static/css/main.5795424e.css",
+    "static/js/main.3d68e75e.js"
   ]
 }
