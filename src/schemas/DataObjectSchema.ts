@@ -5,4 +5,4 @@ export const dataObjectSchema = z.object({
   data: z.array(groupClassesSchema),
 })
 
-type DataObject = z.infer<typeof dataObjectSchema>;
+export type DataObject = z.infer<typeof dataObjectSchema>;
