@@ -55,7 +55,7 @@
         .App-table {
             display: flex;
             flex-direction: row;
-            flex: 4;
+            flex: 5;
             border-radius: 16px;
             box-shadow: gray 4px 4px 12px;
             background-color: gold;
@@ -66,9 +66,24 @@
         }
 
         .App-settings {
+            display: flex;
+            flex-direction: column;
+            padding: 16px;
             flex: 1;
             border-radius: 16px;
             box-shadow: gray 4px 4px 12px;
+            align-items: stretch;
+
+            p {
+                font-size: calc(10px + 1vmin);
+                margin-bottom: 8px;
+            }
+
+            select {
+                font-size: calc(8px + 1vmin);
+                padding-top: 4px;
+                padding-bottom: 4px;
+            }
         }
     }
 }

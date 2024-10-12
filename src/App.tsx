@@ -6,6 +6,7 @@ import {hours} from "./constants/hours";
 import ginekologia from "./data/ginekologia.json";
 import {dataObjectSchema} from "./schemas/DataObjectSchema";
 import {GroupClasses} from "./schemas/GroupClassesSchema";
+import useWindowDimensions from "./utils/useWindowDimensions";
 
 function App() {
   const data: GroupClasses[] = []
@@ -14,11 +15,13 @@ function App() {
   const [chosenWeek, setChosenWeek] = useState<number | null>(null);
   const [chosenGroup, setChosenGroup] = useState<number | null>(null);
 
+  const { height, width } = useWindowDimensions();
+
   return (
     <div className="App">
       <header className="App-header">
         <p>
-          UMlubNiePotrafiWPlanZajęć.pl
+          UMLub nie potrafi w plan zajęć 🙃
         </p>
       </header>
       <div className="App-content">
@@ -26,6 +29,9 @@ function App() {
           <h3>.</h3>
           <div className="App-hours-inner-container">
             {hours.map((hour, index) => {
+              if (height < 700 && index % 2 !== 0) {
+                return null;
+              }
               return <>
                 {index !== 0 && <div style={{flex: 1}}/>}
                 <p className="App-hours-label" style={{top: 0}}>{hour}</p>
@@ -41,7 +47,7 @@ function App() {
           <ScheduleColumn columnName="Piątek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
         </div>
         <div className="App-settings">
-          <p>Wybierz numer tygodnia</p>
+          <p>Wybierz numer tygodnia:</p>
           <select
             onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}
           >
@@ -51,7 +57,7 @@ function App() {
               ))
             }
           </select>
-          <p>Wybierz numer grupy</p>
+          <p>Wybierz numer grupy:</p>
           <select
             onChange={(newChosenGroup) => setChosenGroup(Number(newChosenGroup.target.value))}
           >

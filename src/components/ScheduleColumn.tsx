@@ -6,14 +6,20 @@ import {WeekClasses} from "../schemas/WeekClassesSchema";
 import {ScheduleCard} from "./ScheduleCard";
 import {SingleClass} from "../schemas/SingleClassSchema";
 import {weekdayMap} from "../constants/weekdayMap";
+import useWindowDimensions from "../utils/useWindowDimensions";
 
 export function ScheduleColumn({columnName, groupClasses, chosenGroup, chosenWeek}: { columnName: String, groupClasses: GroupClasses[], chosenGroup: number | null, chosenWeek: number | null }) {
+  const { height, width } = useWindowDimensions();
+
   return <div className="App-table-column">
     <div className="App-table-column-title">
       <h3>{columnName}</h3>
     </div>
     <div className="App-table-column-content">
-      {hours.slice(1).map((hour) => {
+      {hours.slice(1).map((hour, index) => {
+        if (height < 700 && index % 2 !== 0) {
+          return null;
+        }
         return (
           <div style={{flex: 1, backgroundColor: "white"}}/>
         );
