@@ -3,6 +3,7 @@ import onkologia from './2. onkologia.json';
 import chirurgia from './3. chirurgia.json';
 import laryngologia from './4. laryngologia.json';
 import transplantologia from './5. transplantologia.json';
+import medycyna_sadowa from './6. medycyna_sadowa.json';
 import urologia from './7. urologia.json';
 import neurochirurgia from './8. neurochirurgia.json';
 import medycyna_rodzinna from './9. medycyna rodzinna.json';
@@ -24,6 +25,7 @@ export function getData(): GroupClasses[] {
     chirurgia,
     laryngologia,
     transplantologia,
+    medycyna_sadowa,
     urologia,
     neurochirurgia,
     medycyna_rodzinna,
