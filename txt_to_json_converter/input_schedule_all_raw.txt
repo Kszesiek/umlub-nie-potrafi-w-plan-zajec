@@ -153,7 +153,6 @@ Zakład Radioterapii:
 Zakład Onkologii Klinicznej i Chemioterapii:
 4 tydzień:
 piątek godz. 11:15-14:15
-
 Grupy 10-14:
 Katedra Onkologii:
 5 tydzień:
@@ -199,7 +198,6 @@ Zakład Radioterapii:
 8 tydzień:
 środa - czwartek godz. 8:15-12:00 Semin. grupy 19-21 + 22-23
 Zakład Onkologii Klinicznej i Chemioterapii:
-
 8 tydzień:
 piątek godz. 8:15-11:15 Semin. grupy 19-21 + 22-23
 Grupy 24-27:
@@ -246,7 +244,6 @@ Zakład Radioterapii:
 10 tydzień:
 środa - czwartek godz. 12:00-15:45
 Zakład Onkologii Klinicznej i Chemioterapii:
-
 10 tydzień:
 piątek godz. 11:15-14:15
 Grupy 37-41:
@@ -314,8 +311,8 @@ Zakład Onkologii Klinicznej i Chemioterapii:
 14 tydzień:
 piątek godz. 11:15-14:15 Semin. grupy 52-54 + 55-56
 
-3. Chirurgia - II Katedra i Klinika Chirurgii Ogólnej, Gastroenterologicznej i Now.Ukł
-Pokarmowego - 24ćw., 6sem.:
+3. Chirurgia:
+II Katedra i Klinika Chirurgii Ogólnej, Gastroenterologicznej i Now. Ukł. Pokarmowego:
 Grupy 1-5:
 3 tydzień:
 poniedz. - środa godz. 11:15-12:45 Semin. dla grup 1-3 + 4-5
@@ -452,7 +449,6 @@ Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
 czwartek godz. 8:30-10:45 ćwicz.
 czwartek godz. 10:45-12:15 sem.
 piątek godz. 8:30-10:00 ćwicz.
-
 piątek godz. 10:00-12:15 sem.
 Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
 2 tydzień:
@@ -493,7 +489,6 @@ Grupy 4-6:
 Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
 5 tydzień:
 poniedz. godz. 8:30-10:45 ćwicz.
-
 poniedz. godz. 10:45-12:15 sem.
 wtorek godz. 8:30-10:00 ćwicz.
 wtorek godz. 10:00-12:15 sem.
@@ -533,7 +528,6 @@ Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
 7 tydzień:
 środa godz. 8:30-12:15 sem.
 Grupy 37-39:
-
 Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
 8 tydzień:
 poniedz. godz. 8:30-10:45 ćwicz.
@@ -573,7 +567,6 @@ Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
 środa godz. 8:30-10:45 ćwicz.
 środa godz. 10:45-12:15 sem.
 Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
-
 9 tydzień:
 czwartek godz. 8:30-12:15 sem.
 Grupy 19-21:
@@ -614,7 +607,6 @@ wtorek godz. 10:00-12:15 sem.
 Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
 12 tydzień:
 środa godz. 8:30-10:45 ćwicz.
-
 środa godz. 10:45-12:15 sem.
 Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
 12 tydzień:
@@ -654,7 +646,6 @@ czwartek godz. 8:30-10:45 ćwicz.
 czwartek godz. 10:45-12:15 sem.
 piątek godz. 8:30-10:00 ćwicz.
 piątek godz. 10:00-12:15 sem.
-
 Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
 13 tydzień:
 wtorek godz. 8:30-10:45 ćwicz.
@@ -691,8 +682,8 @@ Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
 15 tydzień:
 czwartek godz. 8:30-12:15 sem.
 
-5. Transplantologia - I Katedra i Klinika Chirugii Ogólnej, Transplantacyjnej i
-Lecz.Żywieniowego - 5ćw., 5sem.:
+5. Transplantologia:
+I Katedra i Klinika Chirugii Ogólnej, Transplantacyjnej i Lecz.Żywieniowego:
 Grupy 16-18:
 1 tydzień:
 piątek godz. 8:15-12:00 ćwicz.
@@ -770,7 +761,7 @@ Grupy 51-53:
 piątek godz. 8:15-12:00 ćwicz.
 piątek godz. 12:00-15:45 sem.
 
-6. Medycyna Sądowa 30ćw., 12sem.:
+6. Medycyna Sądowa:
 Grupy 51-53 + 13-15:
 1 tydzień:
 poniedz. - piątek godz. 8:30-13:00 ćwicz. dwie grupy
@@ -838,7 +829,8 @@ poniedz. - piątek godz. 8:30-13:00 ćwicz. dwie grupy
 poniedz. - wtorek godz. 13:00-15:15 sem. jedna grupa
 środa - piątek godz. 13:00-14:30 sem. jedna grupa
 
-7. Urologia - Katedra i Klinika Urologii i Onkologii Urologicznej - 8ćw., 2sem.:
+7. Urologia:
+Katedra i Klinika Urologii i Onkologii Urologicznej:
 Grupy 31-32:
 1 tydzień:
 poniedz. godz. 8:30-10:00 ćwicz.
@@ -877,7 +869,6 @@ poniedz. godz. 10:00-11:30 sem.
 Grupy 19-21:
 12 tydzień:
 poniedz. godz. 8:30-10:00 ćwicz.
-
 wtorek - środa godz. 8:30-10:45 ćwicz.
 poniedz. godz. 10:00-11:30 sem.
 Grupy 22-24:
@@ -895,7 +886,9 @@ Grupy 28-30:
 poniedz. godz. 8:30-10:00 ćwicz.
 wtorek - środa godz. 8:30-10:45 ćwicz.
 poniedz. godz. 10:00-11:30 sem.
-8. Neurochirurgia - Katedra i Klinika Neurochirurgii i Neurochirurgii Dziecięcej - 16ćw., 6sem.:
+
+8. Neurochirurgia:
+Katedra i Klinika Neurochirurgii i Neurochirurgii Dziecięcej:
 Grupy 31-32:
 2 tydzień:
 poniedz. - środa godz. 8:30-10:00 sem.
@@ -964,11 +957,6 @@ czwartek godz. 8:30-10:45 ćwicz.
 piątek godz. 8:30-11:30 ćwicz.
 
 9. Medycyna Rodzinna:
-Katedra i Zakład Medycyny Rodzinnej: 27ćw., 20sem.
-Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych: 3ćw.
-Katedra Dietetyki i Bioanalityki: 4ćw., 2sem.
-Zakład Genetyki Klinicznej Katedry Genetyki Medycznej: 4ćw.
-Katedra i Klinika Rehabilitacji i Ortopedii: 2ćw., 2sem.
 Grupy 25-27:
 Katedra i Zakład Medycyny Rodzinnej:
 1 tydzień:
@@ -1001,7 +989,8 @@ piątek godz. 12:00-15:00 ćwicz.
 Grupa 27:
 poniedz. godz. 12:00-15:00 ćwicz.
 1 tydzień:
-Grupy 25-27 czwartek godz. 15:00-16:30 semin.
+Grupy 25-27:
+czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 2 tydzień:
 Grupa 25:
@@ -1125,7 +1114,8 @@ piątek godz. 12:00-15:00 ćwicz.
 Grupa 3:
 poniedz. godz. 12:00-15:00 ćwicz.
 8 tydzień:
-Grupy 1-3 czwartek godz. 15:00-16:30 semin.
+Grupy 1-3:
+czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 9 tydzień:
 Grupa 1:
@@ -1168,7 +1158,8 @@ piątek godz. 8:00-11:00 ćwicz.
 Grupa 6:
 poniedz. godz. 8:00-11:00 ćwicz.
 9 tydzień:
-Grupy 4-6 czwartek godz. 8:00-9:30 semin.
+Grupy 4-6:
+czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 9 tydzień:
 Grupa 4:
@@ -1208,7 +1199,8 @@ piątek godz. 12:00-15:00 ćwicz.
 Grupa 9:
 poniedz. godz. 12:00-15:00 ćwicz.
 10 tydzień:
-Grupy 7-9 czwartek godz. 15:00-16:30 semin.
+Grupy 7-9:
+czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 11 tydzień:
 Grupa 7:
@@ -1250,7 +1242,8 @@ piątek godz. 8:00-11:00 ćwicz.
 Grupa 12:
 poniedz. godz. 8:00-11:00 ćwicz.
 11 tydzień:
-Grupy 10-12 czwartek godz. 8:00-9:30 semin.
+Grupy 10-12:
+czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 11 tydzień:
 Grupa 10:
@@ -1290,7 +1283,8 @@ piątek godz. 12:00-15:00 ćwicz.
 Grupa 15:
 poniedz. godz. 12:00-15:00 ćwicz.
 12 tydzień:
-Grupy 13-15 czwartek godz. 15:00-16:30 semin.
+Grupy 13-15:
+Czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 13 tydzień:
 Grupa 13:
@@ -1332,7 +1326,8 @@ piątek godz. 8:00-11:00 ćwicz.
 Grupa 18:
 poniedz. godz. 8:00-11:00 ćwicz.
 13 tydzień:
-Grupy 16-18 czwartek godz. 8:00-9:30 semin.
+Grupy 16-18:
+czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 13 tydzień:
 Grupa 16:
@@ -1372,7 +1367,8 @@ piątek godz. 12:00-15:00 ćwicz.
 Grupa 21:
 poniedz. godz. 12:00-15:00 ćwicz.
 14 tydzień:
-Grupy 19-21 czwartek godz. 15:00-16:30 semin.
+Grupy 19-21:
+czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 15 tydzień:
 Grupa 19:
@@ -1414,7 +1410,8 @@ piątek godz. 8:00-11:00 ćwicz.
 Grupa 24:
 poniedz. godz. 8:00-11:00 ćwicz.
 15 tydzień:
-Grupy 22-24 czwartek godz. 8:00-9:30 semin.
+Grupy 22-24:
+czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 15 tydzień:
 Grupa 22:
@@ -1424,7 +1421,8 @@ Grupa 23:
 Grupa 24:
 piątek godz. 8:00-11:00
 
-10. Pediatria - III Katedra Pediatrii - 40ćw., 22sem.:
+10. Pediatria:
+III Katedra Pediatrii:
 Grupy 19-21:
 1 tydzień:
 poniedz. - wtorek godz. 8:15-10:30 semin. AULA USZD
@@ -1530,7 +1528,8 @@ poniedz. - wtorek godz. 10:30-13:30 ćwicz.
 poniedz. - piątek godz. 8:15-9:45 semin. AULA USZD
 poniedz. - piątek godz. 9:45-12:45 ćwicz.
 
-11. Kardiochirurgia - Klinika Kardiochirurgii - 8ćw., 2sem.:
+11. Kardiochirurgia:
+Klinika Kardiochirurgii:
 Grupy 33-35:
 1 tydzień:
 poniedz. godz. 8:30-10:00 semin.
@@ -1572,7 +1571,8 @@ poniedz. godz. 8:30-10:00 semin.
 poniedz. godz. 10:00-11:30 ćwicz.
 wtorek - środa godz. 8:30-10:45
 
-12. Torakochirurgia - Katedra i Klinika Chirurgii Klatki Piersiowej - 20ćw.:
+12. Torakochirurgia:
+Katedra i Klinika Chirurgii Klatki Piersiowej:
 Grupy 33-35:
 2 tydzień:
 poniedz. - piątek godz. 8:30-11:30
@@ -1598,7 +1598,8 @@ Grupy 36-38:
 14 tydzień:
 poniedz. - piątek godz. 8:30-11:30
 
-13. Chirurgia Dziecięca - Katedra i Klinika Chirurgii i Traumatologii Dziecięcej - 23ćw., 2sem.:
+13. Chirurgia Dziecięca:
+Katedra i Klinika Chirurgii i Traumatologii Dziecięcej:
 Grupy 33-35:
 1 tydzień:
 poniedz. godz. 11:45-13:15 semin.
@@ -1612,7 +1613,6 @@ poniedz. godz. 13:30-15:45 ćwicz.
 wtorek - środa godz. 11:00-14:45 ćwicz.
 czwartek - piątek godz. 8:30-12:15 ćwicz.
 Grupy 42-44:
-
 4 tydzień:
 poniedz. godz. 11:45-13:15 semin.
 poniedz. godz. 13:30-15:45 ćwicz.
@@ -1646,7 +1646,8 @@ poniedz. godz. 13:30-15:45 ćwicz.
 wtorek - środa godz. 11:00-14:45 ćwicz.
 czwartek - piątek godz. 8:30-12:15 ćwicz.
 
-14. Psychiatria - Katedra Psychiatrii - 34ćw., 16sem.:
+14. Psychiatria:
+Katedra Psychiatrii:
 Grupy 45-47:
 1 tydzień:
 poniedz. - piątek godz. 8:30-10:00 sem.
@@ -1722,8 +1723,6 @@ czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
 
 15. Anestezjologia:
-I Klinika Anestezjologii i Intensywnej Terapii: 19 ćw., 15 sem.
-Klinika Anestezjologii i Intensywnej Terapii Dziecięcej: 6ćw., 2 sem.
 Grupy 39-41:
 I Klinika Anestezjologii i Intensywnej Terapii:
 1 tydzień:

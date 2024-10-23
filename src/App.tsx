@@ -51,7 +51,7 @@ function App() {
           >
             {
               new Array(12).fill(null).map((_, i) => i + 1).map((week_number) => (
-                <option value={week_number}>{`Tydzień ${week_number}`}</option>
+                <option key={week_number} value={week_number}>{`Tydzień ${week_number}`}</option>
               ))
             }
           </select>
@@ -61,7 +61,7 @@ function App() {
           >
             {
               new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
-                <option value={group_number}>{`Grupa ${group_number}`}</option>
+                <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
               ))
             }
           </select>

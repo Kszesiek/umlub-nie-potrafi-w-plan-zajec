@@ -1,0 +1,476 @@
+{
+  "data": [
+    {
+      "groups": [
+        33,
+        34,
+        35
+      ],
+      "weeks": [
+        {
+          "week": 2,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        39,
+        40,
+        41
+      ],
+      "weeks": [
+        {
+          "week": 4,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        42,
+        43,
+        44
+      ],
+      "weeks": [
+        {
+          "week": 3,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        45,
+        46,
+        47
+      ],
+      "weeks": [
+        {
+          "week": 6,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        48,
+        49,
+        50
+      ],
+      "weeks": [
+        {
+          "week": 5,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        51,
+        52,
+        53
+      ],
+      "weeks": [
+        {
+          "week": 8,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        54,
+        55,
+        56
+      ],
+      "weeks": [
+        {
+          "week": 7,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groups": [
+        36,
+        37,
+        38
+      ],
+      "weeks": [
+        {
+          "week": 14,
+          "classes": [
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Monday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Tuesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Wednesday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Thursday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            },
+            {
+              "course_name": "Torakochirurgia",
+              "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+              "day": "Friday",
+              "start_time": "8:30",
+              "end_time": "11:30",
+              "type": "Ćwiczenia",
+              "location": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

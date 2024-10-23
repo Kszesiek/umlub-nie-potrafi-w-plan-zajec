@@ -1,0 +1,3198 @@
+{
+    "data": [
+        {
+            "groups": [
+                25,
+                26,
+                27
+            ],
+            "weeks": [
+                {
+                    "week": 1,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                25,
+                26,
+                27
+            ],
+            "weeks": [
+                {
+                    "week": 2,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "9:30",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                25,
+                26,
+                27
+            ],
+            "weeks": [
+                {
+                    "week": 1,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                26
+            ],
+            "weeks": [
+                {
+                    "week": 2,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                27
+            ],
+            "weeks": [
+                {
+                    "week": 1,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                25,
+                26,
+                27
+            ],
+            "weeks": [
+                {
+                    "week": 2,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Zakład Genetyki Klinicznej Katedry Genetyki Medycznej",
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                28,
+                29,
+                30
+            ],
+            "weeks": [
+                {
+                    "week": 1,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                28,
+                29,
+                30
+            ],
+            "weeks": [
+                {
+                    "week": 2,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "12:30",
+                            "end_time": "14:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                28,
+                29,
+                30
+            ],
+            "weeks": [
+                {
+                    "week": 1,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                29
+            ],
+            "weeks": [
+                {
+                    "week": 2,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "11:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                31,
+                32
+            ],
+            "weeks": [
+                {
+                    "week": 5,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                31,
+                32
+            ],
+            "weeks": [
+                {
+                    "week": 6,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "9:30",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                31,
+                32
+            ],
+            "weeks": [
+                {
+                    "week": 5,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                32
+            ],
+            "weeks": [
+                {
+                    "week": 6,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Zakład Genetyki Klinicznej Katedry Genetyki Medycznej",
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                1,
+                2,
+                3
+            ],
+            "weeks": [
+                {
+                    "week": 8,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                1,
+                2,
+                3
+            ],
+            "weeks": [
+                {
+                    "week": 9,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "12:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "9:30",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                1,
+                2,
+                3
+            ],
+            "weeks": [
+                {
+                    "week": 8,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                2
+            ],
+            "weeks": [
+                {
+                    "week": 9,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                3
+            ],
+            "weeks": [
+                {
+                    "week": 8,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                1,
+                2,
+                3
+            ],
+            "weeks": [
+                {
+                    "week": 9,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Zakład Genetyki Klinicznej Katedry Genetyki Medycznej",
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                4,
+                5,
+                6
+            ],
+            "weeks": [
+                {
+                    "week": 8,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                4,
+                5,
+                6
+            ],
+            "weeks": [
+                {
+                    "week": 9,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "12:30",
+                            "end_time": "14:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                4,
+                5,
+                6
+            ],
+            "weeks": [
+                {
+                    "week": 8,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                5
+            ],
+            "weeks": [
+                {
+                    "week": 9,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "11:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                7,
+                8,
+                9
+            ],
+            "weeks": [
+                {
+                    "week": 10,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                7,
+                8,
+                9
+            ],
+            "weeks": [
+                {
+                    "week": 11,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "9:30",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                7,
+                8,
+                9
+            ],
+            "weeks": [
+                {
+                    "week": 10,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                8
+            ],
+            "weeks": [
+                {
+                    "week": 11,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                9
+            ],
+            "weeks": [
+                {
+                    "week": 10,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                7,
+                8,
+                9
+            ],
+            "weeks": [
+                {
+                    "week": 11,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Zakład Genetyki Klinicznej Katedry Genetyki Medycznej",
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                10,
+                11,
+                12
+            ],
+            "weeks": [
+                {
+                    "week": 10,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                10,
+                11,
+                12
+            ],
+            "weeks": [
+                {
+                    "week": 11,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "12:30",
+                            "end_time": "14:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                10,
+                11,
+                12
+            ],
+            "weeks": [
+                {
+                    "week": 10,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                11
+            ],
+            "weeks": [
+                {
+                    "week": 11,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "11:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                13,
+                14,
+                15
+            ],
+            "weeks": [
+                {
+                    "week": 12,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                13,
+                14,
+                15
+            ],
+            "weeks": [
+                {
+                    "week": 13,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "9:30",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                13,
+                14,
+                15
+            ],
+            "weeks": [
+                {
+                    "week": 12,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                14
+            ],
+            "weeks": [
+                {
+                    "week": 13,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                15
+            ],
+            "weeks": [
+                {
+                    "week": 12,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                13,
+                14,
+                15
+            ],
+            "weeks": [
+                {
+                    "week": 13,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Zakład Genetyki Klinicznej Katedry Genetyki Medycznej",
+                            "day": "Monday",
+                            "start_time": "15:00",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                16,
+                17,
+                18
+            ],
+            "weeks": [
+                {
+                    "week": 12,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                16,
+                17,
+                18
+            ],
+            "weeks": [
+                {
+                    "week": 13,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "12:30",
+                            "end_time": "14:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                16,
+                17,
+                18
+            ],
+            "weeks": [
+                {
+                    "week": 12,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                17
+            ],
+            "weeks": [
+                {
+                    "week": 13,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "11:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                19,
+                20,
+                21
+            ],
+            "weeks": [
+                {
+                    "week": 14,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                19,
+                20,
+                21
+            ],
+            "weeks": [
+                {
+                    "week": 15,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "8:00",
+                            "end_time": "10:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "10:15",
+                            "end_time": "11:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "10:15",
+                            "end_time": "13:15",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "9:30",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Friday",
+                            "start_time": "9:30",
+                            "end_time": "11:00",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                19,
+                20,
+                21
+            ],
+            "weeks": [
+                {
+                    "week": 14,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                20
+            ],
+            "weeks": [
+                {
+                    "week": 15,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                21
+            ],
+            "weeks": [
+                {
+                    "week": 14,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "15:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                19,
+                20,
+                21
+            ],
+            "weeks": [
+                {
+                    "week": 15,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Zakład Genetyki Klinicznej Katedry Genetyki Medycznej",
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                22,
+                23,
+                24
+            ],
+            "weeks": [
+                {
+                    "week": 14,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Thursday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                22,
+                23,
+                24
+            ],
+            "weeks": [
+                {
+                    "week": 15,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "12:00",
+                            "end_time": "14:15",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Monday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Tuesday",
+                            "start_time": "14:15",
+                            "end_time": "15:45",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Wednesday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Zakład Medycyny Rodzinnej",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Friday",
+                            "start_time": "14:15",
+                            "end_time": "16:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "12:30",
+                            "end_time": "14:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra i Klinika Rehabilitacji i Ortopedii",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        },
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych",
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "15:30",
+                            "type": "Seminarium",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "groups": [
+                22,
+                23,
+                24
+            ],
+            "weeks": [
+                {
+                    "week": 14,
+                    "classes": []
+                }
+            ]
+        },
+        {
+            "groups": [
+                23
+            ],
+            "weeks": [
+                {
+                    "week": 15,
+                    "classes": [
+                        {
+                            "course_name": "Medycyna Rodzinna",
+                            "katedra": "Katedra Dietetyki i Bioanalityki",
+                            "day": "Friday",
+                            "start_time": "8:00",
+                            "end_time": "11:00",
+                            "type": "Ćwiczenia",
+                            "location": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
