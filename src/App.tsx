@@ -10,10 +10,12 @@ import useWindowDimensions from "./utils/useWindowDimensions";
 
 function App() {
   const data: GroupClasses[] = []
+
+
   data.push(...dataObjectSchema.parse(ginekologia).data);
 
-  const [chosenWeek, setChosenWeek] = useState<number | null>(null);
-  const [chosenGroup, setChosenGroup] = useState<number | null>(null);
+  const [chosenWeek, setChosenWeek] = useState<number>(1);
+  const [chosenGroup, setChosenGroup] = useState<number>(1);
 
   const { height, width } = useWindowDimensions();
 

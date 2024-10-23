@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14651cdc-1f61-49bd-a48d-c9a06a7f459f" name="Changes" comment="apparently crucial line for deployment in package.json">
-      <change afterPath="$PROJECT_DIR$/src/utils/useWindowDimensions.ts" afterDir="false" />
+    <list default="true" id="14651cdc-1f61-49bd-a48d-c9a06a7f459f" name="Changes" comment="Visual enhancements">
+      <change afterPath="$PROJECT_DIR$/src/data/chirurgia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/laryngologia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/onkologia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/transplantologia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt_to_json_converter/input_schedule_all_raw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt_to_json_converter/input_schedule_struktura.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ScheduleColumn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScheduleColumn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/ginekologia.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/ginekologia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schemas/GroupClassesSchema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/schemas/GroupClassesSchema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt_to_json_converter/input_schedule.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt_to_json_converter/input_schedule.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt_to_json_converter/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/txt_to_json_converter/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt_to_json_converter/schedules/ginekologia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt_to_json_converter/schedules/ginekologia.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +97,8 @@
       <updated>1728462766950</updated>
       <workItem from="1728462768252" duration="72000" />
       <workItem from="1728655206973" duration="28657000" />
+      <workItem from="1729004811599" duration="10000" />
+      <workItem from="1729710598224" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="github pages setup">
       <option name="closed" value="true" />
@@ -106,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728761338267</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Visual enhancements">
+      <option name="closed" value="true" />
+      <created>1728762949373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728762949373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github pages setup" />
     <MESSAGE value="apparently crucial line for deployment in package.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="apparently crucial line for deployment in package.json" />
+    <MESSAGE value="Visual enhancements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Visual enhancements" />
   </component>
 </project>

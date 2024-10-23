@@ -1,0 +1,101 @@
+STRUKTURA
+
+1. Ginekologia:
+
+Grupy XX-XX:
+xx-xx tydzień:
+
+Ćwiczenia/Seminaria godz. XX:XX-XX:XX - przez XX dni - <miejsce>
+albo
+Aula/Sala XXX - poniedziałek, ...
+
+2. Onkologia:
+Grupy XX-XX:
+Katedra/Zakład XXX:
+XX tydzień:
+poniedz. - piątek godz. XX:XX-XX:XX ćwicz.
+poniedz. - piątek godz. XX:XX-XX:XX semin. grupy X-X
+poniedz. - piątek godz. XX:XX-XX:XX semin. grupy X-X + X-X
+
+3. Chirurgia:
+Grupy XX-XX:
+XX tydzień:
+poniedz. - środa godz. XX:XX-XX:XX semin. dla grup X-X + X-X <- o co w tym chodzi? za każdym razem jak to widzę to sumarycznie pokrywa się z grupami określonymi wyżej
+poniedz. - środa godz. XX:XX-XX:XX ćwicz.
+czwartek godz. XX:XX-XX:XX ćwicz.
+
+4. Laryngologia:
+Grupy XX-XX:
+Katedra/Klinika XXX:
+XX tydzień:
+poniedz. godz. XX:XX-XX:XX ćwicz./sem.
+
+5. Transplantologia:
+Grupy XX-XX:
+XX tydzień:
+piątek godz. XX:XX-XX:XX ćwicz./sem.
+
+6. Medycyna Sądowa:
+Grupy XX-XX + XX-XX:
+XX tydzień:
+poniedz. - piątek godz. XX:XX-XX:XX ćwicz./sem. dwie grupy <- WTF?! co to znaczy w ogóle?
+
+7. Urologia:
+Grupy XX-XX:
+XX tydzień:
+wtorek - środa godz. XX:XX-XX:XX ćwicz./sem.
+poniedz. godz. XX:XX-XX:XX ćwicz./sem.
+
+8. Neurochirurgia
+Grupy XX-XX:
+XX tydzień:
+poniedz. - środa godz. XX:XX-XX:XX ćwicz./sem.
+
+9. Medycyna Rodzinna:
+Grupy XX-XX:
+Pracownia/Katedra/Zakład XXX:
+XX tydzień:
+poniedz. - piątek godz. XX:XX-XX:XX ćwicz./semin.
+
+albo
+
+Pracownia/Katedra/Zakład XXX:
+XX tydzień:
+Grupa XX:   <- ważne! tu jest czasem zgrupowane, trzeba rozpisać na pojedyncze wpisy!
+poniedz. godz. XX:XX-XX:XX
+
+10. Pediatria:
+Grupy XX-XX:
+XX tydzień:
+poniedz. - wtorek godz. XX:XX-XX:XX semin./ćwicz. <opcjonalnie miejsce, w zdecydowanej wielkości przypadków AULA USZD>
+
+11. Kardiochirurgia:
+Grupy XX-XX:
+XX tydzień:
+poniedz. godz. XX:XX-XX:XX semin./ćwicz.
+wtorek - środa godz. XX:XX-XX:XX semin./ćwicz./<brak info>
+
+12. Torakochirurgia:
+Grupy XX-XX:
+XX tydzień:
+poniedz. - piątek godz. XX:XX-XX:XX
+
+13. Chirurgia Dziecięca:
+Grupy XX-XX:
+XX tydzień:
+poniedz. godz. XX:XX-XX:XX semin./ćwicz.
+wtorek - środa godz. XX:XX-XX:XX semin./ćwicz.
+
+14. Prychiatria:
+Grupy XX-XX:
+XX tydzień:
+piątek godz. XX:XX-XX:XX sem./ćw.
+poniedz. - piątku godz. XX:XX-XX:XX sem./ćw.
+
+15. Anestezjologia:
+Grupy XX-XX:
+Klinika XXX:
+XX tydzień:
+wtorek, środa, czwartek godz. XX:XX-XX:XX ćwicz. 
+piątek godz. XX:XX-XX:XX ćwicz.
+poniedziałek - piątek godz. XX:XX-XX:XX semin.
