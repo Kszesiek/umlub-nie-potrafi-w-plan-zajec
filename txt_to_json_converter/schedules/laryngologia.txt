@@ -1,0 +1,273 @@
+4. Laryngologia:
+Grupy 16-18:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+1 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+1 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+1 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 42-44:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+2 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+2 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+2 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 54-56:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+2 tydzień:
+czwartek godz. 8:30-10:45 ćwicz.
+czwartek godz. 10:45-12:15 sem.
+piątek godz. 8:30-10:00 ćwicz.
+
+piątek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+2 tydzień:
+wtorek godz. 8:30-10:45 ćwicz.
+wtorek godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+2 tydzień:
+środa godz. 8:30-12:15 sem.
+Grupy 45-47:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+3 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+3 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+3 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 48-50:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+3 tydzień:
+czwartek godz. 8:30-10:45 ćwicz.
+czwartek godz. 10:45-12:15 sem.
+piątek godz. 8:30-10:00 ćwicz.
+piątek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+3 tydzień:
+wtorek godz. 8:30-10:45 ćwicz.
+wtorek godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+3 tydzień:
+środa godz. 8:30-12:15 sem.
+Grupy 4-6:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+5 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+5 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+5 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 7-9:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+7 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+7 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+7 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 10-12:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+7 tydzień:
+czwartek godz. 8:30-10:45 ćwicz.
+czwartek godz. 10:45-12:15 sem.
+piątek godz. 8:30-10:00 ćwicz.
+piątek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+7 tydzień:
+wtorek godz. 8:30-10:45 ćwicz.
+wtorek godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+7 tydzień:
+środa godz. 8:30-12:15 sem.
+Grupy 37-39:
+
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+8 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+8 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+8 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 40-41:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+2 tydzień:
+czwartek godz. 8:30-10:45 ćwicz.
+czwartek godz. 10:45-12:15 sem.
+piątek godz. 8:30-10:00 ćwicz.
+piątek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+2 tydzień:
+wtorek godz. 8:30-10:45 ćwicz.
+wtorek godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+2 tydzień:
+środa godz. 8:30-12:15 sem.
+Grupy 13-15:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+9 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+9 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+
+9 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 19-21:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+10 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+10 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+10 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 22-24:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+11 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+11 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+11 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 31-33:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+12 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+12 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+12 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 34-36:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+12 tydzień:
+czwartek godz. 8:30-10:45 ćwicz.
+czwartek godz. 10:45-12:15 sem.
+piątek godz. 8:30-10:00 ćwicz.
+piątek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+12 tydzień:
+wtorek godz. 8:30-10:45 ćwicz.
+wtorek godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+12 tydzień:
+środa godz. 8:30-12:15 sem.
+Grupy 25-27:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+13 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+13 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+13 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 28-30:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+13 tydzień:
+czwartek godz. 8:30-10:45 ćwicz.
+czwartek godz. 10:45-12:15 sem.
+piątek godz. 8:30-10:00 ćwicz.
+piątek godz. 10:00-12:15 sem.
+
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+13 tydzień:
+wtorek godz. 8:30-10:45 ćwicz.
+wtorek godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+13 tydzień:
+środa godz. 8:30-12:15 sem.
+Grupy 1-3:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+14 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+14 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+14 tydzień:
+czwartek godz. 8:30-12:15 sem.
+Grupy 51-53:
+Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
+15 tydzień:
+poniedz. godz. 8:30-10:45 ćwicz.
+poniedz. godz. 10:45-12:15 sem.
+wtorek godz. 8:30-10:00 ćwicz.
+wtorek godz. 10:00-12:15 sem.
+Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii:
+15 tydzień:
+środa godz. 8:30-10:45 ćwicz.
+środa godz. 10:45-12:15 sem.
+Katedra i Klinika Chirurgii Szczękowo-Twarzowej:
+15 tydzień:
+czwartek godz. 8:30-12:15 sem.

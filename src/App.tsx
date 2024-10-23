@@ -2,22 +2,17 @@ import React, {useState} from 'react';
 import './App.css';
 import {ScheduleColumn} from "./components/ScheduleColumn";
 import {hours} from "./constants/hours";
-
-import ginekologia from "./data/ginekologia.json";
-import {dataObjectSchema} from "./schemas/DataObjectSchema";
 import {GroupClasses} from "./schemas/GroupClassesSchema";
 import useWindowDimensions from "./utils/useWindowDimensions";
+import {getData} from "./data";
 
 function App() {
-  const data: GroupClasses[] = []
-
-
-  data.push(...dataObjectSchema.parse(ginekologia).data);
+  const data: GroupClasses[] = getData();
 
   const [chosenWeek, setChosenWeek] = useState<number>(1);
   const [chosenGroup, setChosenGroup] = useState<number>(1);
 
-  const { height, width } = useWindowDimensions();
+  const {height, width} = useWindowDimensions();
 
   return (
     <div className="App">
@@ -42,7 +37,8 @@ function App() {
           </div>
         </div>
         <div className="App-table">
-          <ScheduleColumn columnName="Poniedziałek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName="Poniedziałek" groupClasses={data} chosenGroup={chosenGroup}
+                          chosenWeek={chosenWeek}/>
           <ScheduleColumn columnName="Wtorek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
           <ScheduleColumn columnName="Środa" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
           <ScheduleColumn columnName="Czwartek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
