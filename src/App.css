@@ -65,24 +65,77 @@
             border: 2px solid gold;
         }
 
-        .App-settings {
+        .App-right-bar-wrapper {
             display: flex;
             flex-direction: column;
-            padding: 16px;
             flex: 1;
-            border-radius: 16px;
-            box-shadow: gray 4px 4px 12px;
-            align-items: stretch;
+            gap: 16px;
 
-            p {
-                font-size: calc(10px + 1vmin);
-                margin-bottom: 8px;
+            .App-settings {
+                display: flex;
+                flex-direction: column;
+                padding: 16px 16px 32px;
+                border-radius: 16px;
+                box-shadow: gray 4px 4px 12px;
+                align-items: stretch;
+
+                p {
+                    font-size: calc(10px + 1vmin);
+                    margin: 8px 0;
+                }
+
+                select {
+                    font-size: calc(8px + 1vmin);
+                    padding-top: 4px;
+                    padding-bottom: 4px;
+                }
             }
 
-            select {
-                font-size: calc(8px + 1vmin);
-                padding-top: 4px;
-                padding-bottom: 4px;
+            .App-sidebar-wrapper {
+                border-radius: 16px;
+                box-shadow: gray 4px 4px 12px;
+                overflow: hidden;
+
+                .App-sidebar-info-container {
+                    display: flex;
+                    flex-direction: row;
+                    padding: 16px;
+                    border-radius: 16px;
+                    justify-content: center;
+                    align-items: center;
+                    gap: 8px;
+                    box-shadow: inset 0 0 16px rgba(0, 128, 255, 1); /* Inner glow effect */
+                    background-color: rgba(0, 128, 255, 0.1);
+
+                    p {
+                        font-size: 15px;
+                    }
+                }
+
+                .App-sidebar-warning-container {
+                    display: flex;
+                    flex-direction: column;
+                    padding: 16px;
+                    border-radius: 16px;
+                    align-items: start;
+                    box-shadow: inset 0 0 24px rgba(255, 200, 0, 1); /* Inner glow effect */
+                    background-color: rgba(255, 215, 0, 0.1);
+
+                    .App-sidebar-warning-title {
+                        align-self: stretch;
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: center;
+
+                        h3 {
+                            margin: 0 16px;
+                        }
+                    }
+
+                    p {
+                        font-size: 14px;
+                    }
+                }
             }
         }
     }

@@ -5,11 +5,17 @@ import {hours} from "./constants/hours";
 import {GroupClasses} from "./schemas/GroupClassesSchema";
 import useWindowDimensions from "./utils/useWindowDimensions";
 import {getData} from "./data";
+import {FaCircleInfo, FaTriangleExclamation} from "react-icons/fa6";
 
 function App() {
   const data: GroupClasses[] = getData();
 
-  const [chosenWeek, setChosenWeek] = useState<number>(1);
+  const date1 = new Date();
+  const date2 = new Date(2024, 8, 28);
+  const diff = Math.abs(date1.getTime() - date2.getTime());
+  const diffWeek = Math.ceil(diff / (1000 * 3600 * 24 * 7));
+
+  const [chosenWeek, setChosenWeek] = useState<number>(diffWeek);
   const [chosenGroup, setChosenGroup] = useState<number>(1);
 
   const {height, width} = useWindowDimensions();
@@ -30,8 +36,8 @@ function App() {
                 return null;
               }
               return <>
-                {index !== 0 && <div style={{flex: 1}}/>}
-                <p className="App-hours-label" style={{top: 0}}>{hour}</p>
+                {index !== 0 && <div key={`gap-${index}`} style={{flex: 1}}/>}
+                <p key={`p-${index}`} className="App-hours-label" style={{top: 0}}>{hour}</p>
               </>
             })}
           </div>
@@ -44,27 +50,41 @@ function App() {
           <ScheduleColumn columnName="Czwartek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
           <ScheduleColumn columnName="Piątek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
         </div>
-        <div className="App-settings">
-          <p>Wybierz numer tygodnia:</p>
-          <select
-            onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}
-          >
-            {
-              new Array(12).fill(null).map((_, i) => i + 1).map((week_number) => (
-                <option key={week_number} value={week_number}>{`Tydzień ${week_number}`}</option>
-              ))
-            }
-          </select>
-          <p>Wybierz numer grupy:</p>
-          <select
-            onChange={(newChosenGroup) => setChosenGroup(Number(newChosenGroup.target.value))}
-          >
-            {
-              new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
-                <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
-              ))
-            }
-          </select>
+        <div className="App-right-bar-wrapper">
+          <div className="App-settings">
+            <p>Wybierz numer tygodnia:</p>
+            <select defaultValue={chosenWeek} onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
+              {
+                new Array(12).fill(null).map((_, i) => i + 1).map((week_number) => (
+                  <option key={week_number} value={week_number}>{`Tydzień ${week_number}`}</option>
+                ))
+              }
+            </select>
+            <p>Wybierz numer grupy:</p>
+            <select onChange={(newChosenGroup) => setChosenGroup(Number(newChosenGroup.target.value))}>
+              {
+                new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
+                  <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
+                ))
+              }
+            </select>
+          </div>
+          <div className="App-sidebar-wrapper">
+            <div className="App-sidebar-info-container">
+              <FaCircleInfo size={24} color="#0080FFFF" />
+              <p>Wersja mobilna już wkrótce!</p>
+            </div>
+          </div>
+          <div className="App-sidebar-wrapper">
+            <div className="App-sidebar-warning-container">
+              <div className="App-sidebar-warning-title">
+                <FaTriangleExclamation size={24} color="#FFC000"/>
+                <h3>Uwaga!</h3>
+                <FaTriangleExclamation size={24} color="#FFC000"/>
+              </div>
+              <p><b>Wyświetlane dane mogą zawierać błędy</b>, ponieważ zostały uzyskane w częściowo zautomatyzowany sposób. W razie zauważenia nieprawidłowości napisz proszę maila na adres <a href="mailto:kszesiek@gmail.com">kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu problemu zawrzeć w mailu informację dla której grupy, tygodnia oraz których zajęć problem występuje. Nie jestem w stanie sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy, ile błędów zostanie wychwyconych i naprawionych. 🤗</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
