@@ -51,36 +51,38 @@ function App() {
           <ScheduleColumn columnName="Piątek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
         </div>
         <div className="App-right-bar-wrapper">
-          <div className="App-settings">
-            <p>Wybierz numer tygodnia:</p>
-            <select defaultValue={chosenWeek} onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
-              {
-                new Array(12).fill(null).map((_, i) => i + 1).map((week_number) => (
-                  <option key={week_number} value={week_number}>{`Tydzień ${week_number}`}</option>
-                ))
-              }
-            </select>
-            <p>Wybierz numer grupy:</p>
-            <select onChange={(newChosenGroup) => setChosenGroup(Number(newChosenGroup.target.value))}>
-              {
-                new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
-                  <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
-                ))
-              }
-            </select>
+          <div className="Shadow-wrapper">
+              <div className="App-settings Info-container">
+                <p>Wybierz numer tygodnia:</p>
+                <select defaultValue={chosenWeek} onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
+                  {
+                    new Array(12).fill(null).map((_, i) => i + 1).map((week_number) => (
+                      <option key={week_number} value={week_number}>{`Tydzień ${week_number}`}</option>
+                    ))
+                  }
+                </select>
+                <p>Wybierz numer grupy:</p>
+                <select onChange={(newChosenGroup) => setChosenGroup(Number(newChosenGroup.target.value))}>
+                  {
+                    new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
+                      <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
+                    ))
+                  }
+                </select>
+              </div>
           </div>
           <div className="App-sidebar-wrapper">
-            <div className="App-sidebar-info-container">
+            <div className="App-sidebar-container Info-container">
               <FaCircleInfo size={24} color="#0080FFFF" />
               <p>Wersja mobilna już wkrótce!</p>
             </div>
           </div>
           <div className="App-sidebar-wrapper">
-            <div className="App-sidebar-warning-container">
+            <div className="App-sidebar-warning-container Error-container">
               <div className="App-sidebar-warning-title">
-                <FaTriangleExclamation size={24} color="#FFC000"/>
+                <FaTriangleExclamation size={24} color="red"/>
                 <h3>Uwaga!</h3>
-                <FaTriangleExclamation size={24} color="#FFC000"/>
+                <FaTriangleExclamation size={24} color="red" /*#FFC000*/ />
               </div>
               <p><b>Wyświetlane dane mogą zawierać błędy</b>, ponieważ zostały uzyskane w częściowo zautomatyzowany sposób. W razie zauważenia nieprawidłowości napisz proszę maila na adres <a href="mailto:kszesiek@gmail.com">kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu problemu zawrzeć w mailu informację dla której grupy, tygodnia oraz których zajęć problem występuje. Nie jestem w stanie sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy, ile błędów zostanie wychwyconych i naprawionych. 🤗</p>
             </div>

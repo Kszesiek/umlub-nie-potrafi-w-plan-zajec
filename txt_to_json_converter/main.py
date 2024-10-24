@@ -1,3 +1,7 @@
+# Online Python Playground
+# Use the online IDE to write, edit & run your Python code
+# Create, edit & delete files online
+
 import json
 from datetime import timedelta, date
 import re
@@ -76,12 +80,24 @@ def parse_schedule_text(file_path):
 
         if bool(re.match(r"^\d+\. ", line)):  # new course
             save_classes()
+
+            groups = []
+            katedra = None
+            weeks = []
+            weekdays = []
+            location = None
+
             course_name = re.search(r"\d+\.\s+(.+?):", line).group(1)
 
         elif line.startswith("Grupy"):
             save_classes()
-            groups_range = line.split("Grupy ")[1].replace(":", "").split("-")
+            groups_range = line.split("Grupy ")[1].replace(":", "").split(" ")[0].split("-")
             groups = list(range(int(groups_range[0]), int(groups_range[1]) + 1)) if len(groups_range) > 1 else [int(groups_range[0])]
+            more_groups_line = line.split(" + ")
+            if len(more_groups_line) > 1:
+                more_groups_range = line.split(" + ")[1].replace(":", "").split("-")
+                more_groups = list(range(int(more_groups_range[0]), int(more_groups_range[1]) + 1))
+                groups = [*groups, *more_groups]
 
         elif line.startswith("Grupa"):
             save_classes()
@@ -107,7 +123,8 @@ def parse_schedule_text(file_path):
 
         elif line.startswith("Aula") or line.startswith("Sala"): # or line.startswith("Katedra") or line.startswith("Klinika") or line.startswith("Zakład"):
             location = line.split(" - ")[0]
-            if len(line.split(" - ")) == 0:
+            if len(line.split(" - ")) <= 1:
+                temp = line.split(" - ")
                 print(line)
             weekdays_raw = line.split(" - ")[1].split(", ")
 
@@ -163,8 +180,10 @@ def parse_schedule_text(file_path):
                         weekdays.append(days_map[weekday_max_phrase])
 
                 else:
-                    # TODO: dorobić
-                    pass
+                    for weekday_phrase in days_indices:
+                        if days_indices[weekday_phrase] > -1:
+                            weekdays.append(days_map[weekday_phrase])
+                    print(days_indices)
 
             location_index = max(line.find("Aula"), line.find("Sala"), line.find("Katedra"), line.find("Klinika"),
                                  line.find("Zakład"))
@@ -174,7 +193,7 @@ def parse_schedule_text(file_path):
                 location = None
 
         # Check if we have enough information to add to schedule
-        if groups and weeks and time and class_type:
+        if groups and weeks and katedra and time and class_type:
             for item in week_items:
                 start_day = date(2024, 9, 30) + timedelta(weeks=item["week"] - 1)
                 class_entries = generate_detailed_class_entries(course_name, katedra, start_day, weekdays[:5], time, class_type, location)

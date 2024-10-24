@@ -1,12 +1,11 @@
 STRUKTURA
 
 1. Ginekologia:
-
+Katedra/Klinika/...:
 Grupy XX-XX:
 xx-xx tydzień:
-
-Ćwiczenia/Seminaria godz. XX:XX-XX:XX - przez XX dni - <miejsce>
-albo
+Ćwicz./Semin. godz. XX:XX-XX:XX - przez XX dni
+Ćwicz./Semin. godz. XX:XX-XX:XX - przez XX dni - <miejsce>
 Aula/Sala XXX - poniedziałek, ...
 
 2. Onkologia:
@@ -15,12 +14,12 @@ Katedra/Zakład XXX:
 XX tydzień:
 poniedz. - piątek godz. XX:XX-XX:XX ćwicz.
 poniedz. - piątek godz. XX:XX-XX:XX semin. grupy X-X
-poniedz. - piątek godz. XX:XX-XX:XX semin. grupy X-X + X-X
+poniedz. - piątek godz. XX:XX-XX:XX semin. grupy X-X + X-X <- te grupy są bez sensu, ale mogą zostać póki co
 
 3. Chirurgia:
 Grupy XX-XX:
 XX tydzień:
-poniedz. - środa godz. XX:XX-XX:XX semin. dla grup X-X + X-X <- o co w tym chodzi? za każdym razem jak to widzę to sumarycznie pokrywa się z grupami określonymi wyżej
+poniedz. - środa godz. XX:XX-XX:XX semin. dla grup X-X + X-X <- te grupy są bez sensu, ale mogą zostać póki cookreślonymi wyżej
 poniedz. - środa godz. XX:XX-XX:XX ćwicz.
 czwartek godz. XX:XX-XX:XX ćwicz.
 
@@ -38,7 +37,7 @@ piątek godz. XX:XX-XX:XX ćwicz./sem.
 6. Medycyna Sądowa:
 Grupy XX-XX + XX-XX:
 XX tydzień:
-poniedz. - piątek godz. XX:XX-XX:XX ćwicz./sem. dwie grupy <- WTF?! co to znaczy w ogóle?
+poniedz. - piątek godz. XX:XX-XX:XX ćwicz./sem. dwie grupy <- ignorujemy te grupy
 
 7. Urologia:
 Grupy XX-XX:
@@ -67,7 +66,7 @@ poniedz. godz. XX:XX-XX:XX
 10. Pediatria:
 Grupy XX-XX:
 XX tydzień:
-poniedz. - wtorek godz. XX:XX-XX:XX semin./ćwicz. <opcjonalnie miejsce, w zdecydowanej wielkości przypadków AULA USZD>
+poniedz. - wtorek godz. XX:XX-XX:XX semin./ćwicz. <opcjonalnie miejsce, w zdecydowanej większości przypadków AULA USZD>
 
 11. Kardiochirurgia:
 Grupy XX-XX:

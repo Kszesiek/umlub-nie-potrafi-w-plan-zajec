@@ -1,8 +1,4 @@
-Lekarski 5 rok zima 2024/2025:
-Lekarski
-rok zima 2024/2025:
-1. Ginekologia 30ćw., 18sem.:
-
+1. Ginekologia:
 I Katedra i Klinika Ginekologii Onkologicznej i Ginekologii:
 Grupy 43-46:
 9-10 tydzień:
@@ -46,16 +42,16 @@ Aula „A” PSK 4 - poniedziałek, wtorek, środa
 Aula „U” PSK 4 - czwartek, piątek
 Grupy 22-24:
 5 tydzień:
-Ćwicz. godz. 10:45-13:00 – przez 10 dni
-Semin. godz. 13:15-14:45 – przez 9 dni
-Aula „R” PSK 4 – poniedziałek, czwartek, piątek
-Aula „U” PSK 4 – wtorek, środa
+Ćwicz. godz. 10:45-13:00 - przez 10 dni
+Semin. godz. 13:15-14:45 - przez 9 dni
+Aula „R” PSK 4 - poniedziałek, czwartek, piątek
+Aula „U” PSK 4 - wtorek, środa
 6 tydzień:
-Ćwicz. godz. 10:45-13:00 – przez 10 dni
-Semin. godz. 13:15-14:45 – przez 9 dni
-Aula „R” PSK 4 – poniedziałek, piątek
-Aula „A” PSK 4 – czwartek
-Aula „U” PSK 4 – wtorek, środa
+Ćwicz. godz. 10:45-13:00 - przez 10 dni
+Semin. godz. 13:15-14:45 - przez 9 dni
+Aula „R” PSK 4 - poniedziałek, piątek
+Aula „A” PSK 4 - czwartek
+Aula „U” PSK 4 - wtorek, środa
 Grupy 53-56:
 11-12 tydzień:
 Ćwicz. godz. 10:45-13:00 - przez 10 dni
@@ -90,7 +86,7 @@ Grupy 1-3:
 1-2 tydzień:
 Ćwicz. godz. 10:45-13:00 - przez 10 dni
 Semin. godz. 13:15-14:45 - przez 9 dni
-Sala sem I 2 - wtorek, środa, czwartek i piątek
+Sala sem I 2 - wtorek, środa, czwartek, piątek
 Aula PATHO 1 górna - poniedziałek
 Grupy 10-12:
 3-4 tydzień:
@@ -103,7 +99,7 @@ Grupy 19-21:
 5-6 tydzień:
 Ćwicz. godz. 8:15-10:30 - przez 10 dni
 Semin. godz. 10:45-12:15 - przez 9 dni
-Aula „A” PSK 4 - wtorek, środa i piątek
+Aula „A” PSK 4 - wtorek, środa, piątek
 Sala sem I 2 - czwartek
 Aula PATHO 1 górna - poniedziałek
 Grupy 28-30:
@@ -118,7 +114,7 @@ Grupy 47-49:
 11-12 tydzień:
 Ćwicz. godz. 10:45-13:00 - przez 10 dni
 Semin. godz. 13:15-14:45 - przez 9 dni
-Aula „R” PSK 4 - poniedziałek, środa, czwartek i piątek
+Aula „R” PSK 4 - poniedziałek, środa, czwartek, piątek
 Aula „U” PSK 4 - wtorek
 
 2. Onkologia:
@@ -412,9 +408,6 @@ czwartek - piątek godz. 8:15-10:30 ćwicz.
 poniedz. - czwartek godz. 8:15-10:30 ćwicz.
 
 4. Laryngologia:
-Katedra i Kinika Otolaryngologii i Onkologii Laryngologicznej: 5ćw., 5sem.
-Katedra i Klinika Otolaryngologii Dziecięcej, Foniatrii i Audiologii: 3ćw., 2sem.
-Katedra i Klinika Chirurgii Szczękowo-Twarzowej: 5sem.
 Grupy 16-18:
 Katedra i Klinika Otolaryngologii i Onkologii Laryngologicznej:
 1 tydzień:
@@ -762,7 +755,7 @@ piątek godz. 8:15-12:00 ćwicz.
 piątek godz. 12:00-15:45 sem.
 
 6. Medycyna Sądowa:
-Katedra BRAKUJE DANYCH (a coś musi być wpisane):
+Katedra Medycyny Sądowej:
 Grupy 51-53 + 13-15:
 1 tydzień:
 poniedz. - piątek godz. 8:30-13:00 ćwicz. dwie grupy
@@ -1091,7 +1084,6 @@ poniedz. - piątek godz. 10:15-11:45 semin.
 poniedz. - czwartek godz. 8:00-10:15 ćwicz.
 poniedz. - środa godz. 10:15-11:45 semin.
 czwartek godz. 10:15-12:30 semin.
-
 Katedra i Klinika Rehabilitacji i Ortopedii:
 9 tydzień:
 piątek godz. 8:00-9:30 ćwicz.
@@ -1145,7 +1137,6 @@ Grupa 4:
 poniedz. godz. 8:00-10:15
 Grupa 5:
 wtorek godz. 8:00-10:15
-
 Grupa 6:
 środa godz. 8:00-10:15
 Katedra Dietetyki i Bioanalityki:
@@ -1746,13 +1737,14 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 4 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 51:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 52:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 53:
 piątek godz. 8:30-13:00 ćwicz.
-poniedziałek godz. 13:00-14:30 semin.
+
 Grupy 54-56:
 I Klinika Anestezjologii i Intensywnej Terapii:
 4 tydzień:
