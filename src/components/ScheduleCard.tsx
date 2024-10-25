@@ -9,6 +9,8 @@ export function ScheduleCard({singleClass, top, bottom}: { singleClass: SingleCl
         return 'lightskyblue';
       case "Seminarium":
         return 'gold';
+      case "Wykład":
+        return 'mediumpurple';
       default:
         return "lightgray";
     }
