@@ -1,7 +1,3 @@
-# Online Python Playground
-# Use the online IDE to write, edit & run your Python code
-# Create, edit & delete files online
-
 import json
 from datetime import timedelta, date
 import re
@@ -18,7 +14,7 @@ days_map = {
     "piątek": "Friday",
 }
 
-GROUPS = [i for i in range(1, 55)]
+GROUPS = [i for i in range(1, 57)]
 WEEKS = [i for i in range(1, 20)]
 
 
@@ -109,9 +105,9 @@ def parse_schedule_text(file_path):
             course_name = re.search(r"\d+\.\s+(.+?):", line).group(1)
 
         elif line.startswith("Grupy"):
-            groups_range = line.split("Grupy ")[1].replace(":", "").split(" ")[0].split("-")
-            groups = list(range(int(groups_range[0]), int(groups_range[1]) + 1)) if len(groups_range) > 1 else [
-                int(groups_range[0])]
+            group = line.split("Grupy ")[1].replace(":", "").split(" ")[0].split("-")
+            groups = list(range(int(group[0]), int(group[1]) + 1)) if len(group) > 1 else [
+                int(group[0])]
             more_groups_line = line.split(" + ")
             if len(more_groups_line) > 1:
                 more_groups_range = line.split(" + ")[1].replace(":", "").split("-")
@@ -119,8 +115,8 @@ def parse_schedule_text(file_path):
                 groups = [*groups, *more_groups]
 
         elif line.startswith("Grupa"):
-            groups_range = line.split("Grupa ")[1].replace(":", "")
-            groups = [int(groups_range[0])]
+            group = line.split("Grupa ")[1].replace(":", "")
+            groups = [int(group)]
 
         elif "Katedra" in line or "Klinika" in line or "Zakład" in line or "Pracownia" in line:
             katedra = line.split(":")[0]
@@ -159,6 +155,7 @@ def parse_schedule_text(file_path):
 
             class_type = "Ćwiczenia" if ("ćw." in line or "Ćw." in line or "ćwicz." in line or "Ćwicz." in line) else \
                 "Seminarium" if ("sem." in line or "Sem." in line or "semin." in line or "Semin." in line) else \
+                "Wykład" if ("wykład" in line) else \
                     None
 
             if any(phrase in line for phrase in days_map.keys()):
@@ -199,7 +196,7 @@ def parse_schedule_text(file_path):
                             weekdays.append(days_map[weekday_phrase])
 
             location_index = max(line.find("Aula"), line.find("Sala"), line.find("Katedra"), line.find("Klinika"),
-                                 line.find("Zakład"))
+                                 line.find("Zakład"), line.find("UNIVE"), line.find("ACAD"))
             if location_index > -1:
                 location = line[location_index:]
             else:
@@ -208,8 +205,9 @@ def parse_schedule_text(file_path):
             class_entries = generate_detailed_class_entries(course_name, katedra, weekdays, time,
                                                             class_type, weeks, location)
             for new_entry in class_entries:
-                chonky_boi_entry = [item for item in chonky_boi if item["group"] in groups and item["week"] == new_entry["calendar_week"]][0]
-                chonky_boi_entry["classes"].append(new_entry["item"])
+                chonky_boi_filtered = [item for item in chonky_boi if item["group"] in groups and item["week"] == new_entry["calendar_week"]]
+                for chonky_boi_entry in chonky_boi_filtered:
+                    chonky_boi_entry["classes"].append(new_entry["item"])
 
     return chonky_boi # schedule_data
 

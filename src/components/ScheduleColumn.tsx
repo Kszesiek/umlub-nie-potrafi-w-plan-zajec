@@ -2,7 +2,6 @@ import React from "react";
 import './ScheduleColumn.css';
 import {hours} from "../constants/hours";
 import {GroupClasses} from "../schemas/GroupClassesSchema";
-import {WeekClasses} from "../schemas/WeekClassesSchema";
 import {ScheduleCard} from "./ScheduleCard";
 import {SingleClass} from "../schemas/SingleClassSchema";
 import {weekdayMap} from "../constants/weekdayMap";
