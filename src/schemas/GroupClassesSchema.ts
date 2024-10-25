@@ -1,9 +1,10 @@
 import z from 'zod';
-import {weekClassesSchema} from "./WeekClassesSchema";
+import {singleClassSchema} from "./SingleClassSchema";
 
 export const groupClassesSchema = z.object({
-  groups: z.array(z.number()),
-  weeks: z.array(weekClassesSchema),
+  group: z.number(),
+  week: z.number(),
+  classes: z.array(singleClassSchema),
 })
 
 export type GroupClasses = z.infer<typeof groupClassesSchema>;

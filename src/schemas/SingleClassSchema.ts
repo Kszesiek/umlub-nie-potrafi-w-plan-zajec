@@ -6,7 +6,7 @@ export const singleClassSchema = z.object({
   day: z.string(),
   start_time: z.string(),
   end_time: z.string(),
-  type: z.string(),
+  type: z.nullable(z.string()),
   location: z.nullable(z.string()),
 })
 

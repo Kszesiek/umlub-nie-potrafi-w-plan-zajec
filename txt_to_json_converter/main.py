@@ -5,6 +5,8 @@
 import json
 from datetime import timedelta, date
 import re
+import itertools
+from xmlrpc.client import DateTime
 
 weekdaysMapping = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 days_map = {
@@ -16,35 +18,67 @@ days_map = {
     "piątek": "Friday",
 }
 
+GROUPS = [i for i in range(1, 55)]
+WEEKS = [i for i in range(1, 20)]
+
+
 # Helper function to generate detailed class entries for each day
-def generate_detailed_class_entries(course_name, katedra, start_day, days, time, class_type, location=None):
+def generate_detailed_class_entries(course_name, katedra, days, time, class_type, weeks, location=None):
     entries = []
 
-    current_day = start_day
+    for week in weeks:
+        current_day = date(2024, 9, 30) + timedelta(weeks=week - 1)
+        for day in weekdaysMapping:
+            if current_day.weekday() < 5 and len(days) > 0 and day == days[0]:  # Only count weekdays (Monday-Friday)
+                start_hour, end_hour = time.split('-')
+                calendar_week = week
 
-    for day in weekdaysMapping:
-        if current_day.weekday() < 5 and len(days) > 0 and day == days[0]:  # Only count weekdays (Monday-Friday)
-            start_hour, end_hour = time.split('-')
-            entries.append({
-                "course_name": course_name,
-                "katedra": katedra,
-                "day": current_day.strftime("%A"),
-                "start_time": start_hour.strip(),
-                "end_time": end_hour.strip(),
-                "type": class_type,
-                "location": location if location else None
-            })
-            days.pop(0)
-        current_day += timedelta(days=1)
+                modified_current_day = current_day
+
+                if week >= 5:
+                    calendar_week += 1
+                if week >= 12:
+                    calendar_week += 2
+
+                if day == "Friday" and week == 5:
+                    calendar_week = 5
+                    modified_current_day = date(2024, 10, 29)
+                elif day == "Monday" and week == 6:
+                    calendar_week = 6
+                    modified_current_day = date(2024, 11, 8)
+                elif day == "Monday":
+                    calendar_week += 1
+
+                entries.append({
+                    "calendar_week": calendar_week,
+                    "item": {
+                        "course_name": course_name,
+                        "katedra": katedra,
+                        "day": modified_current_day.strftime("%A"),
+                        "start_time": start_hour.strip(),
+                        "end_time": end_hour.strip(),
+                        "type": class_type,
+                        "location": location if location else None
+                    },
+                })
+                days.pop(0)
+            current_day += timedelta(days=1)
     return entries
 
 
 # Function to parse the text file and extract relevant information
 def parse_schedule_text(file_path):
-    schedule_data = []
-
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
+
+    chonky_boi = []  # all the classes in the semester
+
+    for (group, week) in itertools.product(GROUPS, WEEKS):
+        chonky_boi.append({
+            "group": group,
+            "week": week,
+            "classes": [],
+        })
 
     week_items: list[object] = []
 
@@ -58,41 +92,26 @@ def parse_schedule_text(file_path):
     time = None
     location = None
 
-    def save_classes():
-        nonlocal groups, week_items, time, class_type, duration
-
-        if len(groups) == 0 or len(week_items) == 0:
-            return
-
-        schedule_data.append({
-            "groups": groups,
-            "weeks": week_items
-        })
-
-        # Reset for the next group
-        time = None
-        class_type = None
-        duration = None
-        week_items = []
-
     for line in lines:
         line = line.strip()
 
         if bool(re.match(r"^\d+\. ", line)):  # new course
-            save_classes()
 
             groups = []
             katedra = None
             weeks = []
             weekdays = []
+            duration = None
+            class_type = None
+            time = None
             location = None
 
             course_name = re.search(r"\d+\.\s+(.+?):", line).group(1)
 
         elif line.startswith("Grupy"):
-            save_classes()
             groups_range = line.split("Grupy ")[1].replace(":", "").split(" ")[0].split("-")
-            groups = list(range(int(groups_range[0]), int(groups_range[1]) + 1)) if len(groups_range) > 1 else [int(groups_range[0])]
+            groups = list(range(int(groups_range[0]), int(groups_range[1]) + 1)) if len(groups_range) > 1 else [
+                int(groups_range[0])]
             more_groups_line = line.split(" + ")
             if len(more_groups_line) > 1:
                 more_groups_range = line.split(" + ")[1].replace(":", "").split("-")
@@ -100,9 +119,8 @@ def parse_schedule_text(file_path):
                 groups = [*groups, *more_groups]
 
         elif line.startswith("Grupa"):
-            save_classes()
-            groups_range = line.split("Grupa ")[1].replace(":", "").split("-")
-            groups = list(range(int(groups_range[0]), int(groups_range[1]) + 1)) if len(groups_range) > 1 else [int(groups_range[0])]
+            groups_range = line.split("Grupa ")[1].replace(":", "")
+            groups = [int(groups_range[0])]
 
         elif "Katedra" in line or "Klinika" in line or "Zakład" in line or "Pracownia" in line:
             katedra = line.split(":")[0]
@@ -110,31 +128,27 @@ def parse_schedule_text(file_path):
         elif "tydzień" in line:
             parts = line.split(":")
             weeks_range = parts[0].split(" ")[0].split("-")
-            new_weeks = list(range(int(weeks_range[0]), int(weeks_range[1]) + 1)) if len(weeks_range) > 1 else [int(weeks_range[0])]
-            if weeks != new_weeks:
-                save_classes()
-                weeks = new_weeks
-                for week in weeks:
-                    if not any(item for item in week_items if item["week"] == week):
-                        week_items.append({
-                            "week": week,
-                            "classes": []
-                        })
+            new_weeks = list(range(int(weeks_range[0]), int(weeks_range[1]) + 1)) if len(weeks_range) > 1 else [
+                int(weeks_range[0])]
+            weeks = new_weeks
+            for week in weeks:
+                if not any(item for item in week_items if item["week"] == week):
+                    week_items.append({
+                        "week": week,
+                        "classes": []
+                    })
 
-        elif line.startswith("Aula") or line.startswith("Sala"): # or line.startswith("Katedra") or line.startswith("Klinika") or line.startswith("Zakład"):
+        elif line.startswith("Aula") or line.startswith("Sala"):
             location = line.split(" - ")[0]
-            if len(line.split(" - ")) <= 1:
-                temp = line.split(" - ")
-                print(line)
-            weekdays_raw = line.split(" - ")[1].split(", ")
+            if len(line.split(" - ")) > 1:
+                weekdays_raw = line.split(" - ")[1].split(", ")
+                weekdays_parsed = [days_map[weekday_raw] for weekday_raw in weekdays_raw]
 
-            weekdays_parsed = [days_map[weekday_raw] for weekday_raw in weekdays_raw]
-
-            for week_item in week_items:
-                if week_item["week"] in weeks:
-                    for week_class in week_item["classes"]:
-                        if week_class["type"] == "Seminarium" and week_class["day"] in weekdays_parsed:
-                            week_class["location"] = location
+                for week_item in week_items:
+                    if week_item["week"] in weeks:
+                        for week_class in week_item["classes"]:
+                            if week_class["type"] == "Seminarium" and week_class["day"] in weekdays_parsed:
+                                week_class["location"] = location
 
         elif "godz. " in line:
             time = line.split("godz. ")[1].split(" ")[0]
@@ -144,8 +158,8 @@ def parse_schedule_text(file_path):
                 weekdays = [weekdaysMapping[index % 5] for index in range(duration)]
 
             class_type = "Ćwiczenia" if ("ćw." in line or "Ćw." in line or "ćwicz." in line or "Ćwicz." in line) else \
-                         "Seminarium" if ("sem." in line or "Sem." in line or "semin." in line or "Semin." in line) else \
-                         None
+                "Seminarium" if ("sem." in line or "Sem." in line or "semin." in line or "Semin." in line) else \
+                    None
 
             if any(phrase in line for phrase in days_map.keys()):
                 weekdays: list[str] = []
@@ -158,7 +172,6 @@ def parse_schedule_text(file_path):
                     print("ERROR: DIDN'T FIND ANY WEEKDAYS")
                 elif number_of_weekdays == 1:
                     weekday_phrase = max(days_indices, key=days_indices.get)
-                    # for _ in weeks:
                     weekdays.append(days_map[weekday_phrase])
 
                 elif number_of_weekdays == 2:
@@ -168,7 +181,8 @@ def parse_schedule_text(file_path):
                     weekday_min_phrase = max(days_indices, key=days_indices.get)
                     days_indices[weekday_max_phrase] = temp_weekday_max_index
 
-                    separator = line[days_indices[weekday_min_phrase] + len(weekday_min_phrase) : days_indices[weekday_max_phrase]]
+                    separator = line[days_indices[weekday_min_phrase] + len(weekday_min_phrase): days_indices[
+                        weekday_max_phrase]]
                     if separator == " - ":
                         min_index = weekdaysMapping.index(days_map[weekday_min_phrase])
                         max_index = weekdaysMapping.index(days_map[weekday_max_phrase])
@@ -183,7 +197,6 @@ def parse_schedule_text(file_path):
                     for weekday_phrase in days_indices:
                         if days_indices[weekday_phrase] > -1:
                             weekdays.append(days_map[weekday_phrase])
-                    print(days_indices)
 
             location_index = max(line.find("Aula"), line.find("Sala"), line.find("Katedra"), line.find("Klinika"),
                                  line.find("Zakład"))
@@ -192,23 +205,13 @@ def parse_schedule_text(file_path):
             else:
                 location = None
 
-        # Check if we have enough information to add to schedule
-        if groups and weeks and katedra and time and class_type:
-            for item in week_items:
-                start_day = date(2024, 9, 30) + timedelta(weeks=item["week"] - 1)
-                class_entries = generate_detailed_class_entries(course_name, katedra, start_day, weekdays[:5], time, class_type, location)
-                for new_entry in class_entries:
-                    item["classes"].append(new_entry)
-                if duration is not None:
-                    weekdays = weekdays[5:]
+            class_entries = generate_detailed_class_entries(course_name, katedra, weekdays, time,
+                                                            class_type, weeks, location)
+            for new_entry in class_entries:
+                chonky_boi_entry = [item for item in chonky_boi if item["group"] in groups and item["week"] == new_entry["calendar_week"]][0]
+                chonky_boi_entry["classes"].append(new_entry["item"])
 
-    if len(week_items) > 0:
-        schedule_data.append({
-            "groups": groups,
-            "weeks": week_items
-        })
-
-    return schedule_data
+    return chonky_boi # schedule_data
 
 
 # Function to save the parsed schedule data as JSON
@@ -220,7 +223,7 @@ def save_schedule_to_json(schedule_data, output_file):
 # Main function to process the input text file and generate JSON
 def main(input_file, output_file):
     schedule_data = {
-       "data": parse_schedule_text(input_file)
+        "data": parse_schedule_text(input_file)
     }
     save_schedule_to_json(schedule_data, output_file)
     print(f"JSON file has been created: {output_file}")

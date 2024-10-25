@@ -26,6 +26,8 @@ function App() {
         <p>
           UMLub nie potrafi w plan zajęć 🙃
         </p>
+        <div style={{flex: 1}} />
+        <div className="App-version-container">wersja 0.2.0</div>
       </header>
       <div className="App-content">
         <div className="App-hours-outer-container">
@@ -51,8 +53,8 @@ function App() {
           <ScheduleColumn columnName="Piątek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
         </div>
         <div className="App-right-bar-wrapper">
-          <div className="Shadow-wrapper">
-              <div className="App-settings Info-container">
+          <div className="Shadow-wrapper" style={{backgroundColor: "gold"}}>
+              <div className="App-settings">
                 <p>Wybierz numer tygodnia:</p>
                 <select defaultValue={chosenWeek} onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
                   {

@@ -13,28 +13,33 @@ import torakochirurgia from './12. torakochirurgia.json';
 import chirurgia_dziecieca from './13. chirurgia dziecieca.json';
 import psychiatria from './14. psychiatria.json';
 import anestezjologia from './15. anestezjologia.json';
+import schedule from './schedule.json'
 import {GroupClasses} from "../schemas/GroupClassesSchema";
 import {dataObjectSchema} from "../schemas/DataObjectSchema";
 
 export function getData(): GroupClasses[] {
   const data: GroupClasses[] = []
 
+  // const dataSources = [
+  //   ginekologia,
+  //   onkologia,
+  //   chirurgia,
+  //   laryngologia,
+  //   transplantologia,
+  //   medycyna_sadowa,
+  //   urologia,
+  //   neurochirurgia,
+  //   medycyna_rodzinna,
+  //   pediatria,
+  //   kardiochirurgia,
+  //   torakochirurgia,
+  //   chirurgia_dziecieca,
+  //   psychiatria,
+  //   anestezjologia,
+  // ];
+
   const dataSources = [
-    ginekologia,
-    onkologia,
-    chirurgia,
-    laryngologia,
-    transplantologia,
-    medycyna_sadowa,
-    urologia,
-    neurochirurgia,
-    medycyna_rodzinna,
-    pediatria,
-    kardiochirurgia,
-    torakochirurgia,
-    chirurgia_dziecieca,
-    psychiatria,
-    anestezjologia,
+    schedule
   ];
 
   dataSources.forEach((dataSource) => {

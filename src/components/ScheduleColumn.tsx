@@ -27,28 +27,26 @@ export function ScheduleColumn({columnName, groupClasses, chosenGroup, chosenWee
 
       {
         groupClasses.map((groupClass) => {
-          if (!groupClass.groups.includes(chosenGroup ?? 0))
+          if (groupClass.group !== chosenGroup)
             return null;
 
-          return groupClass.weeks.map((week: WeekClasses) => {
-          if (week.week !== chosenWeek)
+          if (groupClass.week !== chosenWeek)
             return null;
 
-            return week.classes.map((singleClass: SingleClass) => {
-              if (columnName !== weekdayMap.get(singleClass.day))
-                return null;
+          return groupClass.classes.map((singleClass: SingleClass) => {
+            if (columnName !== weekdayMap.get(singleClass.day))
+              return null;
 
-                const fullHeight = 22 * 60 - 8 * 60
-                const [h_start, m_start] = singleClass.start_time.split(":");
-                const scheduleCardTop = Number(h_start) * 60 + Number(m_start) - 8 * 60;
-                const topPercent = `${scheduleCardTop / fullHeight * 100}%`;
-                const [h_end, m_end] = singleClass.end_time.split(":");
-                const scheduleCardBottom = 22*60 - (Number(h_end) * 60 + Number(m_end));
-                const bottomPercent = `${scheduleCardBottom / fullHeight * 100}%`;
-                return <ScheduleCard singleClass={singleClass} top={topPercent} bottom={bottomPercent}/>
-              }
-            )
-          })
+              const fullHeight = 22 * 60 - 8 * 60
+              const [h_start, m_start] = singleClass.start_time.split(":");
+              const scheduleCardTop = Number(h_start) * 60 + Number(m_start) - 8 * 60;
+              const topPercent = `${scheduleCardTop / fullHeight * 100}%`;
+              const [h_end, m_end] = singleClass.end_time.split(":");
+              const scheduleCardBottom = 22*60 - (Number(h_end) * 60 + Number(m_end));
+              const bottomPercent = `${scheduleCardBottom / fullHeight * 100}%`;
+              return <ScheduleCard singleClass={singleClass} top={topPercent} bottom={bottomPercent}/>
+            }
+          )
         })
       }
     </div>
