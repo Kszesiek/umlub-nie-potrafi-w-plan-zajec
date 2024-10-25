@@ -55,7 +55,7 @@ function App() {
         <div className="App-right-bar-wrapper">
           <div className="Shadow-wrapper" style={{backgroundColor: "gold"}}>
             <div className="App-settings">
-              <p>Wybierz numer tygodnia:</p>
+              <p>Wybierz tydzień:</p>
               <select defaultValue={chosenWeek}
                       onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
                 {
