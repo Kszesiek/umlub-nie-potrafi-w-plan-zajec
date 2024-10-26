@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import './App.css';
 import {ScheduleColumn} from "./components/ScheduleColumn";
 import {hours} from "./constants/hours";
@@ -6,6 +6,7 @@ import {GroupClasses} from "./schemas/GroupClassesSchema";
 import useWindowDimensions from "./utils/useWindowDimensions";
 import {getData} from "./data";
 import {FaCircleInfo, FaTriangleExclamation} from "react-icons/fa6";
+import {formatDateWithAddedDays} from "./utils/dateFormat";
 
 function App() {
   const data: GroupClasses[] = getData();
@@ -17,6 +18,13 @@ function App() {
 
   const [chosenWeek, setChosenWeek] = useState<number>(diffWeek);
   const [chosenGroup, setChosenGroup] = useState<number>(1);
+  const [currentWeekMonday, setCurrentWeekMonday] = useState<Date>(new Date(2024, 10, 30));
+
+  useEffect(() => {
+    const baseDate = new Date(2024, 8, 30);
+    baseDate.setDate(baseDate.getDate() + (chosenWeek - 1) * 7);
+    setCurrentWeekMonday(baseDate);
+  }, [chosenWeek]);
 
   const {height, width} = useWindowDimensions();
 
@@ -45,12 +53,16 @@ function App() {
           </div>
         </div>
         <div className="App-table">
-          <ScheduleColumn columnName="Poniedziałek" groupClasses={data} chosenGroup={chosenGroup}
-                          chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName="Wtorek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName="Środa" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName="Czwartek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName="Piątek" groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName={`Poniedziałek (${formatDateWithAddedDays(currentWeekMonday, 0)})`}
+                          groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName={`Wtorek (${formatDateWithAddedDays(currentWeekMonday, 1)})`} groupClasses={data}
+                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName={`Środa (${formatDateWithAddedDays(currentWeekMonday, 2)})`} groupClasses={data}
+                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName={`Czwartek (${formatDateWithAddedDays(currentWeekMonday, 3)})`} groupClasses={data}
+                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          <ScheduleColumn columnName={`Piątek (${formatDateWithAddedDays(currentWeekMonday, 4)})`} groupClasses={data}
+                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
         </div>
         <div className="App-right-bar-wrapper">
           <div className="Shadow-wrapper" style={{backgroundColor: "gold"}}>

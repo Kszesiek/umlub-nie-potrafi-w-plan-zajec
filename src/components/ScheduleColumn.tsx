@@ -33,7 +33,7 @@ export function ScheduleColumn({columnName, groupClasses, chosenGroup, chosenWee
             return null;
 
           return groupClass.classes.map((singleClass: SingleClass) => {
-            if (columnName !== weekdayMap.get(singleClass.day))
+            if (columnName.split(" ")[0] !== weekdayMap.get(singleClass.day))
               return null;
 
               const fullHeight = 22 * 60 - 8 * 60
