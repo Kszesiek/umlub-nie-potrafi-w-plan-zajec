@@ -7,6 +7,7 @@ import useWindowDimensions from "./utils/useWindowDimensions";
 import {getData} from "./data";
 import {FaCircleInfo, FaTriangleExclamation} from "react-icons/fa6";
 import {formatDateWithAddedDays} from "./utils/dateFormat";
+import packageJson from '../package.json';
 
 function App() {
   const data: GroupClasses[] = getData();
@@ -35,7 +36,7 @@ function App() {
           UMLub nie potrafi w plan zajęć 🙃
         </p>
         <div style={{flex: 1}}/>
-        <div className="App-version-container">wersja 0.2.1</div>
+        <div className="App-version-container">wersja {packageJson.version}</div>
       </header>
       <div className="App-content">
         <div className="App-hours-outer-container">
