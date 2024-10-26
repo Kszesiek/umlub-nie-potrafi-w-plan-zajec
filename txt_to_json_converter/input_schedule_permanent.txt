@@ -1,0 +1,151 @@
+1. Pediatria:
+Grupy 1-56:
+1-7 tydzień:
+poniedz. godz. 19:00-20:30 wykład
+1. Anestezjologia:
+Grupy 1-56:
+8-14 tydzień:
+poniedz. godz. 19:00-20:30 wykład
+1. Torakochirurgia:
+Grupy 1-56:
+9-13 tydzień:
+wtorek godz. 19:00-20:30 wykład
+1. Onkologia:
+Grupy 1-56:
+1-8 tydzień:
+środa godz. 19:00-20:30 wykład
+1. Ginekologia:
+Grupy 1-56:
+9-15 tydzień:
+środa godz. 19:00-20:30 wykład
+1. Psychiatria:
+Grupy 1-56:
+8-15 tydzień:
+środa godz. 20:30-22:00 wykład
+1. Chirurgia dziecięca:
+Grupy 1-56:
+1-3 tydzień:
+piątek godz. 19:00-20:30 wykład
+1. Transplantologia:
+Grupy 1-56:
+4-6 tydzień:
+piątek godz. 19:00-20:30 wykład
+1. Neurochirurgia:
+Grupy 1-56:
+7-10 tydzień:
+piątek godz. 19:00-20:30 wykład
+1. Medycyna Rodzinna:
+Grupy 1-56:
+11-15 tydzień
+piątek godz. 19:00-20:30 wykład
+
+17. Fakultet:
+Grupy 1-56:
+6-15 tydzień:
+poniedz. godz. 16:30-18:45
+środa godz. 16:30-18:45
+
+18 PAM:
+Grupy 31-36:
+1-5 tydzień:
+wtorek godz. 17:00-18:30 sem. - ACAD 11
+6-10 tydzień:
+wtorek godz. 17:00-18:30 ćwicz. - ACAD 9,11,12
+Grupy 7-12:
+1-5 tydzień:
+wtorek godz. 17:00-18:30 sem. - ACAD 12
+11-15 tydzień:
+wtorek godz. 17:00-18:30 ćwicz. - ACAD 9,11,12
+Grupy 19-24:
+1-5 tydzień:
+środa godz. 17:00-18:30 sem. - ACAD 11
+6-10 tydzień:
+środa godz. 17:00-18:30 ćwicz. - ACAD 9,11,12
+Grupy 13-18:
+1-5 tydzień:
+środa godz. 17:00-18:30 sem. - ACAD 12
+11-15 tydzień:
+środa godz. 17:00-18:30 ćwicz. - ACAD 9,11,12
+Grupy 37-42:
+1-5 tydzień:
+czwartek godz. 17:00-18:30 sem. - ACAD 11
+6-10 tydzień:
+czwartek godz. 17:00-18:30 ćwicz. - ACAD 7,9,11
+Grupy 25-30:
+1-5 tydzień:
+czwartek godz. 17:00-18:30 sem. - ACAD 12
+11-15 tydzień:
+czwartek godz. 17:00-18:30 ćwicz. - ACAD 7,9,11
+Grupy 50-56:
+1-5 tydzień:
+czwartek godz. 18:30-20:00 sem. - ACAD 12
+11-15 tydzień:
+czwartek godz. 18:30-20:00 ćwicz. - ACAD 9,11,12
+Grupy 1-6:
+1-5 tydzień:
+piątek godz. 17:00-18:30 sem. - ACAD 11
+6-10 tydzień:
+piątek godz. 17:00-18:30 ćwicz. - ACAD 9,11,12
+Grupy 43-49:
+1-5 tydzień:
+piątek godz. 17:00-18:30 sem. - ACAD 12
+11-15 tydzień:
+piątek godz. 17:00-18:30 ćwicz. - ACAD 9,11,12
+
+19. Orzecznictwo:
+Grupy 50-56:
+1-5 tydzień:
+wtorek godz. 17:15-18:45 sem. UNIVE 037
+Grupy 1-6:
+11-15 tydzień:
+wtorek godz. 17:15-18:45 sem. UNIVE 037
+Grupy 7-12:
+11-15 tydzień:
+wtorek godz. 18:45-20:15 sem. UNIVE 037
+Grupy 43-49:
+6-10 tydzień:
+czwartek godz. 17:15-18:45 sem. UNIVE 037
+Grupy 13-18:
+11-15 tydzień:
+czwartek godz. 17:15-18:45 sem. UNIVE 037
+Grupy 37-42:
+6-10 tydzień:
+czwartek godz. 18:45-20:15 sem. UNIVE 037
+Grupy 19-24:
+11-15 tydzień:
+czwartek godz. 18:45-20:15 sem. UNIVE 037
+Grupy 31-36:
+6-10 tydzień:
+piątek godz. 17:00-18:30 sem. UNIVE 037
+Grupy 25-30:
+11-15 tydzień:
+piątek godz. 17:00-18:30 sem. UNIVE 037
+
+20. Zarządzanie i Ekonomia:
+Grupy 50-56:
+11-15 tydzień:
+wtorek godz. 17:15-18:45 sem. UNIVE 036
+Grupy 1-6:
+6-10 tydzień:
+wtorek godz. 17:15-18:45 sem. UNIVE 037
+Grupy 7-12:
+6-10 tydzień:
+wtorek godz. 18:45-20:15 sem. UNIVE 036
+Grupy 43-49:
+1-5 tydzień:
+czwartek godz. 17:15-18:45 sem. UNIVE 037
+Grupy 13-18:
+6-10 tydzień:
+czwartek godz. 17:15-18:45 sem. - ACAD 12
+Grupy 37-42:
+1-5 tydzień:
+czwartek godz. 18:45-20:15 sem. UNIVE 037
+Grupy 19-24:
+6-10 tydzień:
+czwartek godz. 18:45-20:15 sem. UNIVE 036
+Grupy 31-36:
+1-5 tydzień:
+piątek godz. 17:00-18:30 sem. UNIVE 037
+Grupy 25-30:
+6-10 tydzień:
+piątek godz. 17:00-18:30 sem. UNIVE 036
