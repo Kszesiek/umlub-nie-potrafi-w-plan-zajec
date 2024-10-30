@@ -141,6 +141,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -155,15 +164,6 @@
       "group": 1,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -389,6 +389,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -403,15 +412,6 @@
       "group": 2,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -637,6 +637,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -651,15 +660,6 @@
       "group": 3,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -885,6 +885,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -899,15 +908,6 @@
       "group": 4,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -1133,6 +1133,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -1147,15 +1156,6 @@
       "group": 5,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -1381,6 +1381,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -1395,15 +1404,6 @@
       "group": 6,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -1620,6 +1620,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -1634,15 +1643,6 @@
       "group": 7,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -1868,6 +1868,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -1882,15 +1891,6 @@
       "group": 8,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -2116,6 +2116,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -2130,15 +2139,6 @@
       "group": 9,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -2364,6 +2364,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -2378,15 +2387,6 @@
       "group": 10,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -2612,6 +2612,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -2626,15 +2635,6 @@
       "group": 11,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -2860,6 +2860,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -2874,15 +2883,6 @@
       "group": 12,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -3108,6 +3108,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -3122,15 +3131,6 @@
       "group": 13,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -3356,6 +3356,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -3370,15 +3379,6 @@
       "group": 14,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -3604,6 +3604,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -3618,15 +3627,6 @@
       "group": 15,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -3852,6 +3852,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -3866,15 +3875,6 @@
       "group": 16,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -4100,6 +4100,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -4114,15 +4123,6 @@
       "group": 17,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -4348,6 +4348,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -4362,15 +4371,6 @@
       "group": 18,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -4605,6 +4605,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -4619,15 +4628,6 @@
       "group": 19,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -4853,6 +4853,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -4867,15 +4876,6 @@
       "group": 20,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -5101,6 +5101,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -5115,15 +5124,6 @@
       "group": 21,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -5349,6 +5349,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -5363,15 +5372,6 @@
       "group": 22,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -5597,6 +5597,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -5611,15 +5620,6 @@
       "group": 23,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -5845,6 +5845,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -5859,15 +5868,6 @@
       "group": 24,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -6084,6 +6084,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -6098,15 +6107,6 @@
       "group": 25,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -6332,6 +6332,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -6346,15 +6355,6 @@
       "group": 26,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -6580,6 +6580,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -6594,15 +6603,6 @@
       "group": 27,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -6828,6 +6828,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -6842,15 +6851,6 @@
       "group": 28,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -7076,6 +7076,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -7090,15 +7099,6 @@
       "group": 29,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -7324,6 +7324,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -7338,15 +7347,6 @@
       "group": 30,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -7590,6 +7590,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -7604,15 +7613,6 @@
       "group": 31,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -7838,6 +7838,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -7852,15 +7861,6 @@
       "group": 32,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -8086,6 +8086,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -8100,15 +8109,6 @@
       "group": 33,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -8334,6 +8334,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -8348,15 +8357,6 @@
       "group": 34,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -8582,6 +8582,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -8596,15 +8605,6 @@
       "group": 35,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -8830,6 +8830,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -8844,15 +8853,6 @@
       "group": 36,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -9078,6 +9078,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -9092,15 +9101,6 @@
       "group": 37,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -9326,6 +9326,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -9340,15 +9349,6 @@
       "group": 38,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -9574,6 +9574,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -9588,15 +9597,6 @@
       "group": 39,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -9822,6 +9822,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -9836,15 +9845,6 @@
       "group": 40,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -10070,6 +10070,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -10084,15 +10093,6 @@
       "group": 41,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -10318,6 +10318,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -10332,15 +10341,6 @@
       "group": 42,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -10557,6 +10557,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -10571,15 +10580,6 @@
       "group": 43,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -10805,6 +10805,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -10819,15 +10828,6 @@
       "group": 44,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -11053,6 +11053,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -11067,15 +11076,6 @@
       "group": 45,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -11301,6 +11301,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -11315,15 +11324,6 @@
       "group": 46,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -11549,6 +11549,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -11563,15 +11572,6 @@
       "group": 47,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -11797,6 +11797,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -11811,15 +11820,6 @@
       "group": 48,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -12045,6 +12045,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -12059,15 +12068,6 @@
       "group": 49,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -12284,6 +12284,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -12298,15 +12307,6 @@
       "group": 50,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -12532,6 +12532,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -12546,15 +12555,6 @@
       "group": 51,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -12780,6 +12780,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -12794,15 +12803,6 @@
       "group": 52,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -13028,6 +13028,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -13042,15 +13051,6 @@
       "group": 53,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -13276,6 +13276,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -13290,15 +13299,6 @@
       "group": 54,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -13524,6 +13524,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -13538,15 +13547,6 @@
       "group": 55,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
@@ -13772,6 +13772,15 @@
       "week": 9,
       "classes": [
         {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Psychiatria",
           "katedra": null,
           "day": "Wednesday",
@@ -13786,15 +13795,6 @@
       "group": 56,
       "week": 10,
       "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Torakochirurgia",
           "katedra": null,
