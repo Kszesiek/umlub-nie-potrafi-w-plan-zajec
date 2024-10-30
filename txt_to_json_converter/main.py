@@ -140,13 +140,26 @@ def parse_schedule_text(file_path):
             if len(line.split(" - ")) > 1:
                 weekdays_raw = line.split(" - ")[1].split(", ")
                 weekdays_parsed = [days_map[weekday_raw] for weekday_raw in weekdays_raw]
+                weekdays_final = []
+                if duration is None:
+                    weekdays_final = weekdays_parsed
+                else:
+                    weekdays_final = [weekdaysMapping[index % 5] for index in range(duration) if
+                                      weekdaysMapping[index % 5] in weekdays_parsed]
 
-                chonky_boi_filtered = [item for item in chonky_boi if item["group"] in groups and item["week"] in weeks]
-                for chonky_boi_entry in chonky_boi_filtered:
-                    for week_class in chonky_boi_entry["classes"]:
-                        if week_class["course_name"] == course_name and week_class["type"] == class_type and week_class["day"] in weekdays_parsed:
-                            week_class["location"] = location
+                class_entries = generate_detailed_class_entries(course_name, katedra, weekdays_final, time,
+                                                                class_type, weeks, location)
 
+                for new_entry in class_entries:
+                    chonky_boi_filtered = [item for item in chonky_boi if
+                                           item["group"] in groups and item["week"] == new_entry["calendar_week"]]
+                    for chonky_boi_entry in chonky_boi_filtered:
+                        for entry in chonky_boi_entry["classes"]:
+                            if (entry["course_name"] == new_entry["item"]["course_name"] and
+                                    entry["day"] == new_entry["item"]["day"] and
+                                    entry["start_time"] == new_entry["item"]["start_time"] and
+                                    entry["end_time"] == new_entry["item"]["end_time"]):
+                                entry["location"] = new_entry["item"]["location"]
 
         elif "godz. " in line:
             time = line.split("godz. ")[1].split(" ")[0]
@@ -157,8 +170,8 @@ def parse_schedule_text(file_path):
 
             class_type = "Ćwiczenia" if ("ćw." in line or "Ćw." in line or "ćwicz." in line or "Ćwicz." in line) else \
                 "Seminarium" if ("sem." in line or "Sem." in line or "semin." in line or "Semin." in line) else \
-                "Wykład" if ("wykład" in line) else \
-                    None
+                    "Wykład" if ("wykład" in line) else \
+                        None
 
             if any(phrase in line for phrase in days_map.keys()):
                 weekdays: list[str] = []
@@ -207,11 +220,12 @@ def parse_schedule_text(file_path):
             class_entries = generate_detailed_class_entries(course_name, katedra, weekdays, time,
                                                             class_type, weeks, location)
             for new_entry in class_entries:
-                chonky_boi_filtered = [item for item in chonky_boi if item["group"] in groups and item["week"] == new_entry["calendar_week"]]
+                chonky_boi_filtered = [item for item in chonky_boi if
+                                       item["group"] in groups and item["week"] == new_entry["calendar_week"]]
                 for chonky_boi_entry in chonky_boi_filtered:
                     chonky_boi_entry["classes"].append(new_entry["item"])
 
-    return chonky_boi # schedule_data
+    return chonky_boi  # schedule_data
 
 
 # Function to save the parsed schedule data as JSON
@@ -230,6 +244,6 @@ def main(input_file, output_file):
 
 
 # Usage
-input_file = 'input_schedule.txt'  # Path to your input text file
+input_file = 'input_schedule_all_raw.txt'  # Path to your input text file
 output_file = 'output_schedule.json'  # Path to your output JSON file
 main(input_file, output_file)
