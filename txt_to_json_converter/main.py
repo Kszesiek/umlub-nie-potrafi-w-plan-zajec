@@ -2,7 +2,6 @@ import json
 from datetime import timedelta, date
 import re
 import itertools
-from xmlrpc.client import DateTime
 
 weekdaysMapping = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 days_map = {
@@ -36,14 +35,16 @@ def generate_detailed_class_entries(course_name, katedra, days, time, class_type
                 if week >= 12:
                     calendar_week += 2
 
+                if day == "Monday":
+                    if 1 <= week <= 4 or 12 <= week <= 15:
+                        calendar_week += 1
+
                 if day == "Friday" and week == 5:
                     calendar_week = 5
                     modified_current_day = date(2024, 10, 29)
-                elif day == "Monday" and week == 6:
+                if day == "Monday" and week == 6:
                     calendar_week = 6
                     modified_current_day = date(2024, 11, 8)
-                elif day == "Monday":
-                    calendar_week += 1
 
                 entries.append({
                     "calendar_week": calendar_week,
@@ -140,11 +141,12 @@ def parse_schedule_text(file_path):
                 weekdays_raw = line.split(" - ")[1].split(", ")
                 weekdays_parsed = [days_map[weekday_raw] for weekday_raw in weekdays_raw]
 
-                for week_item in week_items:
-                    if week_item["week"] in weeks:
-                        for week_class in week_item["classes"]:
-                            if week_class["type"] == "Seminarium" and week_class["day"] in weekdays_parsed:
-                                week_class["location"] = location
+                chonky_boi_filtered = [item for item in chonky_boi if item["group"] in groups and item["week"] in weeks]
+                for chonky_boi_entry in chonky_boi_filtered:
+                    for week_class in chonky_boi_entry["classes"]:
+                        if week_class["course_name"] == course_name and week_class["type"] == class_type and week_class["day"] in weekdays_parsed:
+                            week_class["location"] = location
+
 
         elif "godz. " in line:
             time = line.split("godz. ")[1].split(" ")[0]
