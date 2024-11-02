@@ -139,7 +139,8 @@ Katedra Onkologii:
 3 tydzień:
 poniedz. - piątek godz. 11:30-13:45 ćwicz.
 4 tydzień:
-poniedz. - wtorek godz. 11:30-13:00 ćwicz. + 13:00-14:30 sem.
+poniedz. - wtorek godz. 11:30-13:00 ćwicz.
+poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 3 tydzień:
 piątek godz. 14:00-16:15
@@ -170,7 +171,8 @@ Katedra Onkologii:
 5 tydzień:
 poniedz. - piątek godz. 11:30-13:45 ćwicz.
 6 tydzień:
-poniedz. - wtorek godz. 11:30-13:00 ćwicz. + 13:00-14:30 sem.
+poniedz. - wtorek godz. 11:30-13:00 ćwicz.
+poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 5 tydzień:
 piątek godz. 14:00-16:15
@@ -201,7 +203,8 @@ Katedra Onkologii:
 7 tydzień:
 poniedz. - piątek godz. 11:30-13:45 ćwicz.
 8 tydzień:
-poniedz. - wtorek godz. 11:30-13:00 ćwicz. + 13:00-14:30 sem.
+poniedz. - wtorek godz. 11:30-13:00 ćwicz.
+poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 7 tydzień:
 piątek godz. 14:00-16:15
@@ -232,7 +235,8 @@ Katedra Onkologii:
 9 tydzień:
 poniedz. - piątek godz. 11:30-13:45 ćwicz.
 10 tydzień:
-poniedz. - wtorek godz. 11:30-13:00 ćwicz. + 13:00-14:30 sem.
+poniedz. - wtorek godz. 11:30-13:00 ćwicz.
+poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 9 tydzień:
 piątek godz. 14:00-16:15
@@ -1722,13 +1726,13 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 2 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 39:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 40:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 41:
 piątek godz. 8:30-13:00 ćwicz.
-poniedziałek godz. 13:00-14:30 semin.
 Grupy 51-53:
 I Klinika Anestezjologii i Intensywnej Terapii:
 3 tydzień:
@@ -1744,7 +1748,6 @@ Grupa 52:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 53:
 piątek godz. 8:30-13:00 ćwicz.
-
 Grupy 54-56:
 I Klinika Anestezjologii i Intensywnej Terapii:
 4 tydzień:
@@ -1753,14 +1756,13 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 3 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 54:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 55:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 56:
 piątek godz. 8:30-13:00 ćwicz.
-
-poniedziałek godz. 13:00-14:30 semin.
 Grupy 33-35:
 I Klinika Anestezjologii i Intensywnej Terapii:
 5 tydzień:
@@ -1769,13 +1771,13 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 6 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 33:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 34:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 35:
 piątek godz. 8:30-13:00 ćwicz.
-poniedziałek godz. 13:00-14:30 semin.
 Grupy 36-38:
 I Klinika Anestezjologii i Intensywnej Terapii:
 6 tydzień:
@@ -1784,13 +1786,13 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 5 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 36:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 37:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 38:
 piątek godz. 8:30-13:00 ćwicz.
-poniedziałek godz. 13:00-14:30 semin.
 Grupy 45-47:
 I Klinika Anestezjologii i Intensywnej Terapii:
 7 tydzień:
@@ -1799,13 +1801,13 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 8 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 45:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 46:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 47:
 piątek godz. 8:30-13:00 ćwicz.
-poniedziałek godz. 13:00-14:30 semin.
 Grupy 48-50:
 I Klinika Anestezjologii i Intensywnej Terapii:
 8 tydzień:
@@ -1814,13 +1816,13 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 7 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 48:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 49:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 50:
 piątek godz. 8:30-13:00 ćwicz.
-poniedziałek godz. 13:00-14:30 semin.
 Grupy 42-44:
 I Klinika Anestezjologii i Intensywnej Terapii:
 14 tydzień:
@@ -1829,10 +1831,10 @@ piątek godz. 8:30-11:30 ćwicz.
 poniedziałek - piątek godz. 12:30-14:45 semin.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 15 tydzień:
+poniedziałek godz. 13:00-14:30 semin.
 Grupa 42:
 środa godz. 8:30-13:00 ćwicz.
 Grupa 43:
 czwartek godz. 8:30-13:00 ćwicz.
 Grupa 44:
 piątek godz. 8:30-13:00 ćwicz.
-poniedziałek godz. 13:00-14:30 semin.

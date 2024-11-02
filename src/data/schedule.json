@@ -6218,6 +6218,15 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -6301,6 +6310,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -7380,6 +7398,15 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -7463,6 +7490,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -8542,6 +8578,15 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -8625,6 +8670,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -9704,6 +9758,15 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -9787,6 +9850,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -17076,6 +17148,15 @@
           "location": null
         },
         {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Friday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
           "course_name": "Chirurgia",
           "katedra": "II Katedra i Klinika Chirurgii Ogólnej, Gastroenterologicznej i Now. Ukł. Pokarmowego",
           "day": "Monday",
@@ -17160,6 +17241,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -18221,6 +18311,15 @@
           "location": null
         },
         {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Friday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
           "course_name": "Chirurgia",
           "katedra": "II Katedra i Klinika Chirurgii Ogólnej, Gastroenterologicznej i Now. Ukł. Pokarmowego",
           "day": "Monday",
@@ -18305,6 +18404,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -19384,6 +19492,15 @@
           "location": null
         },
         {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Friday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
           "course_name": "Chirurgia",
           "katedra": "II Katedra i Klinika Chirurgii Ogólnej, Gastroenterologicznej i Now. Ukł. Pokarmowego",
           "day": "Monday",
@@ -19468,6 +19585,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -20547,6 +20673,15 @@
           "location": null
         },
         {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Friday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
           "course_name": "Chirurgia",
           "katedra": "II Katedra i Klinika Chirurgii Ogólnej, Gastroenterologicznej i Now. Ukł. Pokarmowego",
           "day": "Monday",
@@ -20631,6 +20766,15 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -27918,6 +28062,24 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -29220,6 +29382,24 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -30391,6 +30571,24 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -31562,6 +31760,24 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -38067,6 +38283,15 @@
           "end_time": "14:45",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Friday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
         }
       ]
     },
@@ -38420,6 +38645,24 @@
           "start_time": "11:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -39021,6 +39264,15 @@
           "day": "Thursday",
           "start_time": "12:30",
           "end_time": "14:45",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Friday",
+          "start_time": "13:00",
+          "end_time": "14:30",
           "type": "Seminarium",
           "location": null
         }
@@ -39380,6 +39632,24 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -40436,6 +40706,24 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -41078,6 +41366,15 @@
           "day": "Friday",
           "start_time": "12:30",
           "end_time": "14:45",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
           "type": "Seminarium",
           "location": null
         },
@@ -41509,6 +41806,24 @@
         },
         {
           "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Katedra Onkologii",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
           "katedra": "Zakład Radioterapii",
           "day": "Wednesday",
           "start_time": "12:00",
@@ -42123,6 +42438,15 @@
           "day": "Friday",
           "start_time": "12:30",
           "end_time": "14:45",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
           "type": "Seminarium",
           "location": null
         },
@@ -44217,6 +44541,15 @@
           "end_time": "12:15",
           "type": "Ćwiczenia",
           "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
         }
       ]
     },
@@ -45387,6 +45720,15 @@
           "start_time": "8:30",
           "end_time": "12:15",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -48423,7 +48765,17 @@
     {
       "group": 42,
       "week": 19,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 43,
@@ -49512,7 +49864,17 @@
     {
       "group": 43,
       "week": 19,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 44,
@@ -51127,6 +51489,15 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "13:00",
@@ -52308,6 +52679,15 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "13:00",
@@ -53398,19 +53778,19 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "13:00",
-          "type": "Ćwiczenia",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Monday",
-          "start_time": "13:00",
-          "end_time": "14:30",
-          "type": "Seminarium",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -54383,6 +54763,15 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "13:00",
@@ -55353,6 +55742,15 @@
       "group": 49,
       "week": 8,
       "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
@@ -56420,19 +56818,19 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "13:00",
-          "type": "Ćwiczenia",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         },
         {
           "course_name": "Anestezjologia",
           "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Monday",
-          "start_time": "13:00",
-          "end_time": "14:30",
-          "type": "Seminarium",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -60789,6 +61187,15 @@
           "day": "Friday",
           "start_time": "12:30",
           "end_time": "14:45",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
           "type": "Seminarium",
           "location": null
         }
@@ -61880,6 +62287,15 @@
           "day": "Friday",
           "start_time": "12:30",
           "end_time": "14:45",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "14:30",
           "type": "Seminarium",
           "location": null
         }
