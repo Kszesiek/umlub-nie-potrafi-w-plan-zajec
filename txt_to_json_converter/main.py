@@ -142,7 +142,7 @@ def parse_schedule_text(file_path):
                 weekdays_parsed = [days_map[weekday_raw] for weekday_raw in weekdays_raw]
                 weekdays_final = []
                 if duration is None:
-                    weekdays_final = weekdays_parsed
+                    weekdays_final = [*weekdays_parsed * len(weeks)]
                 else:
                     weekdays_final = [weekdaysMapping[index % 5] for index in range(duration) if
                                       weekdaysMapping[index % 5] in weekdays_parsed]
@@ -209,6 +209,8 @@ def parse_schedule_text(file_path):
                     for weekday_phrase in days_indices:
                         if days_indices[weekday_phrase] > -1:
                             weekdays.append(days_map[weekday_phrase])
+
+                weekdays = [*weekdays * len(weeks)]
 
             location_index = max(line.find("Aula"), line.find("Sala"), line.find("Katedra"), line.find("Klinika"),
                                  line.find("Zakład"), line.find("UNIVE"), line.find("ACAD"))
