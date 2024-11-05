@@ -18,7 +18,17 @@ function App() {
   const diffWeek = Math.ceil(diff / (1000 * 3600 * 24 * 7));
 
   const [chosenWeek, setChosenWeek] = useState<number>(diffWeek);
-  const [chosenGroup, setChosenGroup] = useState<number>(1);
+  const [chosenGroup, setChosenGroup] = useState<number>(() => {
+    const localStorageGroup: string | null = localStorage.getItem('group');
+    if (localStorageGroup === null) {
+      return 1;
+    }
+    const lastChosenGroup: number | null = Number(JSON.parse(localStorageGroup)) ?? null;
+    if (lastChosenGroup === null) {
+      return 1;
+    }
+    return lastChosenGroup;
+  });
   const [currentWeekMonday, setCurrentWeekMonday] = useState<Date>(new Date(2024, 10, 30));
 
   useEffect(() => {
@@ -46,10 +56,10 @@ function App() {
               if (height < 700 && index % 2 !== 0) {
                 return null;
               }
-              return <>
-                {index !== 0 && <div key={`gap-${index}`} style={{flex: 1}}/>}
-                <p key={`p-${index}`} className="App-hours-label" style={{top: 0}}>{hour}</p>
-              </>
+              return <React.Fragment key={`hours-${hour}`}>
+                {index !== 0 && <div style={{flex: 1}}/>}
+                <p className="App-hours-label" style={{top: 0}}>{hour}</p>
+              </React.Fragment>
             })}
           </div>
         </div>
@@ -84,7 +94,10 @@ function App() {
                 }
               </select>
               <p>Wybierz numer grupy:</p>
-              <select onChange={(newChosenGroup) => setChosenGroup(Number(newChosenGroup.target.value))}>
+              <select value={chosenGroup} onChange={(newChosenGroup) => {
+                localStorage.setItem('group', JSON.stringify(newChosenGroup.target.value));
+                setChosenGroup(Number(newChosenGroup.target.value));
+              }}>
                 {
                   new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
                     <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
