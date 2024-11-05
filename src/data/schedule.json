@@ -32591,6 +32591,15 @@
           "location": null
         },
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
           "course_name": "Pediatria",
           "katedra": "III Katedra Pediatrii",
           "day": "Monday",
@@ -32648,6 +32657,42 @@
           "start_time": "8:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Wednesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Thursday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -33726,6 +33771,15 @@
           "location": null
         },
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
           "course_name": "Pediatria",
           "katedra": "III Katedra Pediatrii",
           "day": "Monday",
@@ -33783,6 +33837,42 @@
           "start_time": "8:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Wednesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Thursday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -34861,6 +34951,15 @@
           "location": null
         },
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
           "course_name": "Pediatria",
           "katedra": "III Katedra Pediatrii",
           "day": "Monday",
@@ -34918,6 +35017,42 @@
           "start_time": "8:30",
           "end_time": "13:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Monday",
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Tuesday",
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Wednesday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Sądowa",
+          "katedra": "Katedra Medycyny Sądowej",
+          "day": "Thursday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -61211,7 +61346,7 @@
           "day": "Tuesday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -61244,7 +61379,7 @@
           "day": "Monday",
           "start_time": "13:00",
           "end_time": "15:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -61253,7 +61388,7 @@
           "day": "Tuesday",
           "start_time": "13:00",
           "end_time": "15:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -61262,7 +61397,7 @@
           "day": "Wednesday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -61271,7 +61406,7 @@
           "day": "Thursday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -62311,7 +62446,7 @@
           "day": "Tuesday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -62344,7 +62479,7 @@
           "day": "Monday",
           "start_time": "13:00",
           "end_time": "15:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -62353,7 +62488,7 @@
           "day": "Tuesday",
           "start_time": "13:00",
           "end_time": "15:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -62362,7 +62497,7 @@
           "day": "Wednesday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -62371,7 +62506,7 @@
           "day": "Thursday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -63411,7 +63546,7 @@
           "day": "Tuesday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -63444,7 +63579,7 @@
           "day": "Monday",
           "start_time": "13:00",
           "end_time": "15:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -63453,7 +63588,7 @@
           "day": "Tuesday",
           "start_time": "13:00",
           "end_time": "15:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -63462,7 +63597,7 @@
           "day": "Wednesday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -63471,7 +63606,7 @@
           "day": "Thursday",
           "start_time": "13:00",
           "end_time": "14:30",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         }
       ]
