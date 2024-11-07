@@ -1,6 +1,6 @@
 {
   "name": "umlub-nie-potrafi-w-plan-zajec",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "homepage": "https://kszesiek.github.io/umlub-nie-potrafi-w-plan-zajec",
   "private": true,
   "dependencies": {
@@ -13,9 +13,12 @@
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",
+    "react-device-detect": "^2.2.3",
     "react-dom": "^18.3.1",
     "react-icons": "^5.3.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.80.6",
+    "sweetalert2": "^11.14.5",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4",
     "zod": "^3.23.8"

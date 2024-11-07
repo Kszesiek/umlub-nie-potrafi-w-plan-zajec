@@ -1,0 +1,81 @@
+.App-table-column-item {
+  position: absolute;
+  width: 100%; /*TODO: wyświetlanie kilku bloków w tym samym slocie */
+}
+
+.App-table-column-card {
+  position: relative;
+  height: calc(100% - 4px);
+  margin: 2px 4px 0;
+  background-color: var(--fade-color, lightgray);
+  border-radius: 12px;
+  box-shadow: grey 1px 1px 4px;
+  text-align: start;
+  padding-left: 12px;
+  overflow: hidden;
+  z-index: 1;
+  cursor: pointer;
+
+  .App-card-title {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-top: 4px;
+
+    h4 {
+      margin: 0;
+      line-height: 14px;
+      width: min-content;
+    }
+
+    p {
+      padding-left: 4px;
+      margin: 0;
+    }
+  }
+
+  p {
+    margin: 3px 0;
+    font-size: 14px;
+    line-height: 13px;
+  }
+}
+
+.App-table-column-card::after {
+  content: ""; /* Empty content for the pseudo-element */
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 12px; /* Adjust height for the fade effect */
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), var(--fade-color, transparent)); /* Fading effect */
+}
+
+.App-table-column-card:before {
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+  filter: blur(10px);
+  margin: -20px;
+}
+
+.Class-details-popup {
+  border-radius: 24px;
+  height: auto;
+  border: 2px solid transparent;
+  cursor: auto;
+}
+
+.Class-details-popup-mobile {
+  width: calc(100% - 32px);
+}
+
+.Class-details-text {
+  text-align: left;
+}

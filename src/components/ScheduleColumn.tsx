@@ -1,5 +1,5 @@
 import React from "react";
-import './ScheduleColumn.css';
+import './ScheduleColumn.scss';
 import {hours} from "../constants/hours";
 import {GroupClasses} from "../schemas/GroupClassesSchema";
 import {ScheduleCard} from "./ScheduleCard";
@@ -13,7 +13,7 @@ export function ScheduleColumn({columnName, groupClasses, chosenGroup, chosenWee
   chosenGroup: number | null,
   chosenWeek: number | null,
 }) {
-  const {height, width} = useWindowDimensions();
+  const {height} = useWindowDimensions();
 
   return <div className="App-table-column">
     <div className="App-table-column-title">

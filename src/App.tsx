@@ -1,20 +1,21 @@
 import React, {useEffect, useState} from 'react';
-import './App.css';
+import './App.scss';
 import {ScheduleColumn} from "./components/ScheduleColumn";
 import {hours} from "./constants/hours";
 import {GroupClasses} from "./schemas/GroupClassesSchema";
 import useWindowDimensions from "./utils/useWindowDimensions";
 import {getData} from "./data";
-import {FaCircleInfo, FaTriangleExclamation} from "react-icons/fa6";
+import {FaTriangleExclamation} from "react-icons/fa6";
 import {formatDateWithAddedDays} from "./utils/dateFormat";
-import packageJson from '../package.json';
+import {BrowserView, MobileView} from 'react-device-detect';
+import {PageHeader} from "./components/PageHeader";
 
 function App() {
   const data: GroupClasses[] = getData();
 
-  const date1 = new Date();
-  const date2 = new Date(2024, 8, 28);
-  const diff = Math.abs(date1.getTime() - date2.getTime());
+  const today = new Date();
+  const dayZero = new Date(2024, 8, 28);
+  const diff = Math.abs(today.getTime() - dayZero.getTime());
   const diffWeek = Math.ceil(diff / (1000 * 3600 * 24 * 7));
 
   const [chosenWeek, setChosenWeek] = useState<number>(diffWeek);
@@ -31,24 +32,67 @@ function App() {
   });
   const [currentWeekMonday, setCurrentWeekMonday] = useState<Date>(new Date(2024, 10, 30));
 
+  const [activeWeekdayMobile, setActiveWeekdayMobile] = useState<number>(() => {
+    if (1 <= today.getDay() && today.getDay() <= 5) {
+      return today.getDay() - 1;
+    } else return 1;
+  });
+
+  const scheduleColumns = [
+    <ScheduleColumn key="Monday" columnName={`Poniedziałek (${formatDateWithAddedDays(currentWeekMonday, 0)})`}
+                    groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>,
+    <ScheduleColumn key="Tuesday" columnName={`Wtorek (${formatDateWithAddedDays(currentWeekMonday, 1)})`}
+                    groupClasses={data}
+                    chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>,
+    <ScheduleColumn key="Wednesday" columnName={`Środa (${formatDateWithAddedDays(currentWeekMonday, 2)})`}
+                    groupClasses={data}
+                    chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>,
+    <ScheduleColumn key="Thursday" columnName={`Czwartek (${formatDateWithAddedDays(currentWeekMonday, 3)})`}
+                    groupClasses={data}
+                    chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>,
+    <ScheduleColumn key="Friday" columnName={`Piątek (${formatDateWithAddedDays(currentWeekMonday, 4)})`}
+                    groupClasses={data}
+                    chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>,
+  ]
+
+  const weekSelect = <select defaultValue={chosenWeek} className="Filter"
+                             onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
+    {
+      new Array(19).fill(null).map((_, i) => i + 1).map((week_number) => {
+        const monday = new Date(2024, 8, 30)
+        monday.setDate(monday.getDate() + (week_number - 1) * 7)
+        const sunday = new Date(2024, 8, 30)
+        sunday.setDate(sunday.getDate() + (week_number - 1) * 7 + 6)
+
+        return <option key={week_number}
+                       value={week_number}>{`Tydzień ${week_number} (${monday.getDate()}.${(monday.getMonth() + 1).toString().padStart(2, '0')}-${sunday.getDate()}.${(sunday.getMonth() + 1).toString().padStart(2, '0')})`}</option>
+      })
+    }
+  </select>
+
+  const groupSelect = <select className="Filter" value={chosenGroup} onChange={(newChosenGroup) => {
+    localStorage.setItem('group', JSON.stringify(newChosenGroup.target.value));
+    setChosenGroup(Number(newChosenGroup.target.value));
+  }}>
+    {
+      new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
+        <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
+      ))
+    }
+  </select>
+
   useEffect(() => {
     const baseDate = new Date(2024, 8, 30);
     baseDate.setDate(baseDate.getDate() + (chosenWeek - 1) * 7);
     setCurrentWeekMonday(baseDate);
   }, [chosenWeek]);
 
-  const {height, width} = useWindowDimensions();
+  const {height} = useWindowDimensions();
 
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          UMLub nie potrafi w plan zajęć 🙃
-        </p>
-        <div style={{flex: 1}}/>
-        <div className="App-version-container">wersja {packageJson.version}</div>
-      </header>
-      <div className="App-content">
+      <PageHeader/>
+      <BrowserView className="Browser-view">
         <div className="App-hours-outer-container">
           <h3>.</h3>
           <div className="App-hours-inner-container">
@@ -64,52 +108,15 @@ function App() {
           </div>
         </div>
         <div className="App-table">
-          <ScheduleColumn columnName={`Poniedziałek (${formatDateWithAddedDays(currentWeekMonday, 0)})`}
-                          groupClasses={data} chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName={`Wtorek (${formatDateWithAddedDays(currentWeekMonday, 1)})`} groupClasses={data}
-                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName={`Środa (${formatDateWithAddedDays(currentWeekMonday, 2)})`} groupClasses={data}
-                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName={`Czwartek (${formatDateWithAddedDays(currentWeekMonday, 3)})`} groupClasses={data}
-                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
-          <ScheduleColumn columnName={`Piątek (${formatDateWithAddedDays(currentWeekMonday, 4)})`} groupClasses={data}
-                          chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>
+          {scheduleColumns.map((column) => column)}
         </div>
         <div className="App-right-bar-wrapper">
           <div className="Shadow-wrapper" style={{backgroundColor: "gold"}}>
             <div className="App-settings">
               <p>Wybierz tydzień:</p>
-              <select defaultValue={chosenWeek}
-                      onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
-                {
-                  new Array(19).fill(null).map((_, i) => i + 1).map((week_number) => {
-                    const monday = new Date(2024, 8, 30)
-                    monday.setDate(monday.getDate() + (week_number - 1) * 7)
-                    const sunday = new Date(2024, 8, 30)
-                    sunday.setDate(sunday.getDate() + (week_number - 1) * 7 + 6)
-
-                    return <option key={week_number}
-                                   value={week_number}>{`Tydzień ${week_number} (${monday.getDate()}.${(monday.getMonth() + 1).toString().padStart(2, '0')}-${sunday.getDate()}.${(sunday.getMonth() + 1).toString().padStart(2, '0')})`}</option>
-                  })
-                }
-              </select>
+              {weekSelect}
               <p>Wybierz numer grupy:</p>
-              <select value={chosenGroup} onChange={(newChosenGroup) => {
-                localStorage.setItem('group', JSON.stringify(newChosenGroup.target.value));
-                setChosenGroup(Number(newChosenGroup.target.value));
-              }}>
-                {
-                  new Array(56).fill(null).map((_, i) => i + 1).map((group_number) => (
-                    <option key={group_number} value={group_number}>{`Grupa ${group_number}`}</option>
-                  ))
-                }
-              </select>
-            </div>
-          </div>
-          <div className="App-sidebar-wrapper">
-            <div className="App-sidebar-container Info-container">
-              <FaCircleInfo size={24} color="#0080FFFF"/>
-              <p>Wersja mobilna już wkrótce!</p>
+              {groupSelect}
             </div>
           </div>
           <div className="App-sidebar-wrapper">
@@ -128,7 +135,50 @@ function App() {
             </div>
           </div>
         </div>
-      </div>
+      </BrowserView>
+
+      <MobileView className="Mobile-view">
+        <div className="Filters-container">
+          {weekSelect}
+          {groupSelect}
+        </div>
+        <div className="Weekdays">
+          <div className={activeWeekdayMobile === 0 ? "Chosen-weekday" : undefined}
+               onClick={() => setActiveWeekdayMobile(0)}>pon
+          </div>
+          <div className={activeWeekdayMobile === 1 ? "Chosen-weekday" : undefined}
+               onClick={() => setActiveWeekdayMobile(1)}>wt
+          </div>
+          <div className={activeWeekdayMobile === 2 ? "Chosen-weekday" : undefined}
+               onClick={() => setActiveWeekdayMobile(2)}>śr
+          </div>
+          <div className={activeWeekdayMobile === 3 ? "Chosen-weekday" : undefined}
+               onClick={() => setActiveWeekdayMobile(3)}>czw
+          </div>
+          <div className={activeWeekdayMobile === 4 ? "Chosen-weekday" : undefined}
+               onClick={() => setActiveWeekdayMobile(4)}>pt
+          </div>
+        </div>
+        <div className="Schedule-component">
+          <div className="App-hours-outer-container">
+            <h3>.</h3>
+            <div className="App-hours-inner-container">
+              {hours.map((hour, index) => {
+                if (height < 700 && index % 2 !== 0) {
+                  return null;
+                }
+                return <React.Fragment key={`hours-${hour}`}>
+                  {index !== 0 && <div style={{flex: 1}}/>}
+                  <p className="App-hours-label" style={{top: 0}}>{hour}</p>
+                </React.Fragment>
+              })}
+            </div>
+          </div>
+          <div className="Schedule-column">
+            {scheduleColumns[activeWeekdayMobile]}
+          </div>
+        </div>
+      </MobileView>
     </div>
   );
 }
