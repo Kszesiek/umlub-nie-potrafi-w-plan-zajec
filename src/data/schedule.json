@@ -652,7 +652,7 @@
           "day": "Monday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -775,7 +775,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -1834,7 +1834,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -1957,7 +1957,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -3016,7 +3016,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -3139,7 +3139,7 @@
           "day": "Friday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -4279,7 +4279,7 @@
           "day": "Monday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -4402,7 +4402,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -5459,7 +5459,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -5582,7 +5582,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -6135,7 +6135,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -6231,7 +6231,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -6240,7 +6240,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -6249,7 +6249,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -6639,7 +6639,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -6762,7 +6762,7 @@
           "day": "Friday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -7315,7 +7315,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -7411,7 +7411,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -7420,7 +7420,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -7429,7 +7429,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -7829,7 +7829,7 @@
           "day": "Monday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -7952,7 +7952,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -8495,7 +8495,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -8591,7 +8591,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -8600,7 +8600,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -8609,7 +8609,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -9009,7 +9009,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -9132,7 +9132,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -9675,7 +9675,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -9771,7 +9771,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -9780,7 +9780,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -9789,7 +9789,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -10189,7 +10189,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -10312,7 +10312,7 @@
           "day": "Friday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -11369,7 +11369,7 @@
           "day": "Monday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -11492,7 +11492,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -12549,7 +12549,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -12672,7 +12672,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -13729,7 +13729,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -13852,7 +13852,7 @@
           "day": "Friday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -15276,6 +15276,15 @@
           "start_time": "12:00",
           "end_time": "15:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Rodzinna",
+          "katedra": "Katedra Dietetyki i Bioanalityki",
+          "day": "Thursday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -15380,7 +15389,7 @@
           "day": "Monday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -15389,7 +15398,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -16537,7 +16546,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -16547,6 +16556,15 @@
           "start_time": "12:00",
           "end_time": "15:00",
           "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Rodzinna",
+          "katedra": "Katedra Dietetyki i Bioanalityki",
+          "day": "Thursday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -16651,7 +16669,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -17084,7 +17102,7 @@
           "day": "Tuesday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -17258,7 +17276,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -17267,7 +17285,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -17276,7 +17294,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -17799,7 +17817,16 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Medycyna Rodzinna",
+          "katedra": "Katedra Dietetyki i Bioanalityki",
+          "day": "Thursday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
           "location": null
         }
       ]
@@ -17904,7 +17931,7 @@
           "day": "Friday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -18247,7 +18274,7 @@
           "day": "Tuesday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -18421,7 +18448,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -18430,7 +18457,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -18439,7 +18466,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -19076,7 +19103,7 @@
           "day": "Monday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -19094,7 +19121,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -19428,7 +19455,7 @@
           "day": "Tuesday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -19602,7 +19629,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -19611,7 +19638,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -19620,7 +19647,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -20152,7 +20179,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -20275,7 +20302,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -20609,7 +20636,7 @@
           "day": "Tuesday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -20783,7 +20810,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -20792,7 +20819,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -20801,7 +20828,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -21333,7 +21360,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -21447,7 +21474,7 @@
           "day": "Friday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -22638,7 +22665,7 @@
           "day": "Monday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -22647,7 +22674,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -23705,7 +23732,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -23828,7 +23855,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -24886,7 +24913,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -25000,7 +25027,7 @@
           "day": "Friday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -26181,7 +26208,7 @@
           "day": "Monday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -26199,7 +26226,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -27266,7 +27293,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -27389,7 +27416,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -27965,7 +27992,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -28088,7 +28115,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -28097,7 +28124,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -28106,7 +28133,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -28456,7 +28483,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -28570,7 +28597,7 @@
           "day": "Friday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -28813,7 +28840,7 @@
           "day": "Monday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -28822,7 +28849,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -29281,7 +29308,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -29404,7 +29431,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -29413,7 +29440,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -29422,7 +29449,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -29879,7 +29906,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -30011,7 +30038,7 @@
           "day": "Wednesday",
           "start_time": "13:00",
           "end_time": "16:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -30470,7 +30497,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -30593,7 +30620,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -30602,7 +30629,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -30611,7 +30638,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -31068,7 +31095,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -31191,7 +31218,7 @@
           "day": "Friday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -31659,7 +31686,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -31782,7 +31809,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -31791,7 +31818,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -31800,7 +31827,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -32362,7 +32389,7 @@
           "day": "Monday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -32380,7 +32407,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -33437,7 +33464,7 @@
           "day": "Tuesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -33560,7 +33587,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -34617,7 +34644,7 @@
           "day": "Wednesday",
           "start_time": "8:00",
           "end_time": "10:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -34731,7 +34758,7 @@
           "day": "Friday",
           "start_time": "8:00",
           "end_time": "11:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -36061,7 +36088,7 @@
           "day": "Monday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -36166,7 +36193,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -37252,7 +37279,7 @@
           "day": "Tuesday",
           "start_time": "12:00",
           "end_time": "14:15",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -37348,7 +37375,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:00",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -38167,7 +38194,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -38176,7 +38203,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -38185,7 +38212,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -38194,7 +38221,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -38227,7 +38254,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -38683,7 +38710,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -38806,7 +38833,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -38815,7 +38842,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -38824,7 +38851,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -39241,7 +39268,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -39250,7 +39277,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -39259,7 +39286,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -39268,7 +39295,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -39301,7 +39328,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -39666,7 +39693,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -39789,7 +39816,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -39798,7 +39825,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -39807,7 +39834,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -40315,7 +40342,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -40324,7 +40351,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -40333,7 +40360,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -40342,7 +40369,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -40375,7 +40402,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -40740,7 +40767,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -40863,7 +40890,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -40872,7 +40899,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -40881,7 +40908,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -41840,7 +41867,7 @@
           "day": "Friday",
           "start_time": "14:00",
           "end_time": "16:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -41963,7 +41990,7 @@
           "day": "Wednesday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -41972,7 +41999,7 @@
           "day": "Thursday",
           "start_time": "12:00",
           "end_time": "15:45",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -41981,7 +42008,7 @@
           "day": "Friday",
           "start_time": "11:15",
           "end_time": "14:15",
-          "type": null,
+          "type": "Seminarium",
           "location": null
         },
         {
@@ -42303,7 +42330,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -42312,7 +42339,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -42321,7 +42348,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -42330,7 +42357,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -42363,7 +42390,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -43375,7 +43402,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -43384,7 +43411,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -43393,7 +43420,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -43402,7 +43429,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -43435,7 +43462,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -44447,7 +44474,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44456,7 +44483,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44465,7 +44492,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44474,7 +44501,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44507,7 +44534,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -44716,7 +44743,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44725,7 +44752,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44734,7 +44761,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44743,7 +44770,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -44776,7 +44803,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -45896,7 +45923,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -45905,7 +45932,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -45914,7 +45941,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -45923,7 +45950,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -45956,7 +45983,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -46994,7 +47021,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47003,7 +47030,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47012,7 +47039,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47021,7 +47048,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47054,7 +47081,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47914,7 +47941,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47923,7 +47950,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47932,7 +47959,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -47941,7 +47968,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -47974,7 +48001,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -49014,7 +49041,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -49023,7 +49050,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -49032,7 +49059,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -49041,7 +49068,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -49074,7 +49101,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -50113,7 +50140,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -50122,7 +50149,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -50131,7 +50158,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -50140,7 +50167,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -50173,7 +50200,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -51438,7 +51465,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -51498,7 +51525,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -51507,7 +51534,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -51516,7 +51543,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -51525,7 +51552,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -52628,7 +52655,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -52688,7 +52715,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -52697,7 +52724,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -52706,7 +52733,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -52715,7 +52742,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -53727,7 +53754,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -53787,7 +53814,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -53796,7 +53823,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -53805,7 +53832,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -53814,7 +53841,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -54748,7 +54775,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -54781,7 +54808,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -54790,7 +54817,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -54799,7 +54826,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -54808,7 +54835,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -55730,7 +55757,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -55763,7 +55790,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -55772,7 +55799,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -55781,7 +55808,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -55790,7 +55817,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -56803,7 +56830,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -56836,7 +56863,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -56845,7 +56872,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -56854,7 +56881,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -56863,7 +56890,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -58024,7 +58051,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -58033,7 +58060,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -58042,7 +58069,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -58051,7 +58078,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -58060,7 +58087,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -59187,7 +59214,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -59196,7 +59223,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -59205,7 +59232,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -59214,7 +59241,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -59223,7 +59250,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -60377,7 +60404,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -60386,7 +60413,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -60395,7 +60422,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -60404,7 +60431,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -60413,7 +60440,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -61463,7 +61490,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -61472,7 +61499,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -61481,7 +61508,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -61490,7 +61517,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -61499,7 +61526,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -62563,7 +62590,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -62572,7 +62599,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -62581,7 +62608,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -62590,7 +62617,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -62599,7 +62626,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -63663,7 +63690,7 @@
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -63672,7 +63699,7 @@
           "day": "Tuesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -63681,7 +63708,7 @@
           "day": "Wednesday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -63690,7 +63717,7 @@
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -63699,7 +63726,7 @@
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": null,
+          "type": "Ćwiczenia",
           "location": null
         }
       ]

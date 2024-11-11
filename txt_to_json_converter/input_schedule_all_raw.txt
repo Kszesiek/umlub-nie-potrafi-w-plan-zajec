@@ -143,13 +143,13 @@ poniedz. - wtorek godz. 11:30-13:00 ćwicz.
 poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 3 tydzień:
-piątek godz. 14:00-16:15
+piątek godz. 14:00-16:15 Semin.
 Zakład Radioterapii:
 4 tydzień:
-środa - czwartek godz. 12:00-15:45
+środa - czwartek godz. 12:00-15:45 Semin.
 Zakład Onkologii Klinicznej i Chemioterapii:
 4 tydzień:
-piątek godz. 11:15-14:15
+piątek godz. 11:15-14:15 Semin.
 Grupy 10-14:
 Katedra Onkologii:
 5 tydzień:
@@ -175,13 +175,13 @@ poniedz. - wtorek godz. 11:30-13:00 ćwicz.
 poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 5 tydzień:
-piątek godz. 14:00-16:15
+piątek godz. 14:00-16:15 Semin.
 Zakład Radioterapii:
 6 tydzień:
-środa - czwartek godz. 12:00-15:45
+środa - czwartek godz. 12:00-15:45 Semin.
 Zakład Onkologii Klinicznej i Chemioterapii:
 6 tydzień:
-piątek godz. 11:15-14:15
+piątek godz. 11:15-14:15 Semin.
 Grupy 19-23:
 Katedra Onkologii:
 7 tydzień:
@@ -207,13 +207,13 @@ poniedz. - wtorek godz. 11:30-13:00 ćwicz.
 poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 7 tydzień:
-piątek godz. 14:00-16:15
+piątek godz. 14:00-16:15 Semin.
 Zakład Radioterapii:
 8 tydzień:
-środa - czwartek godz. 12:00-15:45
+środa - czwartek godz. 12:00-15:45 Semin.
 Zakład Onkologii Klinicznej i Chemioterapii:
 8 tydzień:
-piątek godz. 11:15-14:15
+piątek godz. 11:15-14:15 Semin.
 Grupy 28-32:
 Katedra Onkologii:
 9 tydzień:
@@ -239,13 +239,13 @@ poniedz. - wtorek godz. 11:30-13:00 ćwicz.
 poniedz. - wtorek godz. 13:00-14:30 sem.
 Zakład Hematoonkologii Doświadczalnej:
 9 tydzień:
-piątek godz. 14:00-16:15
+piątek godz. 14:00-16:15 Semin.
 Zakład Radioterapii:
 10 tydzień:
-środa - czwartek godz. 12:00-15:45
+środa - czwartek godz. 12:00-15:45 Semin.
 Zakład Onkologii Klinicznej i Chemioterapii:
 10 tydzień:
-piątek godz. 11:15-14:15
+piątek godz. 11:15-14:15 Semin.
 Grupy 37-41:
 Katedra Onkologii:
 11 tydzień:
@@ -971,11 +971,11 @@ piątek godz. 9:30-11:00 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 1 tydzień:
 Grupa 25:
-poniedz. godz. 12:00-14:15
+poniedz. godz. 12:00-14:15 ćwicz.
 Grupa 26:
-wtorek godz. 12:00-14:15
+wtorek godz. 12:00-14:15 ćwicz.
 Grupa 27:
-środa godz. 12:00-14:15
+środa godz. 12:00-14:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 1 tydzień:
 Grupa 25:
@@ -991,11 +991,11 @@ czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 2 tydzień:
 Grupa 25:
-wtorek godz. 12:00-15:00
+wtorek godz. 12:00-15:00 ćwicz.
 Grupa 26:
-środa godz. 13:00-16:00
+środa godz. 13:00-16:00 ćwicz.
 Grupa 27:
-piątek godz. 12:00-15:00
+piątek godz. 12:00-15:00 ćwicz.
 Grupy 28-30:
 Katedra i Zakład Medycyny Rodzinnej:
 1 tydzień:
@@ -1014,11 +1014,11 @@ czwartek godz. 14:00-15:30 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 1 tydzień:
 Grupa 28:
-poniedz. godz. 8:00-10:15
+poniedz. godz. 8:00-10:15 ćwicz.
 Grupa 29:
-wtorek godz. 8:00-10:15
+wtorek godz. 8:00-10:15 ćwicz.
 Grupa 30:
-środa godz. 8:00-10:15
+środa godz. 8:00-10:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 1 tydzień:
 Grupa 28:
@@ -1038,11 +1038,11 @@ czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 2 tydzień:
 Grupa 28:
-wtorek godz. 8:00-11:00
+wtorek godz. 8:00-11:00 ćwicz.
 Grupa 29:
-środa godz. 8:00-11:00
+środa godz. 8:00-11:00 ćwicz.
 Grupa 30:
-piątek godz. 8:00-11:00
+piątek godz. 8:00-11:00 ćwicz.
 Grupy 31-32:
 Katedra i Zakład Medycyny Rodzinnej:
 5 tydzień:
@@ -1059,9 +1059,9 @@ piątek godz. 9:30-11:00 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 5 tydzień:
 Grupa 31:
-poniedz. godz. 12:00-14:15
+poniedz. godz. 12:00-14:15 ćwicz.
 Grupa 32:
-wtorek godz. 12:00-14:15
+wtorek godz. 12:00-14:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 5 tydzień:
 Grupa 31:
@@ -1076,9 +1076,9 @@ czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 6 tydzień:
 Grupa 31:
-wtorek godz. 12:00-15:00
+wtorek godz. 12:00-15:00 ćwicz.
 Grupa 32:
-środa godz. 12:00-15:00
+środa godz. 12:00-15:00 ćwicz.
 Grupy 1-3:
 Katedra i Zakład Medycyny Rodzinnej:
 8 tydzień:
@@ -1095,11 +1095,11 @@ piątek godz. 9:30-11:00 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 8 tydzień:
 Grupa 1:
-poniedz. godz. 12:00-14:15
+poniedz. godz. 12:00-14:15 ćwicz.
 Grupa 2:
-wtorek godz. 12:00-14:15
+wtorek godz. 12:00-14:15 ćwicz.
 Grupa 3:
-środa godz. 12:00-14:15
+środa godz. 12:00-14:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 8 tydzień:
 Grupa 1:
@@ -1115,11 +1115,11 @@ czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 9 tydzień:
 Grupa 1:
-wtorek godz. 12:00-15:00
+wtorek godz. 12:00-15:00 ćwicz.
 Grupa 2:
-środa godz. 12:00-15:00
+środa godz. 12:00-15:00 ćwicz.
 Grupa 3:
-piątek godz. 12:00-15:00
+piątek godz. 12:00-15:00 ćwicz.
 Grupy 4-6:
 Katedra i Zakład Medycyny Rodzinnej:
 8 tydzień:
@@ -1138,11 +1138,11 @@ czwartek godz. 14:00-15:30 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 8 tydzień:
 Grupa 4:
-poniedz. godz. 8:00-10:15
+poniedz. godz. 8:00-10:15 ćwicz.
 Grupa 5:
-wtorek godz. 8:00-10:15
+wtorek godz. 8:00-10:15 ćwicz.
 Grupa 6:
-środa godz. 8:00-10:15
+środa godz. 8:00-10:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 8 tydzień:
 Grupa 4:
@@ -1158,11 +1158,11 @@ czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 9 tydzień:
 Grupa 4:
-wtorek godz. 8:00-11:00
+wtorek godz. 8:00-11:00 ćwicz.
 Grupa 5:
-środa godz. 8:00-11:00
+środa godz. 8:00-11:00 ćwicz.
 Grupa 6:
-piątek godz. 8:00-11:00
+piątek godz. 8:00-11:00 ćwicz.
 Grupy 7-9:
 Katedra i Zakład Medycyny Rodzinnej:
 10 tydzień:
@@ -1179,11 +1179,11 @@ piątek godz. 9:30-11:00 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 10 tydzień:
 Grupa 7:
-poniedz. godz. 12:00-14:15
+poniedz. godz. 12:00-14:15 ćwicz.
 Grupa 8:
-wtorek godz. 12:00-14:15
+wtorek godz. 12:00-14:15 ćwicz.
 Grupa 9:
-środa godz. 12:00-14:15
+środa godz. 12:00-14:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 10 tydzień:
 Grupa 7:
@@ -1199,11 +1199,11 @@ czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 11 tydzień:
 Grupa 7:
-wtorek godz. 12:00-15:00
+wtorek godz. 12:00-15:00 ćwicz.
 Grupa 8:
-środa godz. 12:00-15:00
+środa godz. 12:00-15:00 ćwicz.
 Grupa 9:
-piątek godz. 12:00-15:00
+piątek godz. 12:00-15:00 ćwicz.
 Grupy 10-12:
 Katedra i Zakład Medycyny Rodzinnej:
 10 tydzień:
@@ -1222,11 +1222,11 @@ czwartek godz. 14:00-15:30 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 10 tydzień:
 Grupa 10:
-poniedz. godz. 8:00-10:15
+poniedz. godz. 8:00-10:15 ćwicz.
 Grupa 11:
-wtorek godz. 8:00-10:15
+wtorek godz. 8:00-10:15 ćwicz.
 Grupa 12:
-środa godz. 8:00-10:15
+środa godz. 8:00-10:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 10 tydzień:
 Grupa 10:
@@ -1242,11 +1242,11 @@ czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 11 tydzień:
 Grupa 10:
-wtorek godz. 8:00-11:00
+wtorek godz. 8:00-11:00 ćwicz.
 Grupa 11:
-środa godz. 8:00-11:00
+środa godz. 8:00-11:00 ćwicz.
 Grupa 12:
-piątek godz. 8:00-11:00
+piątek godz. 8:00-11:00 ćwicz.
 Grupy 13-15:
 Katedra i Zakład Medycyny Rodzinnej:
 12 tydzień:
@@ -1263,11 +1263,11 @@ piątek godz. 9:30-11:00 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 12 tydzień:
 Grupa 13:
-poniedz. godz. 12:00-14:15
+poniedz. godz. 12:00-14:15 ćwicz.
 Grupa 14:
-wtorek godz. 12:00-14:15
+wtorek godz. 12:00-14:15 ćwicz.
 Grupa 15:
-środa godz. 12:00-14:15
+środa godz. 12:00-14:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 12 tydzień:
 Grupa 13:
@@ -1279,15 +1279,15 @@ Grupa 15:
 poniedz. godz. 12:00-15:00 ćwicz.
 12 tydzień:
 Grupy 13-15:
-Czwartek godz. 15:00-16:30 semin.
+czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 13 tydzień:
 Grupa 13:
-wtorek godz. 12:00-15:00
+wtorek godz. 12:00-15:00 ćwicz.
 Grupa 14:
-środa godz. 12:00-15:00
+środa godz. 12:00-15:00 ćwicz.
 Grupa 15:
-piątek godz. 12:00-15:00
+piątek godz. 12:00-15:00 ćwicz.
 Grupy 16-18:
 Katedra i Zakład Medycyny Rodzinnej:
 12 tydzień:
@@ -1306,11 +1306,11 @@ czwartek godz. 14:00-15:30 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 12 tydzień:
 Grupa 16:
-poniedz. godz. 8:00-10:15
+poniedz. godz. 8:00-10:15 ćwicz.
 Grupa 17:
-wtorek godz. 8:00-10:15
+wtorek godz. 8:00-10:15 ćwicz.
 Grupa 18:
-środa godz. 8:00-10:15
+środa godz. 8:00-10:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 12 tydzień:
 Grupa 16:
@@ -1326,11 +1326,11 @@ czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 13 tydzień:
 Grupa 16:
-wtorek godz. 8:00-11:00
+wtorek godz. 8:00-11:00 ćwicz.
 Grupa 17:
-środa godz. 8:00-11:00
+środa godz. 8:00-11:00 ćwicz.
 Grupa 18:
-piątek godz. 8:00-11:00
+piątek godz. 8:00-11:00 ćwicz.
 Grupy 19-21:
 Katedra i Zakład Medycyny Rodzinnej:
 14 tydzień:
@@ -1347,11 +1347,11 @@ piątek godz. 9:30-11:00 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 14 tydzień:
 Grupa 19:
-poniedz. godz. 12:00-14:15
+poniedz. godz. 12:00-14:15 ćwicz.
 Grupa 20:
-wtorek godz. 12:00-14:15
+wtorek godz. 12:00-14:15 ćwicz.
 Grupa 21:
-środa godz. 12:00-14:15
+środa godz. 12:00-14:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 14 tydzień:
 Grupa 19:
@@ -1367,11 +1367,11 @@ czwartek godz. 15:00-16:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 15 tydzień:
 Grupa 19:
-wtorek godz. 12:00-15:00
+wtorek godz. 12:00-15:00 ćwicz.
 Grupa 20:
-środa godz. 12:00-15:00
+środa godz. 12:00-15:00 ćwicz.
 Grupa 21:
-piątek godz. 12:00-15:00
+piątek godz. 12:00-15:00 ćwicz.
 Grupy 22-24:
 Katedra i Zakład Medycyny Rodzinnej:
 14 tydzień:
@@ -1390,11 +1390,11 @@ czwartek godz. 14:00-15:30 semin.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 14 tydzień:
 Grupa 22:
-poniedz. godz. 8:00-10:15
+poniedz. godz. 8:00-10:15 ćwicz.
 Grupa 23:
-wtorek godz. 8:00-10:15
+wtorek godz. 8:00-10:15 ćwicz.
 Grupa 24:
-środa godz. 8:00-10:15
+środa godz. 8:00-10:15 ćwicz.
 Katedra Dietetyki i Bioanalityki:
 14 tydzień:
 Grupa 22:
@@ -1410,11 +1410,11 @@ czwartek godz. 8:00-9:30 semin.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 15 tydzień:
 Grupa 22:
-wtorek godz. 8:00-11:00
+wtorek godz. 8:00-11:00 ćwicz.
 Grupa 23:
-środa godz. 8:00-11:00
+środa godz. 8:00-11:00 ćwicz.
 Grupa 24:
-piątek godz. 8:00-11:00
+piątek godz. 8:00-11:00 ćwicz.
 
 10. Pediatria:
 III Katedra Pediatrii:
@@ -1570,28 +1570,28 @@ wtorek - środa godz. 8:30-10:45
 Katedra i Klinika Chirurgii Klatki Piersiowej:
 Grupy 33-35:
 2 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 Grupy 39-41:
 4 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 Grupy 42-44:
 3 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 Grupy 45-47:
 6 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 Grupy 48-50:
 5 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 Grupy 51-53:
 8 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 Grupy 54-56:
 7 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 Grupy 36-38:
 14 tydzień:
-poniedz. - piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30 ćwicz.
 
 13. Chirurgia Dziecięca:
 Katedra i Klinika Chirurgii i Traumatologii Dziecięcej:
