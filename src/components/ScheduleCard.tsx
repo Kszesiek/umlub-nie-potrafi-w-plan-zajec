@@ -22,7 +22,6 @@ export function ScheduleCard({singleClass, top, bottom}: { singleClass: SingleCl
     Swal.fire({
       allowOutsideClick: true,
       title: singleClass.course_name,
-
       customClass: {
         popup: `App-table-column-card Class-details-popup ${isMobile ? "Class-details-popup-mobile" : null}`,
         htmlContainer: "Class-details-text",
@@ -44,7 +43,7 @@ export function ScheduleCard({singleClass, top, bottom}: { singleClass: SingleCl
       <div className="App-table-column-card" style={{'--fade-color': color} as React.CSSProperties}>
         <div className="App-card-title">
           <h4>{singleClass.course_name}</h4>
-          <p className="App-card-title-class-type" style={isMobile && singleClass.type ? {} : {display: "none"}}>({singleClass.type})</p>
+          <p style={isMobile && singleClass.type ? {} : {display: "none"}}>({singleClass.type})</p>
         </div>
         <p style={isMobile ? {display: "none"} : {}}>{singleClass.type}</p>
         <p>{`${singleClass.start_time}-${singleClass.end_time}`}</p>

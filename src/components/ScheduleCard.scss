@@ -21,6 +21,10 @@
     flex-direction: row;
     align-items: flex-end;
     padding-top: 4px;
+    padding-bottom: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 
     h4 {
       margin: 0;
@@ -35,9 +39,9 @@
   }
 
   p {
-    margin: 3px 0;
+    margin: 0 0 2px;
     font-size: 14px;
-    line-height: 13px;
+    line-height: 12px;
   }
 }
 
@@ -70,10 +74,22 @@
   height: auto;
   border: 2px solid transparent;
   cursor: auto;
+  padding-left: 0;
 }
 
 .Class-details-popup-mobile {
   width: calc(100% - 32px);
+
+  .swal2-title {
+    font-size: 22px;
+  }
+
+  .swal2-html-container {
+    padding-top: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 16px;
+  }
 }
 
 .Class-details-text {

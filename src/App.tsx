@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, {ReactElement, useEffect, useState} from 'react';
 import './App.scss';
 import {ScheduleColumn} from "./components/ScheduleColumn";
 import {hours} from "./constants/hours";
@@ -9,6 +9,8 @@ import {FaTriangleExclamation} from "react-icons/fa6";
 import {formatDateWithAddedDays} from "./utils/dateFormat";
 import {BrowserView, MobileView} from 'react-device-detect';
 import {PageHeader} from "./components/PageHeader";
+import Swal from "sweetalert2";
+import {renderToString} from "react-dom/server";
 
 function App() {
   const data: GroupClasses[] = getData();
@@ -37,6 +39,31 @@ function App() {
       return today.getDay() - 1;
     } else return 1;
   });
+
+  const warningMessage: ReactElement = <p><b>Wyświetlane dane mogą zawierać błędy</b>, ponieważ zostały uzyskane w
+    częściowo zautomatyzowany
+    sposób. W razie zauważenia nieprawidłowości napisz proszę maila na adres <a
+      href="mailto:kszesiek@gmail.com">kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu problemu zawrzeć w
+    mailu informację dla której grupy, tygodnia oraz których zajęć problem występuje. Możesz też dołączyć zrzut ekranu.
+    Nie jestem w stanie sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy, ile błędów zostanie
+    wychwyconych i naprawionych. 🤗</p>
+
+  useEffect(() => {
+    const mobileWarning: string | null = localStorage.getItem('mobile-warning');
+    if (mobileWarning !== "true") {
+      Swal.fire({
+        title: "Proszę, przeczytaj mnie",
+        html: renderToString(warningMessage),
+        confirmButtonText: "Rozumiem!",
+        customClass: {
+          popup: "Warning-container Mobile-popup-container",
+        },
+        preConfirm() {
+          localStorage.setItem('mobile-warning', "true");
+        }
+      });
+    }
+  }, [])
 
   const scheduleColumns = [
     <ScheduleColumn key="Monday" columnName={`Poniedziałek (${formatDateWithAddedDays(currentWeekMonday, 0)})`}
@@ -126,12 +153,7 @@ function App() {
                 <h3>Uwaga!</h3>
                 <FaTriangleExclamation size={24} color="red" /*#FFC000*/ />
               </div>
-              <p><b>Wyświetlane dane mogą zawierać błędy</b>, ponieważ zostały uzyskane w częściowo zautomatyzowany
-                sposób. W razie zauważenia nieprawidłowości napisz proszę maila na adres <a
-                  href="mailto:kszesiek@gmail.com">kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu problemu zawrzeć w
-                mailu informację dla której grupy, tygodnia oraz których zajęć problem występuje. Nie jestem w stanie
-                sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy, ile błędów zostanie wychwyconych
-                i naprawionych. 🤗</p>
+              {warningMessage}
             </div>
           </div>
         </div>
