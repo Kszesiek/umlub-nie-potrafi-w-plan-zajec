@@ -7,7 +7,7 @@ import useWindowDimensions from "./utils/useWindowDimensions";
 import {getData} from "./data";
 import {FaTriangleExclamation} from "react-icons/fa6";
 import {formatDateWithAddedDays} from "./utils/dateFormat";
-import {BrowserView, MobileView} from 'react-device-detect';
+import {BrowserView, isMobile, MobileView} from 'react-device-detect';
 import {PageHeader} from "./components/PageHeader";
 import Swal from "sweetalert2";
 import {renderToString} from "react-dom/server";
@@ -50,7 +50,7 @@ function App() {
 
   useEffect(() => {
     const mobileWarning: string | null = localStorage.getItem('mobile-warning');
-    if (mobileWarning !== "true") {
+    if (isMobile && mobileWarning !== "true") {
       Swal.fire({
         title: "Proszę, przeczytaj mnie",
         html: renderToString(warningMessage),
