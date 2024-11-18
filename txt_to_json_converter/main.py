@@ -213,7 +213,7 @@ def parse_schedule_text(file_path):
                 weekdays = [*weekdays * len(weeks)]
 
             location_index = max(line.find("Aula"), line.find("Sala"), line.find("Katedra"), line.find("Klinika"),
-                                 line.find("Zakład"), line.find("UNIVE"), line.find("ACAD"))
+                                 line.find("Zakład"), line.find("UNIVE"), line.find("ACAD"), line.find("Szpital"))
             if location_index > -1:
                 location = line[location_index:]
             else:
