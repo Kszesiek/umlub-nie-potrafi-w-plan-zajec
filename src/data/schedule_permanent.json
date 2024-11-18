@@ -975,12 +975,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 1,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -1960,12 +1993,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 2,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -2945,12 +3011,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 3,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -3930,12 +4029,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 4,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -4915,12 +5047,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 5,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -5900,12 +6065,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 6,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -6885,12 +7083,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 7,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -7870,12 +8101,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 8,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -8855,12 +9119,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 9,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -9840,12 +10137,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 10,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -10825,12 +11155,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 11,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -11810,12 +12173,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 12,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -12795,12 +13191,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 13,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -13780,12 +14209,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -14765,12 +15227,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 15,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -15750,12 +16245,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -16735,12 +17263,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 17,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -17720,12 +18281,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 18,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -18705,12 +19299,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -19690,12 +20317,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -20675,12 +21335,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -21660,12 +22353,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 22,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -22645,12 +23371,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 23,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -23630,12 +24389,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 24,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -24615,12 +25407,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 25,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -25600,12 +26425,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 26,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -26585,12 +27443,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 27,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -27570,12 +28461,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 28,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -28555,12 +29479,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 29,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -29540,12 +30497,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 30,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -30525,12 +31515,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 31,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -31510,12 +32533,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 32,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -32495,12 +33551,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 33,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -33480,12 +34569,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 34,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -34465,12 +35587,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 35,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -35450,12 +36605,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 36,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -36435,12 +37623,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 37,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -37420,12 +38641,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 38,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -38405,12 +39659,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 39,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -39390,12 +40677,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 40,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -40375,12 +41695,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 41,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -41360,12 +42713,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 42,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -42345,12 +43731,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 43,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -43330,12 +44749,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 44,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -44315,12 +45767,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 45,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -45300,12 +46785,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 46,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -46285,12 +47803,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 47,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -47270,12 +48821,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 48,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -48255,12 +49839,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 49,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -49240,12 +50857,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 50,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -50225,12 +51875,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 51,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -51210,12 +52893,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 52,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -52195,12 +53911,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 53,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -53180,12 +54929,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 54,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -54165,12 +55947,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 55,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]
@@ -55150,12 +56965,45 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Medycyna Sądowa",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        },
+        {
           "course_name": "Fakultet",
           "katedra": null,
           "day": "Monday",
           "start_time": "16:30",
           "end_time": "18:45",
           "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Orzecznictwo",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 56,
+      "week": 20,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
           "location": null
         }
       ]

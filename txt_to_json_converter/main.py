@@ -14,7 +14,7 @@ days_map = {
 }
 
 GROUPS = [i for i in range(1, 57)]
-WEEKS = [i for i in range(1, 20)]
+WEEKS = [i for i in range(1, 21)]
 
 
 # Helper function to generate detailed class entries for each day
@@ -170,8 +170,9 @@ def parse_schedule_text(file_path):
 
             class_type = "Ćwiczenia" if ("ćw." in line or "Ćw." in line or "ćwicz." in line or "Ćwicz." in line) else \
                 "Seminarium" if ("sem." in line or "Sem." in line or "semin." in line or "Semin." in line) else \
-                    "Wykład" if ("wykład" in line) else \
-                        None
+                "Wykład" if ("wykład" in line) else \
+                "Egzamin" if ("egzamin" in line) else \
+                None
 
             if any(phrase in line for phrase in days_map.keys()):
                 weekdays: list[str] = []

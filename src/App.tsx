@@ -85,7 +85,7 @@ function App() {
   const weekSelect = <select defaultValue={chosenWeek} className="Filter"
                              onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
     {
-      new Array(19).fill(null).map((_, i) => i + 1).map((week_number) => {
+      new Array(20).fill(null).map((_, i) => i + 1).map((week_number) => {
         const monday = new Date(2024, 8, 30)
         monday.setDate(monday.getDate() + (week_number - 1) * 7)
         const sunday = new Date(2024, 8, 30)
