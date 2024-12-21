@@ -213,12 +213,10 @@ def parse_schedule_text(file_path):
 
                 weekdays = [*weekdays * len(weeks)]
 
-            location_index = max(line.find("Aula"), line.find("Sala"), line.find("Katedra"), line.find("Klinika"),
-                                 line.find("Zakład"), line.find("UNIVE"), line.find("ACAD"), line.find("Szpital"))
-            if location_index > -1:
-                location = line[location_index:]
-            else:
-                location = None
+            location_keywords = ["aula", "sala", "katedra", "klinika", "zakład", "unive", "acad", "szpital"]
+            location_indices = [line.lower().find(location_keyword) for location_keyword in location_keywords]
+            location_index = max(location_indices)
+            location = line[location_index:] if location_index > -1 else None
 
             class_entries = generate_detailed_class_entries(course_name, katedra, weekdays, time,
                                                             class_type, weeks, location)
@@ -247,6 +245,6 @@ def main(input_file, output_file):
 
 
 # Usage
-input_file = 'input_schedule_all_raw.txt'  # Path to your input text file
+input_file = 'input_schedule_25l.txt'  # Path to your input text file
 output_file = 'output_schedule.json'  # Path to your output JSON file
 main(input_file, output_file)
