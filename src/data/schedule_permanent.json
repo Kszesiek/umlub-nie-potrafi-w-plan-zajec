@@ -786,15 +786,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -857,9 +848,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -926,9 +917,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -975,6 +966,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -1804,15 +1813,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -1875,9 +1875,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -1944,9 +1944,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -1993,6 +1993,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -2822,15 +2840,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -2893,9 +2902,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -2962,9 +2971,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -3011,6 +3020,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -3840,15 +3867,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -3911,9 +3929,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -3980,9 +3998,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -4029,6 +4047,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -4858,15 +4894,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -4929,9 +4956,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -4998,9 +5025,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -5047,6 +5074,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -5876,15 +5921,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -5947,9 +5983,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -6016,9 +6052,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -6065,6 +6101,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -6867,15 +6921,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -6947,9 +6992,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -7025,9 +7070,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -7083,6 +7128,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -7885,15 +7948,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -7965,9 +8019,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -8043,9 +8097,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -8101,6 +8155,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -8903,15 +8975,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -8983,9 +9046,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -9061,9 +9124,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -9119,6 +9182,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -9921,15 +10002,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -10001,9 +10073,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -10079,9 +10151,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -10137,6 +10209,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -10939,15 +11029,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -11019,9 +11100,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -11097,9 +11178,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -11155,6 +11236,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -11957,15 +12056,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -12037,9 +12127,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -12115,9 +12205,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -12173,6 +12263,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -12975,15 +13083,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -13055,9 +13154,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -13133,9 +13232,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -13191,6 +13290,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -13993,15 +14110,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -14073,9 +14181,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -14151,9 +14259,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -14209,6 +14317,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -15011,15 +15137,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -15091,9 +15208,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -15169,9 +15286,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -15227,6 +15344,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -16029,15 +16164,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -16109,9 +16235,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -16187,9 +16313,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -16245,6 +16371,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -17047,15 +17191,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -17127,9 +17262,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -17205,9 +17340,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -17263,6 +17398,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -18065,15 +18218,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -18145,9 +18289,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -18223,9 +18367,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -18281,6 +18425,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -19110,15 +19272,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -19181,9 +19334,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -19250,9 +19403,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -19299,6 +19452,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -20128,15 +20299,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -20199,9 +20361,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -20268,9 +20430,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -20317,6 +20479,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -21146,15 +21326,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -21217,9 +21388,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -21286,9 +21457,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -21335,6 +21506,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -22164,15 +22353,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -22235,9 +22415,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -22304,9 +22484,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -22353,6 +22533,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -23182,15 +23380,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -23253,9 +23442,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -23322,9 +23511,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -23371,6 +23560,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -24200,15 +24407,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -24271,9 +24469,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -24340,9 +24538,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -24389,6 +24587,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -25191,15 +25407,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -25271,9 +25478,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -25349,9 +25556,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -25407,6 +25614,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -26209,15 +26434,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -26289,9 +26505,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -26367,9 +26583,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -26425,6 +26641,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -27227,15 +27461,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -27307,9 +27532,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -27385,9 +27610,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -27443,6 +27668,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -28245,15 +28488,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -28325,9 +28559,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -28403,9 +28637,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -28461,6 +28695,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -29263,15 +29515,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -29343,9 +29586,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -29421,9 +29664,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -29479,6 +29722,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -30281,15 +30542,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -30361,9 +30613,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -30439,9 +30691,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -30497,6 +30749,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -31353,15 +31623,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -31415,9 +31676,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -31475,9 +31736,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -31515,6 +31776,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -32371,15 +32650,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -32433,9 +32703,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -32493,9 +32763,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -32533,6 +32803,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "10:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -33389,15 +33677,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -33451,9 +33730,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -33511,9 +33790,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -33551,6 +33830,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -34407,15 +34704,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -34469,9 +34757,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -34529,9 +34817,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -34569,6 +34857,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -35425,15 +35731,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -35487,9 +35784,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -35547,9 +35844,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -35587,6 +35884,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -36443,15 +36758,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -36505,9 +36811,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -36565,9 +36871,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -36605,6 +36911,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -37461,15 +37785,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -37523,9 +37838,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -37583,9 +37898,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -37623,6 +37938,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -38479,15 +38812,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -38541,9 +38865,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -38601,9 +38925,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -38641,6 +38965,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -39497,15 +39839,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -39559,9 +39892,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -39619,9 +39952,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -39659,6 +39992,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -40515,15 +40866,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -40577,9 +40919,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -40637,9 +40979,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -40677,6 +41019,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -41533,15 +41893,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -41595,9 +41946,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -41655,9 +42006,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -41695,6 +42046,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -42551,15 +42920,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -42613,9 +42973,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -42673,9 +43033,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -42713,6 +43073,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -43542,15 +43920,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -43613,9 +43982,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -43682,9 +44051,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -43731,6 +44100,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -44560,15 +44947,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -44631,9 +45009,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -44700,9 +45078,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -44749,6 +45127,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -45578,15 +45974,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -45649,9 +46036,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -45718,9 +46105,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -45767,6 +46154,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -46596,15 +47001,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -46667,9 +47063,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -46736,9 +47132,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -46785,6 +47181,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -47614,15 +48028,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -47685,9 +48090,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -47754,9 +48159,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -47803,6 +48208,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -48632,15 +49055,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -48703,9 +49117,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -48772,9 +49186,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -48821,6 +49235,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -49650,15 +50082,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -49721,9 +50144,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -49790,9 +50213,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -49839,6 +50262,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -50641,15 +51082,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -50721,9 +51153,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -50799,9 +51231,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -50857,6 +51289,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -51659,15 +52109,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -51739,9 +52180,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -51817,9 +52258,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -51875,6 +52316,24 @@
       "week": 19,
       "classes": [
         {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
           "day": "Thursday",
@@ -52677,15 +53136,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -52757,9 +53207,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -52835,9 +53285,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -52892,6 +53342,24 @@
       "group": 52,
       "week": 19,
       "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
         {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
@@ -53695,15 +54163,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -53775,9 +54234,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -53853,9 +54312,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -53910,6 +54369,24 @@
       "group": 53,
       "week": 19,
       "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
         {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
@@ -54713,15 +55190,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -54793,9 +55261,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -54871,9 +55339,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -54928,6 +55396,24 @@
       "group": 54,
       "week": 19,
       "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
         {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
@@ -55731,15 +56217,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -55811,9 +56288,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -55889,9 +56366,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -55946,6 +56423,24 @@
       "group": 55,
       "week": 19,
       "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
         {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
@@ -56749,15 +57244,6 @@
           "location": null
         },
         {
-          "course_name": "Psychiatria",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
-          "type": "Wykład",
-          "location": null
-        },
-        {
           "course_name": "Medycyna Rodzinna",
           "katedra": null,
           "day": "Friday",
@@ -56829,9 +57315,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -56907,9 +57393,9 @@
         {
           "course_name": "Psychiatria",
           "katedra": null,
-          "day": "Wednesday",
-          "start_time": "20:30",
-          "end_time": "22:00",
+          "day": "Tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
           "type": "Wykład",
           "location": null
         },
@@ -56964,6 +57450,24 @@
       "group": 56,
       "week": 19,
       "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "type": "Egzamin",
+          "location": "Aula Wykładowa CSM (4 piętro)"
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
         {
           "course_name": "Medycyna Sądowa",
           "katedra": null,
