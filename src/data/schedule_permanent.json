@@ -969,8 +969,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -1005,8 +1005,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -1020,10 +1029,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -1996,8 +2005,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -2032,8 +2041,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -2047,10 +2065,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -3023,8 +3041,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -3059,8 +3077,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -3074,10 +3101,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -4050,8 +4077,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -4086,8 +4113,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -4101,10 +4137,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -5077,8 +5113,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -5113,8 +5149,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -5128,10 +5173,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -6104,8 +6149,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -6140,8 +6185,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -6155,10 +6209,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -7131,8 +7185,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -7167,8 +7221,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -7182,10 +7245,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -8158,8 +8221,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -8194,8 +8257,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -8209,10 +8281,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -9185,8 +9257,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -9221,8 +9293,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -9236,10 +9317,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -10212,8 +10293,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -10248,8 +10329,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -10263,10 +10353,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -11239,8 +11329,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -11275,8 +11365,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -11290,10 +11389,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -12266,8 +12365,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -12302,8 +12401,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -12317,10 +12425,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -13293,8 +13401,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -13329,8 +13437,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -13344,10 +13461,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -14320,8 +14437,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -14356,8 +14473,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -14371,10 +14497,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -15347,8 +15473,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -15383,8 +15509,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -15398,10 +15533,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -16374,8 +16509,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -16410,8 +16545,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -16425,10 +16569,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -17401,8 +17545,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -17437,8 +17581,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -17452,10 +17605,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -18428,8 +18581,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -18464,8 +18617,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -18479,10 +18641,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -19455,8 +19617,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -19491,8 +19653,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -19506,10 +19677,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -20482,8 +20653,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -20518,8 +20689,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -20533,10 +20713,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -21509,8 +21689,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -21545,8 +21725,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "8:15",
+          "end_time": "9:10",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -21560,10 +21749,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -22536,8 +22725,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -22572,8 +22761,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -22587,10 +22785,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -23563,8 +23761,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -23599,8 +23797,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -23614,10 +23821,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -24590,8 +24797,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -24626,8 +24833,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -24641,10 +24857,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -25617,8 +25833,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -25653,8 +25869,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -25668,10 +25893,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -26644,8 +26869,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -26680,8 +26905,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -26695,10 +26929,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -27671,8 +27905,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -27707,8 +27941,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -27722,10 +27965,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -28698,8 +28941,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -28734,8 +28977,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -28749,10 +29001,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -29725,8 +29977,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -29761,8 +30013,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -29776,10 +30037,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -30752,8 +31013,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -30788,8 +31049,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -30803,10 +31073,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -31779,8 +32049,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -31815,8 +32085,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -31830,10 +32109,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -32806,8 +33085,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "10:00",
+          "start_time": "7:30",
+          "end_time": "9:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -32842,8 +33121,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -32857,10 +33145,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -33833,8 +34121,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -33869,8 +34157,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -33884,10 +34181,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -34860,8 +35157,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -34896,8 +35193,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -34911,10 +35217,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -35887,8 +36193,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -35923,8 +36229,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -35938,10 +36253,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -36914,8 +37229,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -36950,8 +37265,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -36965,10 +37289,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -37941,8 +38265,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -37977,8 +38301,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -37992,10 +38325,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -38968,8 +39301,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -39004,8 +39337,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -39019,10 +39361,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -39995,8 +40337,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -40031,8 +40373,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -40046,10 +40397,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -41022,8 +41373,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -41058,8 +41409,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -41073,10 +41433,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -42049,8 +42409,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -42085,8 +42445,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -42100,10 +42469,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -43076,8 +43445,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -43112,8 +43481,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:30",
+          "end_time": "10:25",
+          "type": "Egzamin",
+          "location": "Aula dolna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -43127,10 +43505,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -44103,8 +44481,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -44139,8 +44517,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -44154,10 +44541,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -45130,8 +45517,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -45166,8 +45553,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -45181,10 +45577,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -46157,8 +46553,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -46193,8 +46589,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -46208,10 +46613,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -47184,8 +47589,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -47220,8 +47625,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -47235,10 +47649,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -48211,8 +48625,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -48247,8 +48661,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -48262,10 +48685,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -49238,8 +49661,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -49274,8 +49697,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -49289,10 +49721,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -50265,8 +50697,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -50301,8 +50733,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -50316,10 +50757,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -51292,8 +51733,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -51328,8 +51769,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -51343,10 +51793,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -52319,8 +52769,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -52355,8 +52805,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -52370,10 +52829,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -53346,8 +53805,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -53382,8 +53841,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -53397,10 +53865,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -54373,8 +54841,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -54409,8 +54877,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -54424,10 +54901,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -55400,8 +55877,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -55436,8 +55913,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -55451,10 +55937,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -56427,8 +56913,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -56463,8 +56949,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -56478,10 +56973,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     },
@@ -57454,8 +57949,8 @@
           "course_name": "Onkologia",
           "katedra": null,
           "day": "Wednesday",
-          "start_time": "10:00",
-          "end_time": "12:00",
+          "start_time": "9:30",
+          "end_time": "11:30",
           "type": "Egzamin",
           "location": "Aula Wykładowa CSM (4 piętro)"
         },
@@ -57490,8 +57985,17 @@
           "course_name": "Orzecznictwo",
           "katedra": null,
           "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "10:45",
+          "end_time": "11:40",
+          "type": "Egzamin",
+          "location": "Aula górna"
+        },
+        {
+          "course_name": "Laryngologia",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "15:40",
           "type": "Egzamin",
           "location": null
         }
@@ -57505,10 +58009,10 @@
           "course_name": "Anestezjologia",
           "katedra": null,
           "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "22:00",
+          "start_time": "9:45",
+          "end_time": "11:30",
           "type": "Egzamin",
-          "location": null
+          "location": "Aula w Collegium Maius"
         }
       ]
     }

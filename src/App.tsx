@@ -147,11 +147,24 @@ function App() {
             </div>
           </div>
           <div className="App-sidebar-wrapper">
-            <div className="App-sidebar-warning-container Error-container">
+            <div className="App-sidebar-warning-container Info-container">
               <div className="App-sidebar-warning-title">
-                <FaTriangleExclamation size={24} color="red"/>
+                <h3>Co nowego</h3>
+              </div>
+              <div className="App-sidebar-warning-details">
+                <p>
+                  <li>Poprawne godziny egzaminów (oprócz medycyny sądowej)</li>
+                  <li>Dodany egzamin z laryngologii</li>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="App-sidebar-wrapper">
+            <div className="App-sidebar-warning-container Warning-container">
+              <div className="App-sidebar-warning-title">
+                <FaTriangleExclamation size={24} color="#FFC000"/>
                 <h3>Uwaga!</h3>
-                <FaTriangleExclamation size={24} color="red" /*#FFC000*/ />
+                <FaTriangleExclamation size={24} color="#FFC000"/>
               </div>
               {warningMessage}
             </div>

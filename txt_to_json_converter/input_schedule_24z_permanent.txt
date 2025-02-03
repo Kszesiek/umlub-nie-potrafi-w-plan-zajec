@@ -7,7 +7,7 @@ Grupy 1-56:
 8-14 tydzień:
 poniedz. godz. 19:00-20:30 wykład
 17 tydzień:
-poniedziałek godz. 8:00-22:00 egzamin
+poniedziałek godz. 9:45-11:30 egzamin Aula w Collegium Maius
 1. Torakochirurgia:
 Grupy 1-56:
 9-13 tydzień:
@@ -16,12 +16,11 @@ wtorek godz. 19:00-20:30 wykład
 Grupy 1-56:
 1-8 tydzień:
 środa godz. 19:00-20:30 wykład
+16 tydzień:
 Grupy 1-32:
-16 tydzień:
-środa godz. 8:00-10:00 egzamin Aula Wykładowa CSM (4 piętro)
+środa godz. 7:30-9:30 egzamin Aula Wykładowa CSM (4 piętro)
 Grupy 33-56:
-16 tydzień:
-środa godz. 10:00-12:00 egzamin Aula Wykładowa CSM (4 piętro)
+środa godz. 9:30-11:30 egzamin Aula Wykładowa CSM (4 piętro)
 1. Ginekologia:
 Grupy 1-56:
 9-15 tydzień:
@@ -137,9 +136,17 @@ piątek godz. 17:00-18:30 sem. UNIVE 037
 Grupy 25-30:
 11-15 tydzień:
 piątek godz. 17:00-18:30 sem. UNIVE 037
-Grupy 1-56:
 16 tydzień:
-wtorek godz. 8:00-22:00 egzamin
+Grupy 1-13:
+wtorek godz. 8:15-9:10 egzamin Aula górna
+Grupy 14-21:
+wtorek godz. 8:15-9:10 egzamin Aula dolna
+Grupy 22-34:
+wtorek godz. 9:30-10:25 egzamin Aula górna
+Grupy 35-42:
+wtorek godz. 9:30-10:25 egzamin Aula dolna
+Grupy 43-56:
+wtorek godz. 10:45-11:40 egzamin Aula górna
 
 20. Zarządzanie i Ekonomia:
 Grupy 50-56:
@@ -169,3 +176,8 @@ piątek godz. 17:00-18:30 sem. UNIVE 037
 Grupy 25-30:
 6-10 tydzień:
 piątek godz. 17:00-18:30 sem. UNIVE 036
+
+21. Laryngologia:
+Grupy 1-56:
+16 tydzień:
+piątek godz. 14:00-15:40 egzamin
