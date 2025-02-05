@@ -153,7 +153,7 @@ function App() {
               </div>
               <div className="App-sidebar-warning-details">
                 <p>
-                  <li>Poprawne godziny egzaminów (oprócz medycyny sądowej)</li>
+                  <li>Poprawne godziny egzaminów</li>
                   <li>Dodany egzamin z laryngologii</li>
                 </p>
               </div>
