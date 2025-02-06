@@ -201,6 +201,7 @@
         border: 2px solid gold;
         box-shadow: gray 2px 2px 4px;
         overflow: hidden;
+        touch-action: pan-y;
       }
     }
   }

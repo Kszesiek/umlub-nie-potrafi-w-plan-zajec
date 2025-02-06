@@ -1,4 +1,4 @@
-import React, {ReactElement, useEffect, useState} from 'react';
+import React, {ReactElement, TouchEventHandler, useEffect, useLayoutEffect, useRef, useState} from 'react';
 import './App.scss';
 import {ScheduleColumn} from "./components/ScheduleColumn";
 import {hours} from "./constants/hours";
@@ -19,6 +19,7 @@ function App() {
   const dayZero = new Date(2024, 8, 28);
   const diff = Math.abs(today.getTime() - dayZero.getTime());
   const diffWeek = Math.ceil(diff / (1000 * 3600 * 24 * 7));
+  const lastWeekOfSemester = data.reduce((prev, current) => (prev && prev.week > current.week) ? prev : current).week;
 
   const [chosenWeek, setChosenWeek] = useState<number>(diffWeek);
   const [chosenGroup, setChosenGroup] = useState<number>(() => {
@@ -82,10 +83,10 @@ function App() {
                     chosenGroup={chosenGroup} chosenWeek={chosenWeek}/>,
   ]
 
-  const weekSelect = <select defaultValue={chosenWeek} className="Filter"
+  const weekSelect = <select value={chosenWeek} defaultValue={chosenWeek} className="Filter"
                              onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
     {
-      new Array(20).fill(null).map((_, i) => i + 1).map((week_number) => {
+      new Array(lastWeekOfSemester).fill(null).map((_, i) => i + 1).map((week_number) => {
         const monday = new Date(2024, 8, 30)
         monday.setDate(monday.getDate() + (week_number - 1) * 7)
         const sunday = new Date(2024, 8, 30)
@@ -108,13 +109,80 @@ function App() {
     }
   </select>
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     const baseDate = new Date(2024, 8, 30);
     baseDate.setDate(baseDate.getDate() + (chosenWeek - 1) * 7);
     setCurrentWeekMonday(baseDate);
   }, [chosenWeek]);
 
   const {height} = useWindowDimensions();
+
+  // MOBILE ONLY SWIPING LOGIC
+
+  const divRef = useRef<HTMLDivElement>(null);
+  const touchStartX = useRef<number | null>(null); // Ref to store starting X coordinate
+
+  const handleSwipeRight = () => {
+    if (activeWeekdayMobile === 0) {
+      // monday
+      if (chosenWeek === 1)
+        // first week of semester
+        return;
+      setChosenWeek((prevState) => prevState - 1);
+      setActiveWeekdayMobile(4);
+    } else {
+      setActiveWeekdayMobile((prevState) => prevState - 1);
+    }
+  };
+
+  const handleSwipeLeft = () => {
+    if (activeWeekdayMobile === 4) {
+      // friday
+      if (chosenWeek === lastWeekOfSemester)
+        // last week of semester
+        return;
+      setChosenWeek((prevState) => prevState + 1);
+      setActiveWeekdayMobile(0);
+    } else {
+      setActiveWeekdayMobile((prevState) => prevState + 1);
+    }
+  };
+
+  const handleTouchStart: TouchEventHandler<HTMLDivElement> = (e) => {
+    touchStartX.current = e.touches[0].clientX;
+  };
+
+  const handleTouchMove: TouchEventHandler<HTMLDivElement> = (e) => {
+    if (!touchStartX.current) {
+      return;
+    }
+
+    const touchEndX = e.touches[0].clientX;
+    const diffX = touchStartX.current - touchEndX;
+
+    // You can set a threshold to determine if it's a swipe
+    // and not just a small touch movement.
+    if (Math.abs(diffX) > 50) {
+      if (diffX > 0) {
+        // Swiped Left
+        handleSwipeLeft();
+      } else {
+        // Swiped Right
+        handleSwipeRight();
+      }
+    }
+  };
+
+  const handleTouchEnd: React.TouchEventHandler<HTMLDivElement> = () => {
+    if (touchStartX.current === null) {
+      return;
+    }
+
+    // Reset touchStartX for the next swipe
+    touchStartX.current = null;
+  };
+
+  // END OF MOBILE ONLY LOGIC
 
   return (
     <div className="App">
@@ -155,6 +223,7 @@ function App() {
                 <p>
                   <li>Poprawne godziny egzaminów</li>
                   <li>Dodany egzamin z laryngologii</li>
+                  <li>Obsługa gestów do zmiany dnia tygodnia w wersji mobilnej</li>
                 </p>
               </div>
             </div>
@@ -209,7 +278,13 @@ function App() {
               })}
             </div>
           </div>
-          <div className="Schedule-column">
+          <div
+            className="Schedule-column"
+            ref={divRef}
+               onTouchStart={handleTouchStart}
+               onTouchMove={handleTouchMove}
+            onTouchEnd={handleTouchEnd}
+          >
             {scheduleColumns[activeWeekdayMobile]}
           </div>
         </div>
