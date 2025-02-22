@@ -2,7 +2,7 @@
 Grupy 19-21:
 Klinika Chirurgii Onkologicznej:
 1 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -20,7 +20,7 @@ piątek godz. 8:30-12:15
 Grupy 16-18:
 Klinika Chirurgii Onkologicznej:
 2 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -29,7 +29,7 @@ Zakład Radioterapii:
 Grupy 4-6:
 Klinika Chirurgii Onkologicznej:
 3 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -38,7 +38,7 @@ Zakład Radioterapii:
 Grupy 25-27:
 Klinika Chirurgii Onkologicznej:
 4 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -56,7 +56,7 @@ piątek godz. 8:30-12:15
 Grupy 7-9:
 Klinika Chirurgii Onkologicznej:
 5 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -65,7 +65,7 @@ Zakład Radioterapii:
 Grupy 10-12:
 Klinika Chirurgii Onkologicznej:
 6 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -74,7 +74,7 @@ Zakład Radioterapii:
 Grupy 37-39:
 Klinika Chirurgii Onkologicznej:
 7 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -83,7 +83,7 @@ Zakład Radioterapii:
 Grupy 40-42:
 Klinika Chirurgii Onkologicznej:
 8 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -92,7 +92,7 @@ Zakład Radioterapii:
 Grupy 31-33:
 Klinika Chirurgii Onkologicznej:
 11 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -110,7 +110,7 @@ piątek godz. 8:30-12:15
 Grupy 1-3:
 Klinika Chirurgii Onkologicznej:
 12 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -119,7 +119,7 @@ Zakład Radioterapii:
 Grupy 43-45:
 Klinika Chirurgii Onkologicznej:
 13 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -137,7 +137,7 @@ piątek godz. 8:30-12:15
 Grupy 13-15:
 Klinika Chirurgii Onkologicznej:
 14 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -146,7 +146,7 @@ Zakład Radioterapii:
 Grupy 50-52:
 Klinika Chirurgii Onkologicznej:
 15 tydzień:
-poniedz. – wtorek godz. 8:30-12:15 ćw.
+poniedz. - wtorek godz. 8:30-12:15 ćw.
 poniedz. godz. 12:30-14:00 sem.
 wtorek godz. 12:30-14:45 sem.
 Zakład Radioterapii:
@@ -166,251 +166,251 @@ piątek godz. 8:30-12:15
 Katedra i Klinika Chorób Zakaźnych:
 Grupy 1-3:
 1 tydzień:
-poniedz. – piątek godz. 8:00-10:15 ćw.
-poniedz. – piątek godz. 10:30-12:00 sem.
+poniedz. - piątek godz. 8:00-10:15 ćw.
+poniedz. - piątek godz. 10:30-12:00 sem.
 2 tydzień:
-poniedz. – środa godz. 8:00-10:15 ćw.
-czwartek – piątek godz. 8:00-9:30 ćw.
+poniedz. - środa godz. 8:00-10:15 ćw.
+czwartek - piątek godz. 8:00-9:30 ćw.
 poniedz. godz. 10:30-12:00 sem.
 Grupy 4-6:
 1 tydzień:
-poniedz. – piątek godz. 10:15-12:30 ćw.
-poniedz. – piątek godz. 12:45-14:15 sem.
+poniedz. - piątek godz. 10:15-12:30 ćw.
+poniedz. - piątek godz. 12:45-14:15 sem.
 2 tydzień:
-poniedz. – środa godz. 10:15-12:30 ćw.
-czwartek – piątek godz. 9:30-11:00 ćw.
+poniedz. - środa godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 9:30-11:00 ćw.
 poniedz. godz. 12:45-14:15 sem.
 Grupy 7-9:
 1 tydzień:
-poniedz. – piątek godz. 12:30-14:45 ćw.
-wtorek – piątek godz. 15:00-16:30 sem.
+poniedz. - piątek godz. 12:30-14:45 ćw.
+wtorek - piątek godz. 15:00-16:30 sem.
 2 tydzień:
-poniedz. – środa godz. 12:30-14:45 ćw.
-czwartek – piątek godz. 11:00-12:30 ćw.
-wtorek – środa godz. 15:00-16:30 sem.
+poniedz. - środa godz. 12:30-14:45 ćw.
+czwartek - piątek godz. 11:00-12:30 ćw.
+wtorek - środa godz. 15:00-16:30 sem.
 Grupy 10-12:
 3 tydzień:
-poniedz. – piątek godz. 8:00-10:15 ćw.
-poniedz. – piątek godz. 10:30-12:00 sem.
+poniedz. - piątek godz. 8:00-10:15 ćw.
+poniedz. - piątek godz. 10:30-12:00 sem.
 4 tydzień:
-poniedz. – środa godz. 8:00-10:15 ćw.
-czwartek – piątek godz. 8:00-9:30 ćw.
+poniedz. - środa godz. 8:00-10:15 ćw.
+czwartek - piątek godz. 8:00-9:30 ćw.
 poniedz. godz. 10:30-12:00 sem.
 Grupy 13-15:
 3 tydzień:
-poniedz. – piątek godz. 10:15-12:30 ćw.
-poniedz. – piątek godz. 12:45-14:15 sem.
+poniedz. - piątek godz. 10:15-12:30 ćw.
+poniedz. - piątek godz. 12:45-14:15 sem.
 4 tydzień:
-poniedz. – środa godz. 10:15-12:30 ćw.
-czwartek – piątek godz. 9:30-11:00 ćw.
+poniedz. - środa godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 9:30-11:00 ćw.
 poniedz. godz. 12:45-14:15 sem.
 Grupy 16-18:
 3 tydzień:
-poniedz. – piątek godz. 12:30-14:45 ćw.
-wtorek – piątek godz. 15:00-16:30 sem.
+poniedz. - piątek godz. 12:30-14:45 ćw.
+wtorek - piątek godz. 15:00-16:30 sem.
 4 tydzień:
-poniedz. – środa godz. 12:30-14:45 ćw.
-czwartek – piątek godz. 11:00-12:30 ćw.
-wtorek – środa godz. 15:00-16:30 sem.
+poniedz. - środa godz. 12:30-14:45 ćw.
+czwartek - piątek godz. 11:00-12:30 ćw.
+wtorek - środa godz. 15:00-16:30 sem.
 Grupy 19-21:
 5 tydzień:
-poniedz. – piątek godz. 8:00-10:15 ćw.
-poniedz. – piątek godz. 10:30-12:00 sem.
+poniedz. - piątek godz. 8:00-10:15 ćw.
+poniedz. - piątek godz. 10:30-12:00 sem.
 6 tydzień:
-poniedz. – środa godz. 8:00-10:15 ćw.
-czwartek – piątek godz. 8:00-9:30 ćw.
+poniedz. - środa godz. 8:00-10:15 ćw.
+czwartek - piątek godz. 8:00-9:30 ćw.
 poniedz. godz. 10:30-12:00 sem.
 Grupy 22-24:
 5 tydzień:
-poniedz. – piątek godz. 10:15-12:30 ćw.
-poniedz. – piątek godz. 12:45-14:15 sem.
+poniedz. - piątek godz. 10:15-12:30 ćw.
+poniedz. - piątek godz. 12:45-14:15 sem.
 6 tydzień:
-poniedz. – środa godz. 10:15-12:30 ćw.
-czwartek – piątek godz. 9:30-11:00 ćw.
+poniedz. - środa godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 9:30-11:00 ćw.
 poniedz. godz. 12:45-14:15 sem.
 Grupy 25-27:
 5 tydzień:
-poniedz. – piątek godz. 12:30-14:45 ćw.
-wtorek – piątek godz. 15:00-16:30 sem.
+poniedz. - piątek godz. 12:30-14:45 ćw.
+wtorek - piątek godz. 15:00-16:30 sem.
 6 tydzień:
-poniedz. – środa godz. 12:30-14:45 ćw.
-czwartek – piątek godz. 11:00-12:30 ćw.
-wtorek – środa godz. 15:00-16:30 sem.
+poniedz. - środa godz. 12:30-14:45 ćw.
+czwartek - piątek godz. 11:00-12:30 ćw.
+wtorek - środa godz. 15:00-16:30 sem.
 Grupy 28-30:
 7 tydzień:
-poniedz. – piątek godz. 8:00-10:15 ćw.
-poniedz. – piątek godz. 10:30-12:00 sem.
+poniedz. - piątek godz. 8:00-10:15 ćw.
+poniedz. - piątek godz. 10:30-12:00 sem.
 8 tydzień:
-poniedz. – środa godz. 8:00-10:15 ćw.
-czwartek – piątek godz. 8:00-9:30 ćw.
+poniedz. - środa godz. 8:00-10:15 ćw.
+czwartek - piątek godz. 8:00-9:30 ćw.
 poniedz. godz. 10:30-12:00 sem.
 Grupy 31-33:
 7 tydzień:
-poniedz. – piątek godz. 10:15-12:30 ćw.
-poniedz. – piątek godz. 12:45-14:15 sem.
+poniedz. - piątek godz. 10:15-12:30 ćw.
+poniedz. - piątek godz. 12:45-14:15 sem.
 8 tydzień:
-poniedz. – środa godz. 10:15-12:30 ćw.
-czwartek – piątek godz. 9:30-11:00 ćw.
+poniedz. - środa godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 9:30-11:00 ćw.
 poniedz. godz. 12:45-14:15 sem.
 Grupy 34-36:
 7 tydzień:
-poniedz. – piątek godz. 12:30-14:45 ćw.
-wtorek – piątek godz. 15:00-16:30 sem.
+poniedz. - piątek godz. 12:30-14:45 ćw.
+wtorek - piątek godz. 15:00-16:30 sem.
 8 tydzień:
-poniedz. – środa godz. 12:30-14:45 ćw.
-czwartek – piątek godz. 11:00-12:30 ćw.
-wtorek – środa godz. 15:00-16:30 sem.
+poniedz. - środa godz. 12:30-14:45 ćw.
+czwartek - piątek godz. 11:00-12:30 ćw.
+wtorek - środa godz. 15:00-16:30 sem.
 Grupy 37-39:
 9 tydzień:
-poniedz. – piątek godz. 8:00-10:15 ćw.
-poniedz. – piątek godz. 10:30-12:00 sem.
+poniedz. - piątek godz. 8:00-10:15 ćw.
+poniedz. - piątek godz. 10:30-12:00 sem.
 10 tydzień:
-poniedz. – środa godz. 8:00-10:15 ćw.
-czwartek – piątek godz. 8:00-9:30 ćw.
+poniedz. - środa godz. 8:00-10:15 ćw.
+czwartek - piątek godz. 8:00-9:30 ćw.
 poniedz. godz. 10:30-12:00 sem.
 Grupy 40-42:
 9 tydzień:
-poniedz. – piątek godz. 10:15-12:30 ćw.
-poniedz. – piątek godz. 12:45-14:15 sem.
+poniedz. - piątek godz. 10:15-12:30 ćw.
+poniedz. - piątek godz. 12:45-14:15 sem.
 10 tydzień:
-poniedz. – środa godz. 10:15-12:30 ćw.
-czwartek – piątek godz. 9:30-11:00 ćw.
+poniedz. - środa godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 9:30-11:00 ćw.
 poniedz. godz. 12:45-14:15 sem.
 Grupy 43-46:
 9 tydzień:
-poniedz. – piątek godz. 12:30-14:45 ćw.
-wtorek – piątek godz. 15:00-16:30 sem.
+poniedz. - piątek godz. 12:30-14:45 ćw.
+wtorek - piątek godz. 15:00-16:30 sem.
 10 tydzień:
-poniedz. – środa godz. 12:30-14:45 ćw.
-czwartek – piątek godz. 11:00-12:30 ćw.
-wtorek – środa godz. 15:00-16:30 sem.
+poniedz. - środa godz. 12:30-14:45 ćw.
+czwartek - piątek godz. 11:00-12:30 ćw.
+wtorek - środa godz. 15:00-16:30 sem.
 Grupy 47-49:
 11 tydzień:
-poniedz. – piątek godz. 8:00-10:15 ćw.
-poniedz. – piątek godz. 10:30-12:00 sem.
+poniedz. - piątek godz. 8:00-10:15 ćw.
+poniedz. - piątek godz. 10:30-12:00 sem.
 12 tydzień:
-poniedz. – środa godz. 8:00-10:15 ćw.
-czwartek – piątek godz. 8:00-9:30 ćw.
+poniedz. - środa godz. 8:00-10:15 ćw.
+czwartek - piątek godz. 8:00-9:30 ćw.
 poniedz. godz. 10:30-12:00 sem.
 Grupy 50-52:
 11 tydzień:
-poniedz. – piątek godz. 10:15-12:30 ćw.
-poniedz. – piątek godz. 12:45-14:15 sem.
+poniedz. - piątek godz. 10:15-12:30 ćw.
+poniedz. - piątek godz. 12:45-14:15 sem.
 12 tydzień:
-poniedz. – środa godz. 10:15-12:30 ćw.
-czwartek – piątek godz. 9:30-11:00 ćw.
+poniedz. - środa godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 9:30-11:00 ćw.
 poniedz. godz. 12:45-14:15 sem.
 Grupy 53-56:
 11 tydzień:
-poniedz. – piątek godz. 12:30-14:45 ćw.
-wtorek – piątek godz. 15:00-16:30 sem.
+poniedz. - piątek godz. 12:30-14:45 ćw.
+wtorek - piątek godz. 15:00-16:30 sem.
 12 tydzień:
-poniedz. – środa godz. 12:30-14:45 ćw.
-czwartek – piątek godz. 11:00-12:30 ćw.
-wtorek – środa godz. 15:00-16:30 sem.
+poniedz. - środa godz. 12:30-14:45 ćw.
+czwartek - piątek godz. 11:00-12:30 ćw.
+wtorek - środa godz. 15:00-16:30 sem.
 
 3. Mikrobiologia:
 Katedra i Zakład Mikrobiologii Lekarskiej:
 Grupy 1-2:
 1 tydzień:
-wtorek – czwartek godz. 12:30-15:30
+wtorek - czwartek godz. 12:30-15:30
 Grupy 3-4:
 2 tydzień:
-wtorek – czwartek godz. 13:00-16:00
+wtorek - czwartek godz. 13:00-16:00
 Grupy 5-6:
 2 tydzień:
-środa – piątek godz. 13:00-16:00
+środa - piątek godz. 13:00-16:00
 Grupy 7-8:
 1 tydzień:
-poniedz. – środa godz. 8:00-11:00
+poniedz. - środa godz. 8:00-11:00
 Grupa 9:
 1 tydzień:
-czwartek – piątek godz. 8:00-11:00
+czwartek - piątek godz. 8:00-11:00
 2 tydzień:
 poniedz. godz. 8:00-11:00
 Grupy 10-11:
 3 tydzień:
-wtorek – czwartek godz. 12:30-15:30
+wtorek - czwartek godz. 12:30-15:30
 Grupy 12-13:
 4 tydzień:
-wtorek – czwartek godz. 13:00-16:00
+wtorek - czwartek godz. 13:00-16:00
 Grupy 14-15:
 4 tydzień:
-środa – piątek godz. 13:00-16:00
+środa - piątek godz. 13:00-16:00
 Grupy 16-17:
 3 tydzień:
-poniedz. – środa godz. 8:00-11:00
+poniedz. - środa godz. 8:00-11:00
 Grupa 18:
 3 tydzień:
-czwartek – piątek godz. 8:00-11:00
+czwartek - piątek godz. 8:00-11:00
 4 tydzień:
 poniedz. godz. 8:00-11:00
 Grupy 19-20:
 5 tydzień:
-wtorek – czwartek godz. 12:30-15:30
+wtorek - czwartek godz. 12:30-15:30
 Grupy 21-22:
 6 tydzień:
-wtorek – czwartek godz. 13:00-16:00
+wtorek - czwartek godz. 13:00-16:00
 Grupy 23-24:
 6 tydzień:
-środa – piątek godz. 13:00-16:00
+środa - piątek godz. 13:00-16:00
 Grupy 25-26:
 5 tydzień:
-poniedz. – środa godz. 8:00-11:00
+poniedz. - środa godz. 8:00-11:00
 Grupa 27:
 5 tydzień:
-czwartek – piątek godz. 8:00-11:00
+czwartek - piątek godz. 8:00-11:00
 6 tydzień:
 poniedz. godz. 8:00-11:00
 Grupy 28-29:
 7 tydzień:
-wtorek – czwartek godz. 12:30-15:30
+wtorek - czwartek godz. 12:30-15:30
 Grupy 30-31:
 8 tydzień:
-wtorek – czwartek godz. 13:00-16:00
+wtorek - czwartek godz. 13:00-16:00
 Grupy 32-33:
 8 tydzień:
-środa – piątek godz. 13:00-16:00
+środa - piątek godz. 13:00-16:00
 Grupy 34-35:
 7 tydzień:
-poniedz. – środa godz. 8:00-11:00
+poniedz. - środa godz. 8:00-11:00
 Grupa 36:
 7 tydzień:
-czwartek – piątek godz. 8:00-11:00
+czwartek - piątek godz. 8:00-11:00
 8 tydzień:
 poniedz. godz. 8:00-11:00
 Grupy 37-38:
 9 tydzień:
-wtorek – czwartek godz. 12:30-15:30
+wtorek - czwartek godz. 12:30-15:30
 Grupy 39-40:
 10 tydzień:
-wtorek – czwartek godz. 13:00-16:00
+wtorek - czwartek godz. 13:00-16:00
 Grupy 41-42:
 10 tydzień:
-środa – piątek godz. 13:00-16:00
+środa - piątek godz. 13:00-16:00
 Grupy 43-44:
 9 tydzień:
-poniedz. – środa godz. 8:00-11:00
+poniedz. - środa godz. 8:00-11:00
 Grupy 45-46:
 9 tydzień:
-czwartek – piątek godz. 8:00-11:00
+czwartek - piątek godz. 8:00-11:00
 10 tydzień:
 poniedz. godz. 8:00-11:00
 Grupy 47-48:
 11 tydzień:
-wtorek – czwartek godz. 12:30-15:30
+wtorek - czwartek godz. 12:30-15:30
 Grupy 49-50:
 12 tydzień:
-wtorek – czwartek godz. 13:00-16:00
+wtorek - czwartek godz. 13:00-16:00
 Grupy 51-52:
 12 tydzień:
-środa – piątek godz. 13:00-16:00
+środa - piątek godz. 13:00-16:00
 Grupy 53-54:
 11 tydzień:
-poniedz. – środa godz. 8:00-11:00
+poniedz. - środa godz. 8:00-11:00
 Grupy 55-56:
 11 tydzień:
-czwartek – piątek godz. 8:00-11:00
+czwartek - piątek godz. 8:00-11:00
 12 tydzień:
 poniedz. godz. 8:00-11:00
 
@@ -421,22 +421,22 @@ Grupy 1-2:
 poniedz. godz. 13:00-15:15
 piątek godz. 13:00-15:15
 2 tydzień:
-poniedz. – wtorek godz. 13:00-14:30
+poniedz. - wtorek godz. 13:00-14:30
 Grupy 3-4:
 1 tydzień:
-wtorek – piątek godz. 15:00-16:30
+wtorek - piątek godz. 15:00-16:30
 2 tydzień:
 piątek godz. 12:00-13:30
 Grupy 5-6:
 1 tydzień:
-poniedz. – piątek godz. 8:15-9:45
+poniedz. - piątek godz. 8:15-9:45
 Grupy 7-8:
 2 tydzień:
-poniedz. – wtorek godz. 8:15-10:30
-środa – czwartek godz. 8:15-9:45
+poniedz. - wtorek godz. 8:15-10:30
+środa - czwartek godz. 8:15-9:45
 Grupa 9:
 2 tydzień:
-wtorek – środa godz. 10:30-12:00
+wtorek - środa godz. 10:30-12:00
 czwartek godz. 13:30-15:45
 piątek godz. 8:15-10:30
 Grupy 10-11:
@@ -444,22 +444,22 @@ Grupy 10-11:
 poniedz. godz. 13:00-15:15
 piątek godz. 13:00-15:15
 4 tydzień:
-poniedz. – wtorek godz. 13:00-14:30
+poniedz. - wtorek godz. 13:00-14:30
 Grupy 12-13:
 3 tydzień:
-wtorek – piątek godz. 15:00-16:30
+wtorek - piątek godz. 15:00-16:30
 4 tydzień:
 piątek godz. 12:00-13:30
 Grupy 14-15:
 3 tydzień:
-poniedz. – piątek godz. 8:15-9:45
+poniedz. - piątek godz. 8:15-9:45
 Grupy 16-17:
 4 tydzień:
-poniedz. – wtorek godz. 8:15-10:30
-środa – czwartek godz. 8:15-9:45
+poniedz. - wtorek godz. 8:15-10:30
+środa - czwartek godz. 8:15-9:45
 Grupa 18:
 4 tydzień:
-wtorek – środa godz. 10:30-12:00
+wtorek - środa godz. 10:30-12:00
 czwartek godz. 13:30-15:45
 piątek godz. 8:15-10:30
 Grupy 19-20:
@@ -467,22 +467,22 @@ Grupy 19-20:
 poniedz. godz. 13:00-15:15
 piątek godz. 13:00-15:15
 6 tydzień:
-poniedz. – wtorek godz. 13:00-14:30
+poniedz. - wtorek godz. 13:00-14:30
 Grupy 21-22:
 5 tydzień:
-wtorek – piątek godz. 15:00-16:30
+wtorek - piątek godz. 15:00-16:30
 6 tydzień:
 piątek godz. 12:00-13:30
 Grupy 23-24:
 5 tydzień:
-poniedz. – piątek godz. 8:15-9:45
+poniedz. - piątek godz. 8:15-9:45
 Grupy 25-26:
 6 tydzień:
-poniedz. – wtorek godz. 8:15-10:30
-środa – czwartek godz. 8:15-9:45
+poniedz. - wtorek godz. 8:15-10:30
+środa - czwartek godz. 8:15-9:45
 Grupa 27:
 6 tydzień:
-wtorek – środa godz. 10:30-12:00
+wtorek - środa godz. 10:30-12:00
 czwartek godz. 13:30-15:45
 piątek godz. 8:15-10:30
 Grupy 28-29:
@@ -490,22 +490,22 @@ Grupy 28-29:
 poniedz. godz. 13:00-15:15
 piątek godz. 13:00-15:15
 8 tydzień:
-poniedz. – wtorek godz. 13:00-14:30
+poniedz. - wtorek godz. 13:00-14:30
 Grupy 30-31:
 7 tydzień:
-wtorek – piątek godz. 15:00-16:30
+wtorek - piątek godz. 15:00-16:30
 8 tydzień:
 piątek godz. 12:00-13:30
 Grupy 32-33:
 7 tydzień:
-poniedz. – piątek godz. 8:15-9:45
+poniedz. - piątek godz. 8:15-9:45
 Grupy 34-35:
 8 tydzień:
-poniedz. – wtorek godz. 8:15-10:30
-środa – czwartek godz. 8:15-9:45
+poniedz. - wtorek godz. 8:15-10:30
+środa - czwartek godz. 8:15-9:45
 Grupa 36:
 8 tydzień:
-wtorek – środa godz. 10:30-12:00
+wtorek - środa godz. 10:30-12:00
 czwartek godz. 13:30-15:45
 piątek godz. 8:15-10:30
 Grupy 37-38:
@@ -513,22 +513,22 @@ Grupy 37-38:
 poniedz. godz. 13:00-15:15
 piątek godz. 13:00-15:15
 10 tydzień:
-poniedz. – wtorek godz. 13:00-14:30
+poniedz. - wtorek godz. 13:00-14:30
 Grupy 39-40:
 9 tydzień:
-wtorek – piątek godz. 15:00-16:30
+wtorek - piątek godz. 15:00-16:30
 10 tydzień:
 piątek godz. 12:00-13:30
 Grupy 41-42:
 9 tydzień:
-poniedz. – piątek godz. 8:15-9:45
+poniedz. - piątek godz. 8:15-9:45
 Grupy 43-44:
 10 tydzień:
-poniedz. – wtorek godz. 8:15-10:30
-środa – czwartek godz. 8:15-9:45
+poniedz. - wtorek godz. 8:15-10:30
+środa - czwartek godz. 8:15-9:45
 Grupy 45-46:
 10 tydzień:
-wtorek – środa godz. 10:30-12:00
+wtorek - środa godz. 10:30-12:00
 czwartek godz. 13:30-15:45
 piątek godz. 8:15-10:30
 Grupy 47-48:
@@ -536,22 +536,22 @@ Grupy 47-48:
 poniedz. godz. 13:00-15:15
 piątek godz. 13:00-15:15
 12 tydzień:
-poniedz. – wtorek godz. 13:00-14:30
+poniedz. - wtorek godz. 13:00-14:30
 Grupy 49-50:
 11 tydzień:
-wtorek – piątek godz. 15:00-16:30
+wtorek - piątek godz. 15:00-16:30
 12 tydzień:
 piątek godz. 12:00-13:30
 Grupy 51-52:
 11 tydzień:
-poniedz. – piątek godz. 8:15-9:45
+poniedz. - piątek godz. 8:15-9:45
 Grupy 53-54:
 12 tydzień:
-poniedz. – wtorek godz. 8:15-10:30
-środa – czwartek godz. 8:15-9:45
+poniedz. - wtorek godz. 8:15-10:30
+środa - czwartek godz. 8:15-9:45
 Grupy 55-56:
 12 tydzień:
-wtorek – środa godz. 10:30-12:00
+wtorek - środa godz. 10:30-12:00
 czwartek godz. 13:30-15:45
 piątek godz. 8:15-10:30
 
@@ -559,256 +559,256 @@ piątek godz. 8:15-10:30
 Katedra i Klinika Urologii i Onkologii Urologicznej:
 Grupy 36-38:
 1 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Grupy 42-44:
 3 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Grupy 45-47:
 5 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Grupy 48-50:
 6 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Grupy 51-53:
 7 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Grupy 54-56:
 8 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Grupy 33-35:
 9 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Grupy 39-41:
 13 tydzień:
-poniedz. – wtorek godz. 8:30-11:30 ćw.
+poniedz. - wtorek godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 
 6. Neurochirurgia:
 Katedra i Klinika Neurochirurgii i Neurochirurgii Dziecięcej:
 Grupy 36-38:
 2 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 Grupy 42-44:
 4 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 Grupy 45-47:
 6 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 Grupy 48-50:
 5 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 Grupy 51-53:
 8 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 Grupy 54-56:
 7 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 Grupy 33-35:
 10 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 Grupy 39-41:
 14 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-13:15 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-13:15 ćw.
 czwartek godz. 8:30-11:30 ćw.
 
 7. Pediatria:
 III Katedra Pediatrii:
 Grupy 45-47:
 1 tydzień:
-poniedz. – piątek godz. 8:15-9:45 sem. AULA USZD
-poniedz. – piątek godz. 9:45-12:45 ćw.
+poniedz. - piątek godz. 8:15-9:45 sem. AULA USZD
+poniedz. - piątek godz. 9:45-12:45 ćw.
 2 tydzień:
-poniedz. – środa godz. 8:15-9:45 sem. AULA USZD
-czwartek – piątek godz. 8:15-10:30 sem. AULA USZD
-poniedz. – środa godz. 9:45-12:45 ćw.
-czwartek – piątek godz. 10:30-13:30 ćw.
+poniedz. - środa godz. 8:15-9:45 sem. AULA USZD
+czwartek - piątek godz. 8:15-10:30 sem. AULA USZD
+poniedz. - środa godz. 9:45-12:45 ćw.
+czwartek - piątek godz. 10:30-13:30 ćw.
 Grupy 33-35:
 5 tydzień:
-poniedz. – piątek godz. 8:15-9:45 sem. AULA USZD
-poniedz. – piątek godz. 9:45-12:45 ćw.
+poniedz. - piątek godz. 8:15-9:45 sem. AULA USZD
+poniedz. - piątek godz. 9:45-12:45 ćw.
 6 tydzień:
-poniedz. – środa godz. 8:15-9:45 sem. AULA USZD
-czwartek – piątek godz. 8:15-10:30 sem. AULA USZD
-poniedz. – środa godz. 9:45-12:45 ćw.
-czwartek – piątek godz. 10:30-13:30 ćw.
+poniedz. - środa godz. 8:15-9:45 sem. AULA USZD
+czwartek - piątek godz. 8:15-10:30 sem. AULA USZD
+poniedz. - środa godz. 9:45-12:45 ćw.
+czwartek - piątek godz. 10:30-13:30 ćw.
 Grupy 36-38:
 5 tydzień:
-poniedz. – piątek godz. 11:00-12:30 sala PNK 2 USZD
-poniedz. – piątek godz. 12:45-15:45 ćw.
+poniedz. - piątek godz. 11:00-12:30 sala PNK 2 USZD
+poniedz. - piątek godz. 12:45-15:45 ćw.
 6 tydzień:
-poniedz. – środa godz. 11:00-12:30 sem. AULA USZD
-czwartek – piątek godz. 11:45-13:15 sem. AULA USZD
-poniedz. – środa godz. 12:45-15:45 ćw.
-czwartek – piątek godz. 13:30-16:30 ćw.
+poniedz. - środa godz. 11:00-12:30 sem. AULA USZD
+czwartek - piątek godz. 11:45-13:15 sem. AULA USZD
+poniedz. - środa godz. 12:45-15:45 ćw.
+czwartek - piątek godz. 13:30-16:30 ćw.
 Grupy 48-50:
 9 tydzień:
-poniedz. – piątek godz. 8:15-9:45 sem. AULA USZD
-poniedz. – piątek godz. 9:45-12:45 ćw.
+poniedz. - piątek godz. 8:15-9:45 sem. AULA USZD
+poniedz. - piątek godz. 9:45-12:45 ćw.
 10 tydzień:
-poniedz. – środa godz. 8:15-9:45 sem. AULA USZD
-czwartek – piątek godz. 8:15-10:30 sem. AULA USZD
-poniedz. – środa godz. 9:45-12:45 ćw.
-czwartek – piątek godz. 10:30-13:30 ćw.
+poniedz. - środa godz. 8:15-9:45 sem. AULA USZD
+czwartek - piątek godz. 8:15-10:30 sem. AULA USZD
+poniedz. - środa godz. 9:45-12:45 ćw.
+czwartek - piątek godz. 10:30-13:30 ćw.
 Grupy 39-41:
 11 tydzień:
-poniedz. – piątek godz. 8:15-9:45 sem. AULA USZD
-poniedz. – piątek godz. 9:45-12:45 ćw.
+poniedz. - piątek godz. 8:15-9:45 sem. AULA USZD
+poniedz. - piątek godz. 9:45-12:45 ćw.
 12 tydzień:
-poniedz. – środa godz. 8:15-9:45 sem. AULA USZD
-czwartek – piątek godz. 8:15-10:30 sem. AULA USZD
-poniedz. – środa godz. 9:45-12:45 ćw.
-czwartek – piątek godz. 10:30-13:30 ćw.
+poniedz. - środa godz. 8:15-9:45 sem. AULA USZD
+czwartek - piątek godz. 8:15-10:30 sem. AULA USZD
+poniedz. - środa godz. 9:45-12:45 ćw.
+czwartek - piątek godz. 10:30-13:30 ćw.
 Grupy 42-44:
 11 tydzień:
-poniedz. – piątek godz. 11:00-12:30 AULA USZD
-poniedz. – piątek godz. 12:45-15:45 ćw.
+poniedz. - piątek godz. 11:00-12:30 AULA USZD
+poniedz. - piątek godz. 12:45-15:45 ćw.
 12 tydzień:
-poniedz. – środa godz. 11:00-12:30 sem. AULA USZD
-czwartek – piątek godz. 11:45-13:15 sem. AULA USZD
-poniedz. – środa godz. 12:45-15:45 ćw.
-czwartek – piątek godz. 13:30-16:30 ćw.
+poniedz. - środa godz. 11:00-12:30 sem. AULA USZD
+czwartek - piątek godz. 11:45-13:15 sem. AULA USZD
+poniedz. - środa godz. 12:45-15:45 ćw.
+czwartek - piątek godz. 13:30-16:30 ćw.
 Grupy 51-53:
 13 tydzień:
-poniedz. – piątek godz. 8:15-9:45 sem. AULA USZD
-poniedz. – piątek godz. 9:45-12:45 ćw.
+poniedz. - piątek godz. 8:15-9:45 sem. AULA USZD
+poniedz. - piątek godz. 9:45-12:45 ćw.
 14 tydzień:
-poniedz. – środa godz. 8:15-9:45 sem. AULA USZD
-czwartek – piątek godz. 8:15-10:30 sem. AULA USZD
-poniedz. – środa godz. 9:45-12:45 ćw.
-czwartek – piątek godz. 10:30-13:30 ćw.
+poniedz. - środa godz. 8:15-9:45 sem. AULA USZD
+czwartek - piątek godz. 8:15-10:30 sem. AULA USZD
+poniedz. - środa godz. 9:45-12:45 ćw.
+czwartek - piątek godz. 10:30-13:30 ćw.
 Grupy 54-56:
 13 tydzień:
-poniedz. – piątek godz. 11:00-12:30 AULA USZD
-poniedz. – piątek godz. 12:45-15:45 ćw.
+poniedz. - piątek godz. 11:00-12:30 AULA USZD
+poniedz. - piątek godz. 12:45-15:45 ćw.
 14 tydzień:
-poniedz. – środa godz. 11:00-12:30 sem. AULA USZD
-czwartek – piątek godz. 11:45-13:15 sem. AULA USZD
-poniedz. – środa godz. 12:45-15:45 ćw.
-czwartek – piątek godz. 13:30-16:30 ćw.
+poniedz. - środa godz. 11:00-12:30 sem. AULA USZD
+czwartek - piątek godz. 11:45-13:15 sem. AULA USZD
+poniedz. - środa godz. 12:45-15:45 ćw.
+czwartek - piątek godz. 13:30-16:30 ćw.
 
 8. Torakochirurgia:
 Katedra i Klinika Chirurgii Klatki Piersiowej:
 Grupy 10-12:
 1 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 1-3:
 4 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 4-6:
 5 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 7-9:
 6 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 13-15:
 8 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 16-18:
 9 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 19-21:
 10 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 22-24:
 11 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 25-27:
 12 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 28-30:
 13 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 Grupy 31-32:
 14 tydzień:
-poniedz. – piątek godz. 8:30-11:30
+poniedz. - piątek godz. 8:30-11:30
 
 9. Chirurgia Dziecięca:
 Katedra i Klinika Chirurgii i Traumatologii Dziecięcej:
 Grupy 10-12:
 2 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 1-3:
 5 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 środa godz. 12:30-14:00 sem. AULA USZD
 Grupy 4-6:
 4 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 7-9:
 7 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 13-15:
 9 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 16-18:
 8 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem.sala PNK2 USZD
 Grupy 19-21:
 11 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 22-24:
 10 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 25-27:
 13 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 28-30:
 12 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 Grupy 31-32:
 15 tydzień:
-poniedz. – środa godz. 8:30-12:15 ćw.
-czwartek – piątek godz. 8:30-11:30 ćw.
+poniedz. - środa godz. 8:30-12:15 ćw.
+czwartek - piątek godz. 8:30-11:30 ćw.
 czwartek godz. 12:00-13:30 sem. sala PNK2 USZD
 
 10. Anestezjologia:
 Grupy 31-32:
 I Klinika Anestezjologii i Intensywnej Terapii:
 1 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 2 tydzień:
@@ -820,9 +820,9 @@ wtorek godz. 8:30-13:00 ćw.
 Grupy 7-9:
 I Klinika Anestezjologii i Intensywnej Terapii:
 3 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 4 tydzień:
@@ -836,9 +836,9 @@ Grupa 9:
 Grupy 1-3:
 I Klinika Anestezjologii i Intensywnej Terapii:
 6 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 7 tydzień:
@@ -852,9 +852,9 @@ Grupa 3:
 Grupy 4-6:
 I Klinika Anestezjologii i Intensywnej Terapii:
 7 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 6 tydzień:
@@ -868,9 +868,9 @@ Grupa 6:
 Grupy 10-12:
 I Klinika Anestezjologii i Intensywnej Terapii:
 8 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 9 tydzień:
@@ -884,9 +884,9 @@ Grupa 12:
 Grupy 13-15:
 I Klinika Anestezjologii i Intensywnej Terapii:
 10 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 11 tydzień:
@@ -900,9 +900,9 @@ Grupa 15:
 Grupy 16-18:
 I Klinika Anestezjologii i Intensywnej Terapii:
 11 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 10 tydzień:
@@ -916,9 +916,9 @@ Grupa 18:
 Grupy 19-21:
 I Klinika Anestezjologii i Intensywnej Terapii:
 12 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 13 tydzień:
@@ -932,9 +932,9 @@ Grupa 21:
 Grupy 22-24:
 I Klinika Anestezjologii i Intensywnej Terapii:
 13 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 12 tydzień:
@@ -948,9 +948,9 @@ Grupa 24:
 Grupy 25-27:
 I Klinika Anestezjologii i Intensywnej Terapii:
 14 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 15 tydzień:
@@ -964,9 +964,9 @@ Grupa 27:
 Grupy 28-30:
 I Klinika Anestezjologii i Intensywnej Terapii:
 15 tydzień:
-poniedz. – czwartek godz. 8:30-11:30 ćw.
+poniedz. - czwartek godz. 8:30-11:30 ćw.
 piątek godz. 8:30-10:45 ćw.
-poniedz. – czwartek godz. 11:45-14:00 sem.
+poniedz. - czwartek godz. 11:45-14:00 sem.
 piątek godz. 11:00-13:15 sem.
 Klinika Anestezjologii i Intensywnej Terapii Dziecięcej:
 14 tydzień:
@@ -1040,12 +1040,12 @@ wtorek godz. 8:30-11:30 ćw.
 Grupy 36-38:
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 3 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 3 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Katedra i Klinika Rehabilitacji i Ortopedii:
 3 tydzień:
 czwartek godz. 13:00-14:30 ćw.
@@ -1064,8 +1064,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 4 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 4 tydzień:
 Grupa 36:
@@ -1081,12 +1081,12 @@ piątek godz. 11:00-14:00 sem.
 Grupy 39-41:
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 5 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 5 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 5 tydzień:
 Grupa 39:
@@ -1105,8 +1105,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 6 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 6 tydzień:
 Grupa 39:
@@ -1126,8 +1126,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 5 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 5 tydzień:
 Grupa 42:
@@ -1142,12 +1142,12 @@ piątek godz. 8:30-10:45 ćw.
 piątek godz. 11:00-14:00 sem.
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 6 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 6 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 7 tydzień:
 Grupa 42:
@@ -1163,12 +1163,12 @@ piątek godz. 13:00-14:30 sem.
 Grupy 48-50:
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 7 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 7 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 7 tydzień:
 Grupa 48:
@@ -1187,8 +1187,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 8 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 8 tydzień:
 Grupa 48:
@@ -1204,12 +1204,12 @@ piątek godz. 11:00-14:00 sem.
 Grupy 51-53:
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 9 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 9 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 9 tydzień:
 Grupa 51:
@@ -1228,8 +1228,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 10 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 10 tydzień:
 Grupa 51:
@@ -1249,8 +1249,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 9 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 9 tydzień:
 Grupa 54:
@@ -1265,12 +1265,12 @@ piątek godz. 8:30-10:45 ćw.
 piątek godz. 11:00-14:00 sem.
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 10 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 10 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 10 tydzień:
 Grupa 54:
@@ -1286,12 +1286,12 @@ piątek godz. 13:00-14:30 sem.
 Grupy 33-35:
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 12 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 12 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 12 tydzień:
 Grupa 33:
@@ -1310,8 +1310,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 13 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 13 tydzień:
 Grupa 33:
@@ -1327,12 +1327,12 @@ piątek godz. 11:00-14:00 sem.
 Grupy 45-47:
 Katedra i Klinika Pneumonologii, Onkologii i Alergologii:
 14 tydzień:
-poniedz. – środa godz. 8:30-10:00 sem.
-poniedz. – środa godz. 10:15-12:30 ćw.
+poniedz. - środa godz. 8:30-10:00 sem.
+poniedz. - środa godz. 10:15-12:30 ćw.
 Katedra i Klinika Kardiologii:
 14 tydzień:
-czwartek – piątek godz. 8:30-10:00 sem.
-czwartek – piątek godz. 10:15-12:30 ćw.
+czwartek - piątek godz. 8:30-10:00 sem.
+czwartek - piątek godz. 10:15-12:30 ćw.
 Pracownia Medycyny Paliatywnej Katedry Pielęgniarstw Zachowawczych:
 14 tydzień:
 Grupa 45:
@@ -1351,8 +1351,8 @@ poniedz. godz. 8:30-11:30 ćw.
 poniedz. godz. 11:45-13:15 sem.
 Katedra Ortopedii Dziecięcej:
 15 tydzień:
-wtorek – czwartek godz. 8:30-10:45 ćw.
-wtorek – czwartek godz. 11:00-12:30 sem.
+wtorek - czwartek godz. 8:30-10:45 ćw.
+wtorek - czwartek godz. 11:00-12:30 sem.
 Zakład Genetyki Klinicznej Katedry Genetyki Medycznej:
 15 tydzień:
 Grupa 45:

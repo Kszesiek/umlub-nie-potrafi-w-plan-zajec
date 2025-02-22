@@ -1,4 +1,4 @@
-import React, {ReactElement, TouchEventHandler, useEffect, useLayoutEffect, useRef, useState} from 'react';
+import React, {ReactElement, TouchEventHandler, useEffect, useLayoutEffect, useMemo, useRef, useState} from 'react';
 import './App.scss';
 import {ScheduleColumn} from "./components/ScheduleColumn";
 import {hours} from "./constants/hours";
@@ -7,7 +7,7 @@ import useWindowDimensions from "./utils/useWindowDimensions";
 import {getData} from "./data";
 import {FaTriangleExclamation} from "react-icons/fa6";
 import {formatDateWithAddedDays} from "./utils/dateFormat";
-import {BrowserView, isMobile, MobileView} from 'react-device-detect';
+import {BrowserView, MobileView} from 'react-device-detect';
 import {PageHeader} from "./components/PageHeader";
 import Swal from "sweetalert2";
 import {renderToString} from "react-dom/server";
@@ -16,7 +16,7 @@ function App() {
   const data: GroupClasses[] = getData();
 
   const today = new Date();
-  const dayZero = new Date(2024, 8, 28);
+  const dayZero = useMemo(() => new Date(2025, 1, 24), []);
   const diff = Math.abs(today.getTime() - dayZero.getTime());
   const diffWeek = Math.ceil(diff / (1000 * 3600 * 24 * 7));
   const lastWeekOfSemester = data.reduce((prev, current) => (prev && prev.week > current.week) ? prev : current).week;
@@ -33,38 +33,42 @@ function App() {
     }
     return lastChosenGroup;
   });
-  const [currentWeekMonday, setCurrentWeekMonday] = useState<Date>(new Date(2024, 10, 30));
+  const [currentWeekMonday, setCurrentWeekMonday] = useState<Date>(new Date(dayZero));
 
   const [activeWeekdayMobile, setActiveWeekdayMobile] = useState<number>(() => {
     if (1 <= today.getDay() && today.getDay() <= 5) {
       return today.getDay() - 1;
-    } else return 1;
+    } else return 0;
   });
 
-  const warningMessage: ReactElement = <p><b>Wyświetlane dane mogą zawierać błędy</b>, ponieważ zostały uzyskane w
-    częściowo zautomatyzowany
-    sposób. W razie zauważenia nieprawidłowości napisz proszę maila na adres <a
-      href="mailto:kszesiek@gmail.com">kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu problemu zawrzeć w
-    mailu informację dla której grupy, tygodnia oraz których zajęć problem występuje. Możesz też dołączyć zrzut ekranu.
-    Nie jestem w stanie sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy, ile błędów zostanie
-    wychwyconych i naprawionych. 🤗</p>
+  const warningMessage: ReactElement = useMemo(() => <>
+    <p><b>Nowy semestr, nowe błędy w planie!</b> Plan został uzyskany w częściowo zautomatyzowany sposób i <u>nie został
+      jeszcze ręcznie sprawdzony</u>, co więcej: <b>na pewno zawiera błędy</b> - dla przykładu: jeden ze znanych błędów
+      dotyczy braków w zajęciach z medycyny rodzinnej dla części grup. W związku z tym nie opierajcie się jeszcze na tym
+      planie w 100% i zgłaszajcie wszystkie błędy które napotkacie - w ten sposób szybciej się ich pozbędziemy. W razie
+      zauważenia błędów napisz proszę maila na adres <a href="mailto:kszesiek@gmail.com"> kszesiek@gmail.com</a>.
+      Pamiętaj, aby oprócz opisu problemu zawrzeć w mailu informację dla której grupy, tygodnia oraz których zajęć
+      problem występuje. Możesz też dołączyć zrzut ekranu. Nie jestem w stanie sam sprawdzić poprawności wszystkich
+      danych, dlatego to od Was zależy, ile błędów zostanie wychwyconych i naprawionych. 🤗</p>
+  </>, [])
 
   useEffect(() => {
     const mobileWarning: string | null = localStorage.getItem('mobile-warning');
-    if (isMobile && mobileWarning !== "true") {
+    // if (isMobile && mobileWarning !== "true") {
+    if (true) {
       Swal.fire({
         title: "Proszę, przeczytaj mnie",
         html: renderToString(warningMessage),
         confirmButtonText: "Rozumiem!",
         customClass: {
-          popup: "Warning-container Mobile-popup-container",
+          popup: "Error-container Mobile-popup-container",
         },
         preConfirm() {
           localStorage.setItem('mobile-warning', "true");
         }
       });
     }
-  }, [])
+  }, [warningMessage])
 
   const scheduleColumns = [
     <ScheduleColumn key="Monday" columnName={`Poniedziałek (${formatDateWithAddedDays(currentWeekMonday, 0)})`}
@@ -87,9 +91,9 @@ function App() {
                              onChange={(newChosenWeek) => setChosenWeek(Number(newChosenWeek.target.value))}>
     {
       new Array(lastWeekOfSemester).fill(null).map((_, i) => i + 1).map((week_number) => {
-        const monday = new Date(2024, 8, 30)
+        const monday = new Date(dayZero)
         monday.setDate(monday.getDate() + (week_number - 1) * 7)
-        const sunday = new Date(2024, 8, 30)
+        const sunday = new Date(dayZero)
         sunday.setDate(sunday.getDate() + (week_number - 1) * 7 + 6)
 
         return <option key={week_number}
@@ -110,10 +114,10 @@ function App() {
   </select>
 
   useLayoutEffect(() => {
-    const baseDate = new Date(2024, 8, 30);
+    const baseDate = new Date(dayZero);
     baseDate.setDate(baseDate.getDate() + (chosenWeek - 1) * 7);
     setCurrentWeekMonday(baseDate);
-  }, [chosenWeek]);
+  }, [chosenWeek, dayZero]);
 
   const {height} = useWindowDimensions();
 
@@ -221,19 +225,20 @@ function App() {
               </div>
               <div className="App-sidebar-warning-details">
                 <p>
-                  <li>Poprawne godziny egzaminów</li>
-                  <li>Dodany egzamin z laryngologii</li>
-                  <li>Obsługa gestów do zmiany dnia tygodnia w wersji mobilnej</li>
+                  <li><b>Plan na nowy semestr!</b></li>
+                  <li>W planie mogą zdarzać się błędy - wymaga ręcznego sprawdzenia poprawności</li>
+                  <li><b>Uwaga! Plan jest wybrakowany! (m.in. medycyna rodzinna)</b></li>
+                  <li>Niektóre zajęcia nie są oznaczone jako wykłady/ćwiczenia</li>
                 </p>
               </div>
             </div>
           </div>
           <div className="App-sidebar-wrapper">
-            <div className="App-sidebar-warning-container Warning-container">
+            <div className="App-sidebar-warning-container Error-container">
               <div className="App-sidebar-warning-title">
-                <FaTriangleExclamation size={24} color="#FFC000"/>
+                <FaTriangleExclamation size={24} color="red" /* color="#FFC000" */ />
                 <h3>Uwaga!</h3>
-                <FaTriangleExclamation size={24} color="#FFC000"/>
+                <FaTriangleExclamation size={24} color="red" /* color="#FFC000" */ />
               </div>
               {warningMessage}
             </div>
@@ -281,8 +286,8 @@ function App() {
           <div
             className="Schedule-column"
             ref={divRef}
-               onTouchStart={handleTouchStart}
-               onTouchMove={handleTouchMove}
+            onTouchStart={handleTouchStart}
+            onTouchMove={handleTouchMove}
             onTouchEnd={handleTouchEnd}
           >
             {scheduleColumns[activeWeekdayMobile]}

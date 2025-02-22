@@ -1,0 +1,133 @@
+1. Fakultet:
+Grupy 1-56:
+6-15 tydzień:
+poniedz. godz. 16:15-18:30
+wtorek godz. 17:30-19:45
+
+2. Choroby zakaźne:
+Grupy 1-56:
+1-10 tydzień:
+poniedz. godz. 19:00-20:30 wykład
+
+3. Parazytologia:
+Grupy 1-56:
+11-12 tydzień:
+poniedz. godz. 19:00-20:30 wykład
+13 tydzień:
+poniedz. godz. 19:00-19:45 wykład
+
+4. Onkologia:
+Grupy 1-56:
+13 tydzień:
+poniedz. godz. 19:45-20:30 wykład
+14-15 tydzień:
+poniedz. godz. 19:00-20:30 wykład
+
+5. Interdyscyplinarne lecz. bólu:
+Grupy 49-54:
+1-7 tydzień:
+środa godz. 18:30-20:00 sem.
+8 tydzień:
+środa godz. 18:30-19:15 sem.
+Grupy 55-56:
+8 tydzień:
+środa godz. 19:15-20:00 sem.
+9-15 tydzień:
+środa godz. 18:30-20:00 sem.
+Grupy 13-18:
+1-7 tydzień:
+czwartek godz. 17:00-18:30 sem.
+8 tydzień:
+czwartek godz. 17:00-17:45 sem.
+Grupy 19-24:
+8 tydzień:
+czwartek godz. 17:45-18:30 sem.
+9-15 tydzień:
+czwartek godz. 17:00-18:30 sem.
+Grupy 25-30:
+1-7 tydzień:
+czwartek godz. 18:30-20:00 sem.
+8 tydzień:
+czwartek godz. 18:30-19:15 sem.
+Grupy 31-36:
+8 tydzień:
+czwartek godz. 19:15-20:00 sem.
+9-15 tydzień:
+czwartek godz. 18:30-20:00 sem.
+Grupy 37-42:
+1-7 tydzień:
+piątek godz. 17:00-18:30 sem.
+8 tydzień:
+piątek godz. 17:00-17:45 sem.
+Grupy 43-48:
+8 tydzień:
+piątek godz. 17:45-18:30 sem.
+9-15 tydzień:
+piątek godz. 17:00-18:30 sem.
+Grupy 1-6:
+1-7 tydzień:
+piątek godz. 18:30-20:00 sem.
+8 tydzień:
+piątek godz. 18:30-19:15 sem.
+Grupy 7-12:
+8 tydzień:
+piątek godz. 19:15-20:00 sem.
+9-15 tydzień:
+piątek godz. 18:30-20:00 sem.
+
+6. Epidemiologia:
+Grupy 13-18:
+1-7 tydzień:
+środa godz. 17:00-18:30 ćwicz. - SALA 5 ACAD
+8 tydzień:
+środa godz. 17:00-17:45 ćwicz. - SALA 5 ACAD
+Grupy 19-20:
+8 tydzień:
+środa godz. 17:45-18:30 ćwicz. - SALA 5 ACAD
+9-15 tydzień:
+środa godz. 17:00-18:30 ćwicz. - SALA 5 ACAD
+Grupy 25-30:
+1-7 tydzień:
+środa godz. 18:30-20:00 ćwicz. - SALA 5 ACAD
+8 tydzień:
+środa godz. 18:30-19:15 ćwicz. - SALA 5 ACAD
+Grupy 31-36:
+8 tydzień:
+środa godz. 19:15-20:00 ćwicz. - SALA 5 ACAD
+9-15 tydzień:
+środa godz. 18:30-20:00 ćwicz. - SALA 5 ACAD
+Grupy 1-6:
+1-7 tydzień:
+czwartek godz. 17:00-18:30 ćwicz. - SALA 5 ACAD
+8 tydzień:
+czwartek godz. 17:00-17:45 ćwicz. - SALA 5 ACAD
+Grupy 7-12:
+8 tydzień:
+czwartek godz. 17:45-18:30 ćwicz. - SALA 5 ACAD
+9-15 tydzień:
+czwartek godz. 17:00-18:30 ćwicz. - SALA 5 ACAD
+Grupy 37-42:
+1-7 tydzień:
+czwartek godz. 18:30-20:00 ćwicz. - SALA 5 ACAD
+8 tydzień:
+czwartek godz. 18:30-19:15 ćwicz. - SALA 5 ACAD
+Grupy 43-48:
+8 tydzień:
+czwartek godz. 19:15-20:00 ćwicz. - SALA 5 ACAD
+9-15 tydzień:
+czwartek godz. 18:30-20:00 ćwicz. - SALA 5 ACAD
+Grupy 49-52:
+1-7 tydzień:
+piątek godz. 17:00-18:30 ćwicz. - SALA 5 ACAD
+8 tydzień:
+piątek godz. 17:00-17:45 ćwicz. - SALA 5 ACAD
+Grupy 53-56:
+8 tydzień:
+piątek godz. 17:45-18:30 ćwicz. - SALA 5 ACAD
+9-15 tydzień:
+piątek godz. 17:00-18:30 ćwicz. - SALA 5 ACAD
+
+7. Onkologia:
+Grupy 1-56:
+18 tydzień:
+wtorek godz. 8:00-22:00 egzamin
