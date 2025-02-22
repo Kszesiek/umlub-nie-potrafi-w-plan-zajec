@@ -22,7 +22,7 @@ def generate_detailed_class_entries(course_name, katedra, days, time, class_type
     entries = []
 
     for week in weeks:
-        current_day = date(2024, 9, 30) + timedelta(weeks=week - 1)
+        current_day = date(2025, 2, 24) + timedelta(weeks=week - 1)
         for day in weekdaysMapping:
             if current_day.weekday() < 5 and len(days) > 0 and day == days[0]:  # Only count weekdays (Monday-Friday)
                 start_hour, end_hour = time.split('-')
@@ -30,21 +30,18 @@ def generate_detailed_class_entries(course_name, katedra, days, time, class_type
 
                 modified_current_day = current_day
 
-                if week >= 5:
+                if week >= 9:
                     calendar_week += 1
-                if week >= 12:
-                    calendar_week += 2
 
-                if day == "Monday":
-                    if 1 <= week <= 4 or 12 <= week <= 15:
-                        calendar_week += 1
+                if day in ("Monday", "Tuesday") and 10 <= week <= 15:
+                    calendar_week += 1
 
-                if day == "Friday" and week == 5:
-                    calendar_week = 5
-                    modified_current_day = date(2024, 10, 29)
-                if day == "Monday" and week == 6:
-                    calendar_week = 6
-                    modified_current_day = date(2024, 11, 8)
+                if day == "Thursday" and week == 9:
+                    calendar_week = 11
+                    modified_current_day = date(2025, 5, 5)
+                if day == "Friday" and week == 9:
+                    calendar_week = 11
+                    modified_current_day = date(2025, 5, 6)
 
                 entries.append({
                     "calendar_week": calendar_week,
