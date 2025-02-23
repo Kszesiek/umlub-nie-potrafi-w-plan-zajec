@@ -30,7 +30,7 @@ def generate_detailed_class_entries(course_name, katedra, days, time, class_type
 
                 modified_current_day = current_day
 
-                if week >= 9:
+                if week >= 9 or (week == 8 and day in ("Thursday", "Friday")):
                     calendar_week += 1
 
                 if day in ("Monday", "Tuesday") and 10 <= week <= 15:
