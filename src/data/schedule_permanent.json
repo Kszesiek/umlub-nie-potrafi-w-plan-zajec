@@ -297,7 +297,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 1,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -317,11 +323,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 1,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 1,
@@ -890,7 +891,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 2,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -910,11 +917,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 2,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 2,
@@ -1483,7 +1485,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 3,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -1503,11 +1511,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 3,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 3,
@@ -2076,7 +2079,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 4,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -2096,11 +2105,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 4,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 4,
@@ -2669,7 +2673,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 5,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -2689,11 +2699,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 5,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 5,
@@ -3262,7 +3267,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 6,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -3282,11 +3293,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 6,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 6,
@@ -3729,7 +3735,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 7,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -3752,11 +3764,6 @@
     },
     {
       "group": 7,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 7,
       "week": 10,
       "classes": [
         {
@@ -4323,7 +4330,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 8,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -4346,11 +4359,6 @@
     },
     {
       "group": 8,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 8,
       "week": 10,
       "classes": [
         {
@@ -4917,7 +4925,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 9,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -4940,11 +4954,6 @@
     },
     {
       "group": 9,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 9,
       "week": 10,
       "classes": [
         {
@@ -5511,7 +5520,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 10,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -5534,11 +5549,6 @@
     },
     {
       "group": 10,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 10,
       "week": 10,
       "classes": [
         {
@@ -6105,7 +6115,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 11,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -6128,11 +6144,6 @@
     },
     {
       "group": 11,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 11,
       "week": 10,
       "classes": [
         {
@@ -6699,7 +6710,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 12,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -6722,11 +6739,6 @@
     },
     {
       "group": 12,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 12,
       "week": 10,
       "classes": [
         {
@@ -7421,15 +7433,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "17:45",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -7443,7 +7446,17 @@
     {
       "group": 13,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "17:45",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 13,
@@ -8014,15 +8027,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "17:45",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -8036,7 +8040,17 @@
     {
       "group": 14,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "17:45",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 14,
@@ -8607,15 +8621,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "17:45",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -8629,7 +8634,17 @@
     {
       "group": 15,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "17:45",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 15,
@@ -9200,15 +9215,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "17:45",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -9222,7 +9228,17 @@
     {
       "group": 16,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "17:45",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 16,
@@ -9793,15 +9809,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "17:45",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -9815,7 +9822,17 @@
     {
       "group": 17,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "17:45",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 17,
@@ -10386,15 +10403,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "17:45",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -10408,7 +10416,17 @@
     {
       "group": 18,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "17:45",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 18,
@@ -10850,15 +10868,6 @@
           "start_time": "19:00",
           "end_time": "20:30",
           "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:45",
-          "end_time": "18:30",
-          "type": "Seminarium",
           "location": null
         },
         {
@@ -10875,1171 +10884,7 @@
     {
       "group": 19,
       "week": 9,
-      "classes": []
-    },
-    {
-      "group": 19,
-      "week": 10,
       "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 11,
-      "classes": [
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 12,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 13,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 14,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 15,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "19:45",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:45",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 16,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 17,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 18,
-      "classes": []
-    },
-    {
-      "group": 19,
-      "week": 19,
-      "classes": [
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
-          "type": "Egzamin",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 19,
-      "week": 20,
-      "classes": []
-    },
-    {
-      "group": 20,
-      "week": 1,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 2,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 3,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 4,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 5,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 6,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 7,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 8,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:45",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:45",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 20,
-      "week": 10,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 11,
-      "classes": [
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 12,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 13,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 14,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 15,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "19:45",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:45",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 16,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
-        {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 17,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 18,
-      "classes": []
-    },
-    {
-      "group": 20,
-      "week": 19,
-      "classes": [
-        {
-          "course_name": "Onkologia",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "22:00",
-          "type": "Egzamin",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "week": 20,
-      "classes": []
-    },
-    {
-      "group": 21,
-      "week": 1,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "week": 2,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "week": 3,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "week": 4,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "week": 5,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "week": 6,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "week": 7,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "week": 8,
-      "classes": [
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Fakultet",
-          "katedra": null,
-          "day": "Tuesday",
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": null,
-          "day": "Monday",
-          "start_time": "19:00",
-          "end_time": "20:30",
-          "type": "Wykład",
-          "location": null
-        },
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -12052,9 +10897,1185 @@
       ]
     },
     {
+      "group": 19,
+      "week": 10,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 11,
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 12,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 13,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 14,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 15,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "19:45",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:45",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 16,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 17,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 18,
+      "classes": []
+    },
+    {
+      "group": 19,
+      "week": 19,
+      "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "week": 20,
+      "classes": []
+    },
+    {
+      "group": 20,
+      "week": 1,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 2,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 3,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 4,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 5,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 6,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 7,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 8,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:45",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:45",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 10,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 11,
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 12,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 13,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 14,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 15,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "19:45",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:45",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 16,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        },
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 17,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 18,
+      "classes": []
+    },
+    {
+      "group": 20,
+      "week": 19,
+      "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "22:00",
+          "type": "Egzamin",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "week": 20,
+      "classes": []
+    },
+    {
+      "group": 21,
+      "week": 1,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 2,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 3,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 4,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 5,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 6,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 7,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "week": 8,
+      "classes": [
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Fakultet",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "type": "Wykład",
+          "location": null
+        }
+      ]
+    },
+    {
       "group": 21,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "17:45",
+          "end_time": "18:30",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 21,
@@ -12561,7 +12582,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 22,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -12575,11 +12602,6 @@
     },
     {
       "group": 22,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 22,
       "week": 10,
       "classes": [
         {
@@ -13083,7 +13105,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 23,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -13097,11 +13125,6 @@
     },
     {
       "group": 23,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 23,
       "week": 10,
       "classes": [
         {
@@ -13605,7 +13628,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 24,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -13619,11 +13648,6 @@
     },
     {
       "group": 24,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 24,
       "week": 10,
       "classes": [
         {
@@ -14255,15 +14279,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "18:30",
-          "end_time": "19:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -14277,7 +14292,17 @@
     {
       "group": 25,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "18:30",
+          "end_time": "19:15",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 25,
@@ -14848,15 +14873,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "18:30",
-          "end_time": "19:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -14870,7 +14886,17 @@
     {
       "group": 26,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "18:30",
+          "end_time": "19:15",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 26,
@@ -15441,15 +15467,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "18:30",
-          "end_time": "19:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -15463,7 +15480,17 @@
     {
       "group": 27,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "18:30",
+          "end_time": "19:15",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 27,
@@ -16034,15 +16061,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "18:30",
-          "end_time": "19:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -16056,7 +16074,17 @@
     {
       "group": 28,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "18:30",
+          "end_time": "19:15",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 28,
@@ -16627,15 +16655,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "18:30",
-          "end_time": "19:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -16649,7 +16668,17 @@
     {
       "group": 29,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "18:30",
+          "end_time": "19:15",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 29,
@@ -17220,15 +17249,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "18:30",
-          "end_time": "19:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -17242,7 +17262,17 @@
     {
       "group": 30,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "18:30",
+          "end_time": "19:15",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 30,
@@ -17686,6 +17716,21 @@
           "type": "Wykład",
           "location": null
         },
+        {
+          "course_name": "Epidemiologia",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "19:15",
+          "end_time": "20:00",
+          "type": "Ćwiczenia",
+          "location": "ACAD"
+        }
+      ]
+    },
+    {
+      "group": 31,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -17694,22 +17739,8 @@
           "end_time": "20:00",
           "type": "Seminarium",
           "location": null
-        },
-        {
-          "course_name": "Epidemiologia",
-          "katedra": null,
-          "day": "Wednesday",
-          "start_time": "19:15",
-          "end_time": "20:00",
-          "type": "Ćwiczenia",
-          "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 31,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 31,
@@ -18281,15 +18312,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "19:15",
-          "end_time": "20:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -18303,7 +18325,17 @@
     {
       "group": 32,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "19:15",
+          "end_time": "20:00",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 32,
@@ -18875,15 +18907,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "19:15",
-          "end_time": "20:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -18897,7 +18920,17 @@
     {
       "group": 33,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "19:15",
+          "end_time": "20:00",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 33,
@@ -19469,15 +19502,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "19:15",
-          "end_time": "20:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -19491,7 +19515,17 @@
     {
       "group": 34,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "19:15",
+          "end_time": "20:00",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 34,
@@ -20063,15 +20097,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "19:15",
-          "end_time": "20:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -20085,7 +20110,17 @@
     {
       "group": 35,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "19:15",
+          "end_time": "20:00",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 35,
@@ -20657,15 +20692,6 @@
           "location": null
         },
         {
-          "course_name": "Interdyscyplinarne lecz. bólu",
-          "katedra": null,
-          "day": "Thursday",
-          "start_time": "19:15",
-          "end_time": "20:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
           "course_name": "Epidemiologia",
           "katedra": null,
           "day": "Wednesday",
@@ -20679,7 +20705,17 @@
     {
       "group": 36,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Interdyscyplinarne lecz. bólu",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "19:15",
+          "end_time": "20:00",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
     },
     {
       "group": 36,
@@ -21375,7 +21411,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 37,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -21395,11 +21437,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 37,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 37,
@@ -21968,7 +22005,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 38,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -21988,11 +22031,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 38,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 38,
@@ -22561,7 +22599,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 39,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -22581,11 +22625,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 39,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 39,
@@ -23154,7 +23193,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 40,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -23174,11 +23219,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 40,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 40,
@@ -23747,7 +23787,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 41,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -23767,11 +23813,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 41,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 41,
@@ -24340,7 +24381,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 42,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -24360,11 +24407,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 42,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 42,
@@ -24807,7 +24849,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 43,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -24827,11 +24875,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 43,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 43,
@@ -25401,7 +25444,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 44,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -25421,11 +25470,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 44,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 44,
@@ -25995,7 +26039,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 45,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -26015,11 +26065,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 45,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 45,
@@ -26589,7 +26634,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 46,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -26609,11 +26660,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 46,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 46,
@@ -27183,7 +27229,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 47,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -27203,11 +27255,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 47,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 47,
@@ -27777,7 +27824,13 @@
           "end_time": "20:30",
           "type": "Wykład",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 48,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Interdyscyplinarne lecz. bólu",
           "katedra": null,
@@ -27797,11 +27850,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 48,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 48,
@@ -28506,7 +28554,13 @@
           "end_time": "19:15",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 49,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -28517,11 +28571,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 49,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 49,
@@ -29099,7 +29148,13 @@
           "end_time": "19:15",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 50,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -29110,11 +29165,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 50,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 50,
@@ -29692,7 +29742,13 @@
           "end_time": "19:15",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 51,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -29703,11 +29759,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 51,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 51,
@@ -30285,7 +30336,13 @@
           "end_time": "19:15",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 52,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -30296,11 +30353,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 52,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 52,
@@ -30815,7 +30867,13 @@
           "end_time": "19:15",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 53,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -30826,11 +30884,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 53,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 53,
@@ -31409,7 +31462,13 @@
           "end_time": "19:15",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 54,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -31420,11 +31479,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 54,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 54,
@@ -31940,7 +31994,13 @@
           "end_time": "20:00",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 55,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -31951,11 +32011,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 55,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 55,
@@ -32534,7 +32589,13 @@
           "end_time": "20:00",
           "type": "Seminarium",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 56,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Epidemiologia",
           "katedra": null,
@@ -32545,11 +32606,6 @@
           "location": "ACAD"
         }
       ]
-    },
-    {
-      "group": 56,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 56,

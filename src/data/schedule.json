@@ -5838,24 +5838,6 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Thursday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "10:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
           "day": "Monday",
           "start_time": "11:45",
           "end_time": "14:00",
@@ -5879,6 +5861,30 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 10,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Anestezjologia",
@@ -5899,11 +5905,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 10,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 10,
@@ -6433,24 +6434,6 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Thursday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "10:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
           "day": "Monday",
           "start_time": "11:45",
           "end_time": "14:00",
@@ -6474,6 +6457,30 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 11,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Anestezjologia",
@@ -6494,11 +6501,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 11,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 11,
@@ -7037,24 +7039,6 @@
         {
           "course_name": "Anestezjologia",
           "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Thursday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "10:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
           "day": "Monday",
           "start_time": "11:45",
           "end_time": "14:00",
@@ -7078,6 +7062,30 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 12,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Anestezjologia",
@@ -7098,11 +7106,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 12,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 12,
@@ -7490,7 +7493,13 @@
           "end_time": "11:30",
           "type": null,
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 13,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Torakochirurgia",
           "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
@@ -7510,11 +7519,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 13,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 13,
@@ -8095,7 +8099,13 @@
           "end_time": "11:30",
           "type": null,
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Torakochirurgia",
           "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
@@ -8115,11 +8125,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 14,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 14,
@@ -8700,7 +8705,13 @@
           "end_time": "11:30",
           "type": null,
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 15,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Torakochirurgia",
           "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
@@ -8720,11 +8731,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 15,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 15,
@@ -9165,601 +9171,6 @@
     },
     {
       "group": 16,
-      "week": 4,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Monday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Tuesday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Wednesday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Tuesday",
-          "start_time": "15:00",
-          "end_time": "16:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Wednesday",
-          "start_time": "15:00",
-          "end_time": "16:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Monday",
-          "start_time": "8:15",
-          "end_time": "10:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Tuesday",
-          "start_time": "8:15",
-          "end_time": "10:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Wednesday",
-          "start_time": "8:15",
-          "end_time": "9:45",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Thursday",
-          "start_time": "8:15",
-          "end_time": "9:45",
-          "type": null,
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "week": 5,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 6,
-      "classes": [
-        {
-          "course_name": "Kardiochirurgia",
-          "katedra": "Klinika Kardiochirurgii",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "10:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Kardiochirurgia",
-          "katedra": "Klinika Kardiochirurgii",
-          "day": "Monday",
-          "start_time": "10:15",
-          "end_time": "13:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Kardiochirurgia",
-          "katedra": "Klinika Kardiochirurgii",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "week": 7,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 8,
-      "classes": [
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Wednesday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Thursday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Thursday",
-          "start_time": "12:00",
-          "end_time": "13:30",
-          "type": "Seminarium",
-          "location": "sala PNK2 USZD"
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "week": 9,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 10,
-      "classes": [
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Wednesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": null,
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "week": 11,
-      "classes": [
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Thursday",
-          "start_time": "13:00",
-          "end_time": "14:30",
-          "type": "Seminarium",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "week": 12,
-      "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Wednesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Thursday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "10:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Wednesday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Thursday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Friday",
-          "start_time": "11:00",
-          "end_time": "13:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "13:00",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "week": 13,
-      "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Monday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Tuesday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "week": 14,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 15,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 16,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 17,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 18,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 19,
-      "classes": []
-    },
-    {
-      "group": 16,
-      "week": 20,
-      "classes": []
-    },
-    {
-      "group": 17,
-      "week": 1,
-      "classes": []
-    },
-    {
-      "group": 17,
-      "week": 2,
-      "classes": [
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Monday",
-          "start_time": "12:30",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Tuesday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": "Zakład Radioterapii",
-          "day": "Wednesday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": null,
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 17,
-      "week": 3,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Monday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Tuesday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Wednesday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Tuesday",
-          "start_time": "15:00",
-          "end_time": "16:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Wednesday",
-          "start_time": "15:00",
-          "end_time": "16:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "15:00",
-          "end_time": "16:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "15:00",
-          "end_time": "16:30",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Mikrobiologia",
-          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
-          "day": "Monday",
-          "start_time": "8:00",
-          "end_time": "11:00",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Mikrobiologia",
-          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
-          "day": "Tuesday",
-          "start_time": "8:00",
-          "end_time": "11:00",
-          "type": null,
-          "location": null
-        },
-        {
-          "course_name": "Mikrobiologia",
-          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
-          "day": "Wednesday",
-          "start_time": "8:00",
-          "end_time": "11:00",
-          "type": null,
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 17,
       "week": 4,
       "classes": [
         {
@@ -9864,6 +9275,602 @@
       ]
     },
     {
+      "group": 16,
+      "week": 5,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 6,
+      "classes": [
+        {
+          "course_name": "Kardiochirurgia",
+          "katedra": "Klinika Kardiochirurgii",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Kardiochirurgia",
+          "katedra": "Klinika Kardiochirurgii",
+          "day": "Monday",
+          "start_time": "10:15",
+          "end_time": "13:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Kardiochirurgia",
+          "katedra": "Klinika Kardiochirurgii",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 7,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 8,
+      "classes": [
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "type": "Seminarium",
+          "location": "sala PNK2 USZD"
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 10,
+      "classes": [
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 11,
+      "classes": [
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Thursday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 12,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Wednesday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Thursday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Friday",
+          "start_time": "11:00",
+          "end_time": "13:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 13,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Monday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Tuesday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "week": 14,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 15,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 16,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 17,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 18,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 19,
+      "classes": []
+    },
+    {
+      "group": 16,
+      "week": 20,
+      "classes": []
+    },
+    {
+      "group": 17,
+      "week": 1,
+      "classes": []
+    },
+    {
+      "group": 17,
+      "week": 2,
+      "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Monday",
+          "start_time": "12:30",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Tuesday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Zakład Radioterapii",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 17,
+      "week": 3,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Monday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Tuesday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Wednesday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Tuesday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Wednesday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Mikrobiologia",
+          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
+          "day": "Monday",
+          "start_time": "8:00",
+          "end_time": "11:00",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Mikrobiologia",
+          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
+          "day": "Tuesday",
+          "start_time": "8:00",
+          "end_time": "11:00",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Mikrobiologia",
+          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
+          "day": "Wednesday",
+          "start_time": "8:00",
+          "end_time": "11:00",
+          "type": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 17,
+      "week": 4,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Monday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Tuesday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Wednesday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Tuesday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Wednesday",
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Monday",
+          "start_time": "8:15",
+          "end_time": "10:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Tuesday",
+          "start_time": "8:15",
+          "end_time": "10:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Wednesday",
+          "start_time": "8:15",
+          "end_time": "9:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Thursday",
+          "start_time": "8:15",
+          "end_time": "9:45",
+          "type": null,
+          "location": null
+        }
+      ]
+    },
+    {
       "group": 17,
       "week": 5,
       "classes": []
@@ -9936,7 +9943,13 @@
           "end_time": "12:15",
           "type": "Ćwiczenia",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 17,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Chirurgia Dziecięca",
           "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
@@ -9965,11 +9978,6 @@
           "location": "sala PNK2 USZD"
         }
       ]
-    },
-    {
-      "group": 17,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 17,
@@ -10531,7 +10539,13 @@
           "end_time": "12:15",
           "type": "Ćwiczenia",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 18,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Chirurgia Dziecięca",
           "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
@@ -10560,11 +10574,6 @@
           "location": "sala PNK2 USZD"
         }
       ]
-    },
-    {
-      "group": 18,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 18,
@@ -16418,24 +16427,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "8:00",
-          "end_time": "9:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "8:00",
-          "end_time": "9:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Monday",
           "start_time": "10:30",
           "end_time": "12:00",
@@ -16465,7 +16456,26 @@
     {
       "group": 28,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "9:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "8:00",
+          "end_time": "9:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 28,
@@ -17013,24 +17023,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "8:00",
-          "end_time": "9:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "8:00",
-          "end_time": "9:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Monday",
           "start_time": "10:30",
           "end_time": "12:00",
@@ -17060,7 +17052,26 @@
     {
       "group": 29,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "9:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "8:00",
+          "end_time": "9:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 29,
@@ -17599,24 +17610,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "8:00",
-          "end_time": "9:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "8:00",
-          "end_time": "9:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Monday",
           "start_time": "10:30",
           "end_time": "12:00",
@@ -17640,6 +17633,30 @@
           "end_time": "16:00",
           "type": null,
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 30,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "8:00",
+          "end_time": "9:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "8:00",
+          "end_time": "9:30",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Mikrobiologia",
@@ -17660,11 +17677,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 30,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 30,
@@ -18267,24 +18279,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Monday",
           "start_time": "12:45",
           "end_time": "14:15",
@@ -18308,6 +18302,30 @@
           "end_time": "16:00",
           "type": null,
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 31,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Mikrobiologia",
@@ -18328,11 +18346,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 31,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 31,
@@ -18881,24 +18894,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Monday",
           "start_time": "12:45",
           "end_time": "14:15",
@@ -18912,6 +18907,30 @@
           "start_time": "13:00",
           "end_time": "16:00",
           "type": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 32,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -18933,11 +18952,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 32,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 32,
@@ -19558,24 +19572,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Monday",
           "start_time": "12:45",
           "end_time": "14:15",
@@ -19589,6 +19585,30 @@
           "start_time": "13:00",
           "end_time": "16:00",
           "type": null,
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 33,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -19610,11 +19630,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 33,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 33,
@@ -20280,24 +20295,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Tuesday",
           "start_time": "15:00",
           "end_time": "16:30",
@@ -20339,6 +20336,30 @@
           "end_time": "9:45",
           "type": null,
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 34,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Parazytologia",
@@ -20350,11 +20371,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 34,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 34,
@@ -21019,24 +21035,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Tuesday",
           "start_time": "15:00",
           "end_time": "16:30",
@@ -21078,6 +21076,30 @@
           "end_time": "9:45",
           "type": null,
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 35,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Parazytologia",
@@ -21089,11 +21111,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 35,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 35,
@@ -22078,24 +22095,6 @@
         {
           "course_name": "Choroby zakaźne",
           "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "11:00",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
           "day": "Tuesday",
           "start_time": "15:00",
           "end_time": "16:30",
@@ -22137,6 +22136,30 @@
           "end_time": "12:00",
           "type": null,
           "location": null
+        }
+      ]
+    },
+    {
+      "group": 36,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "11:00",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
         },
         {
           "course_name": "Parazytologia",
@@ -22157,11 +22180,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 36,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 36,
@@ -32631,15 +32649,6 @@
         {
           "course_name": "Medycyna Rodzinna",
           "katedra": "Katedra Ortopedii Dziecięcej",
-          "day": "Thursday",
-          "start_time": "8:30",
-          "end_time": "10:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Medycyna Rodzinna",
-          "katedra": "Katedra Ortopedii Dziecięcej",
           "day": "Tuesday",
           "start_time": "11:00",
           "end_time": "12:30",
@@ -32653,6 +32662,21 @@
           "start_time": "11:00",
           "end_time": "12:30",
           "type": "Seminarium",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 50,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Medycyna Rodzinna",
+          "katedra": "Katedra Ortopedii Dziecięcej",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
           "location": null
         },
         {
@@ -32692,11 +32716,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 50,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 50,
@@ -33321,7 +33340,13 @@
           "end_time": "13:15",
           "type": "Ćwiczenia",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 51,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Neurochirurgia",
           "katedra": "Katedra i Klinika Neurochirurgii i Neurochirurgii Dziecięcej",
@@ -33332,11 +33357,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 51,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 51,
@@ -34070,7 +34090,13 @@
           "end_time": "13:15",
           "type": "Ćwiczenia",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 52,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Neurochirurgia",
           "katedra": "Katedra i Klinika Neurochirurgii i Neurochirurgii Dziecięcej",
@@ -34081,11 +34107,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 52,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 52,
@@ -34819,7 +34840,13 @@
           "end_time": "13:15",
           "type": "Ćwiczenia",
           "location": null
-        },
+        }
+      ]
+    },
+    {
+      "group": 53,
+      "week": 9,
+      "classes": [
         {
           "course_name": "Neurochirurgia",
           "katedra": "Katedra i Klinika Neurochirurgii i Neurochirurgii Dziecięcej",
@@ -34830,11 +34857,6 @@
           "location": null
         }
       ]
-    },
-    {
-      "group": 53,
-      "week": 9,
-      "classes": []
     },
     {
       "group": 53,
