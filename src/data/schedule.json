@@ -486,22 +486,188 @@
     {
       "group": 1,
       "week": 8,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 1,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 1,
       "week": 10,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 1,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 1,
@@ -1081,22 +1247,188 @@
     {
       "group": 2,
       "week": 8,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 2,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 2,
       "week": 10,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 2,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 2,
@@ -1685,22 +2017,188 @@
     {
       "group": 3,
       "week": 8,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 3,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 3,
       "week": 10,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 3,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 3,
@@ -2307,22 +2805,188 @@
     {
       "group": 4,
       "week": 8,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 4,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 4,
       "week": 10,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 4,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 4,
@@ -2910,22 +3574,188 @@
     {
       "group": 5,
       "week": 8,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 5,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 5,
       "week": 10,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 5,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 5,
@@ -3513,22 +4343,188 @@
     {
       "group": 6,
       "week": 8,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 6,
       "week": 9,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 6,
       "week": 10,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 6,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 6,
@@ -4150,17 +5146,182 @@
     {
       "group": 7,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 7,
       "week": 12,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 7,
       "week": 13,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 7,
@@ -4744,17 +5905,182 @@
     {
       "group": 8,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 8,
       "week": 12,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 8,
       "week": 13,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 8,
@@ -5338,17 +6664,182 @@
     {
       "group": 9,
       "week": 11,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 9,
       "week": 12,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 9,
       "week": 13,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 9,
@@ -5933,18 +7424,182 @@
           "end_time": "14:30",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 10,
       "week": 12,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 10,
       "week": 13,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 10,
@@ -6529,18 +8184,182 @@
           "end_time": "14:30",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 11,
       "week": 12,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 11,
       "week": 13,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 11,
@@ -7134,18 +8953,182 @@
           "end_time": "14:30",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 12,
       "week": 12,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 12,
       "week": 13,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 12,
@@ -7703,98 +9686,70 @@
           "end_time": "13:00",
           "type": "Ćwiczenia",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 13,
       "week": 14,
-      "classes": []
-    },
-    {
-      "group": 13,
-      "week": 15,
       "classes": [
         {
-          "course_name": "Onkologia",
-          "katedra": "Zakład Radioterapii",
-          "day": "Wednesday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Seminarium",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 13,
-      "week": 16,
-      "classes": [
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Monday",
-          "start_time": "12:30",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Onkologia",
-          "katedra": "Klinika Chirurgii Onkologicznej",
-          "day": "Tuesday",
-          "start_time": "12:30",
-          "end_time": "14:45",
-          "type": "Seminarium",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 13,
-      "week": 17,
-      "classes": []
-    },
-    {
-      "group": 13,
-      "week": 18,
-      "classes": []
-    },
-    {
-      "group": 13,
-      "week": 19,
-      "classes": []
-    },
-    {
-      "group": 13,
-      "week": 20,
-      "classes": []
-    },
-    {
-      "group": 14,
-      "week": 1,
-      "classes": [
-        {
-          "course_name": "Kardiochirurgia",
-          "katedra": "Klinika Kardiochirurgii",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Monday",
           "start_time": "8:30",
           "end_time": "10:00",
@@ -7802,523 +9757,72 @@
           "location": null
         },
         {
-          "course_name": "Kardiochirurgia",
-          "katedra": "Klinika Kardiochirurgii",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Monday",
-          "start_time": "10:15",
-          "end_time": "13:15",
+          "start_time": "10:00",
+          "end_time": "13:00",
           "type": "Ćwiczenia",
           "location": null
         },
         {
-          "course_name": "Kardiochirurgia",
-          "katedra": "Klinika Kardiochirurgii",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Tuesday",
           "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 2,
-      "classes": []
-    },
-    {
-      "group": 14,
-      "week": 3,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Monday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Tuesday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Wednesday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Monday",
-          "start_time": "12:45",
-          "end_time": "14:15",
+          "end_time": "10:00",
           "type": "Seminarium",
           "location": null
         },
         {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Tuesday",
-          "start_time": "12:45",
-          "end_time": "14:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Wednesday",
-          "start_time": "12:45",
-          "end_time": "14:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "12:45",
-          "end_time": "14:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "12:45",
-          "end_time": "14:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Monday",
-          "start_time": "8:15",
-          "end_time": "9:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Tuesday",
-          "start_time": "8:15",
-          "end_time": "9:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Wednesday",
-          "start_time": "8:15",
-          "end_time": "9:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Thursday",
-          "start_time": "8:15",
-          "end_time": "9:45",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Parazytologia",
-          "katedra": "Katedra i Zakład Biologii i Parazytologii",
-          "day": "Friday",
-          "start_time": "8:15",
-          "end_time": "9:45",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 4,
-      "classes": [
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Monday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Tuesday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Wednesday",
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Thursday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Friday",
-          "start_time": "9:30",
-          "end_time": "11:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Choroby zakaźne",
-          "katedra": "Katedra i Klinika Chorób Zakaźnych",
-          "day": "Monday",
-          "start_time": "12:45",
-          "end_time": "14:15",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Mikrobiologia",
-          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
-          "day": "Wednesday",
-          "start_time": "13:00",
-          "end_time": "16:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Mikrobiologia",
-          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
-          "day": "Thursday",
-          "start_time": "13:00",
-          "end_time": "16:00",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Mikrobiologia",
-          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
-          "day": "Friday",
-          "start_time": "13:00",
-          "end_time": "16:00",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 5,
-      "classes": []
-    },
-    {
-      "group": 14,
-      "week": 6,
-      "classes": []
-    },
-    {
-      "group": 14,
-      "week": 7,
-      "classes": []
-    },
-    {
-      "group": 14,
-      "week": 8,
-      "classes": [
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Wednesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 9,
-      "classes": [
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Thursday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Torakochirurgia",
-          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
-          "day": "Friday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 10,
-      "classes": [
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Monday",
-          "start_time": "8:30",
+          "start_time": "10:00",
           "end_time": "12:15",
           "type": "Ćwiczenia",
           "location": null
         },
         {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Wednesday",
           "start_time": "8:30",
-          "end_time": "12:15",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 11,
-      "classes": [
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Chirurgia Dziecięca",
-          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
-          "day": "Monday",
-          "start_time": "12:00",
-          "end_time": "13:30",
+          "end_time": "10:00",
           "type": "Seminarium",
-          "location": "sala PNK2 USZD"
+          "location": null
         },
         {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Wednesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
+          "start_time": "10:00",
+          "end_time": "12:15",
           "type": "Ćwiczenia",
           "location": null
         },
         {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Thursday",
           "start_time": "8:30",
           "end_time": "11:30",
-          "type": "Ćwiczenia",
+          "type": null,
           "location": null
         },
         {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "course_name": "Psychiatria",
+          "katedra": null,
           "day": "Friday",
           "start_time": "8:30",
           "end_time": "10:45",
           "type": "Ćwiczenia",
           "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Wednesday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Thursday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Friday",
-          "start_time": "11:00",
-          "end_time": "13:15",
-          "type": "Seminarium",
-          "location": null
         }
       ]
     },
     {
-      "group": 14,
-      "week": 12,
-      "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Monday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "11:30",
-          "type": "Ćwiczenia",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Monday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
-          "day": "Tuesday",
-          "start_time": "11:45",
-          "end_time": "14:00",
-          "type": "Seminarium",
-          "location": null
-        },
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Thursday",
-          "start_time": "13:00",
-          "end_time": "14:30",
-          "type": "Seminarium",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 13,
-      "classes": [
-        {
-          "course_name": "Anestezjologia",
-          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
-          "day": "Tuesday",
-          "start_time": "8:30",
-          "end_time": "13:00",
-          "type": "Ćwiczenia",
-          "location": null
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "week": 14,
-      "classes": []
-    },
-    {
-      "group": 14,
+      "group": 13,
       "week": 15,
       "classes": [
         {
@@ -8329,11 +9833,47 @@
           "end_time": "12:15",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
-      "group": 14,
+      "group": 13,
       "week": 16,
       "classes": [
         {
@@ -8375,6 +9915,775 @@
       ]
     },
     {
+      "group": 13,
+      "week": 17,
+      "classes": []
+    },
+    {
+      "group": 13,
+      "week": 18,
+      "classes": []
+    },
+    {
+      "group": 13,
+      "week": 19,
+      "classes": []
+    },
+    {
+      "group": 13,
+      "week": 20,
+      "classes": []
+    },
+    {
+      "group": 14,
+      "week": 1,
+      "classes": [
+        {
+          "course_name": "Kardiochirurgia",
+          "katedra": "Klinika Kardiochirurgii",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Kardiochirurgia",
+          "katedra": "Klinika Kardiochirurgii",
+          "day": "Monday",
+          "start_time": "10:15",
+          "end_time": "13:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Kardiochirurgia",
+          "katedra": "Klinika Kardiochirurgii",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 2,
+      "classes": []
+    },
+    {
+      "group": 14,
+      "week": 3,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Monday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Tuesday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Wednesday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Monday",
+          "start_time": "12:45",
+          "end_time": "14:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Tuesday",
+          "start_time": "12:45",
+          "end_time": "14:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Wednesday",
+          "start_time": "12:45",
+          "end_time": "14:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "12:45",
+          "end_time": "14:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "12:45",
+          "end_time": "14:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Monday",
+          "start_time": "8:15",
+          "end_time": "9:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Tuesday",
+          "start_time": "8:15",
+          "end_time": "9:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Wednesday",
+          "start_time": "8:15",
+          "end_time": "9:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Thursday",
+          "start_time": "8:15",
+          "end_time": "9:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Parazytologia",
+          "katedra": "Katedra i Zakład Biologii i Parazytologii",
+          "day": "Friday",
+          "start_time": "8:15",
+          "end_time": "9:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 4,
+      "classes": [
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Monday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Tuesday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Wednesday",
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Thursday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Friday",
+          "start_time": "9:30",
+          "end_time": "11:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Choroby zakaźne",
+          "katedra": "Katedra i Klinika Chorób Zakaźnych",
+          "day": "Monday",
+          "start_time": "12:45",
+          "end_time": "14:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Mikrobiologia",
+          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
+          "day": "Wednesday",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Mikrobiologia",
+          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
+          "day": "Thursday",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Mikrobiologia",
+          "katedra": "Katedra i Zakład Mikrobiologii Lekarskiej",
+          "day": "Friday",
+          "start_time": "13:00",
+          "end_time": "16:00",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 5,
+      "classes": []
+    },
+    {
+      "group": 14,
+      "week": 6,
+      "classes": []
+    },
+    {
+      "group": 14,
+      "week": 7,
+      "classes": []
+    },
+    {
+      "group": 14,
+      "week": 8,
+      "classes": [
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 9,
+      "classes": [
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Torakochirurgia",
+          "katedra": "Katedra i Klinika Chirurgii Klatki Piersiowej",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 10,
+      "classes": [
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 11,
+      "classes": [
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Chirurgia Dziecięca",
+          "katedra": "Katedra i Klinika Chirurgii i Traumatologii Dziecięcej",
+          "day": "Monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "type": "Seminarium",
+          "location": "sala PNK2 USZD"
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Wednesday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Thursday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Friday",
+          "start_time": "11:00",
+          "end_time": "13:15",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 12,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Monday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "I Klinika Anestezjologii i Intensywnej Terapii",
+          "day": "Tuesday",
+          "start_time": "11:45",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Thursday",
+          "start_time": "13:00",
+          "end_time": "14:30",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 13,
+      "classes": [
+        {
+          "course_name": "Anestezjologia",
+          "katedra": "Klinika Anestezjologii i Intensywnej Terapii Dziecięcej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 14,
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 15,
+      "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": "Zakład Radioterapii",
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "week": 16,
+      "classes": [
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Monday",
+          "start_time": "12:30",
+          "end_time": "14:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Onkologia",
+          "katedra": "Klinika Chirurgii Onkologicznej",
+          "day": "Tuesday",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "type": "Seminarium",
+          "location": null
+        }
+      ]
+    },
+    {
       "group": 14,
       "week": 17,
       "classes": []
@@ -8915,12 +11224,140 @@
     {
       "group": 15,
       "week": 13,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 15,
       "week": 14,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 15,
@@ -8933,6 +11370,42 @@
           "start_time": "8:30",
           "end_time": "12:15",
           "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
           "location": null
         }
       ]
@@ -9557,18 +12030,182 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 16,
       "week": 14,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 16,
       "week": 15,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 16,
@@ -10153,18 +12790,182 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 17,
       "week": 14,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 17,
       "week": 15,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 17,
@@ -10749,18 +13550,182 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 18,
       "week": 14,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 18,
       "week": 15,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 18,
@@ -10874,12 +13839,176 @@
     {
       "group": 19,
       "week": 3,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 19,
       "week": 4,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:00",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 19,
@@ -11949,18 +15078,182 @@
           "end_time": "13:00",
           "type": "Ćwiczenia",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 20,
       "week": 16,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 20,
       "week": 17,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 20,
@@ -12553,17 +15846,182 @@
     {
       "group": 21,
       "week": 15,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 21,
       "week": 16,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 21,
       "week": 17,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 21,
@@ -13156,18 +16614,182 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 22,
       "week": 16,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 22,
       "week": 17,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 22,
@@ -13760,18 +17382,182 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 23,
       "week": 16,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 23,
       "week": 17,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 23,
@@ -14364,18 +18150,182 @@
           "end_time": "14:00",
           "type": "Seminarium",
           "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
         }
       ]
     },
     {
       "group": 24,
       "week": 16,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 24,
       "week": 17,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 24,
@@ -14395,12 +18345,176 @@
     {
       "group": 25,
       "week": 1,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 25,
       "week": 2,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 25,
@@ -14990,12 +19104,176 @@
     {
       "group": 26,
       "week": 1,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 26,
       "week": 2,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 26,
@@ -15585,12 +19863,176 @@
     {
       "group": 27,
       "week": 1,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 27,
       "week": 2,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 27,
@@ -16245,12 +20687,176 @@
     {
       "group": 28,
       "week": 5,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 28,
       "week": 6,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 28,
@@ -16841,12 +21447,176 @@
     {
       "group": 29,
       "week": 5,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 29,
       "week": 6,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 29,
@@ -17437,12 +22207,176 @@
     {
       "group": 30,
       "week": 5,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 30,
       "week": 6,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 30,
@@ -18096,12 +23030,176 @@
     {
       "group": 31,
       "week": 3,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 31,
       "week": 4,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 31,
@@ -18702,12 +23800,176 @@
     {
       "group": 32,
       "week": 3,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 32,
       "week": 4,
-      "classes": []
+      "classes": [
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "13:00",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "8:30",
+          "end_time": "10:00",
+          "type": "Seminarium",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "13:45",
+          "type": "Ćwiczenia",
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Thursday",
+          "start_time": "8:30",
+          "end_time": "11:30",
+          "type": null,
+          "location": null
+        },
+        {
+          "course_name": "Psychiatria",
+          "katedra": null,
+          "day": "Friday",
+          "start_time": "8:30",
+          "end_time": "10:45",
+          "type": "Ćwiczenia",
+          "location": null
+        }
+      ]
     },
     {
       "group": 32,

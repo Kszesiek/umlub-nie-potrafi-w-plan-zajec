@@ -1036,7 +1036,679 @@ poniedz. godz. 8:30-10:00 sem.
 poniedz. godz. 10:15-13:15 ćw.
 wtorek godz. 8:30-11:30 ćw.
 
-
+12. Psychiatria:
+Grupa 25:
+1 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-13:00 ćw.
+2 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:45 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+Grupa 26:
+1 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-13:00 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+2 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:45 ćw
+piątek godz. 8:30-11:30 ćw.
+Grupa 27:
+1 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+2 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-10:45 ćw
+piątek godz. 8:30-11:30 ćw.
+Grupa 31:
+3 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-13:00 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+4 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+Grupa 32:
+3 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+4 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+Grupa 19:
+3 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+4 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:00 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:00 ćw
+piątek godz. 8:30-12:15 ćw.
+Grupa 28:
+5 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:00 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+6 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:45 ćw
+piątek godz. 8:30-11:30 ćw.
+Grupa 29:
+5 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+6 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:45 ćw
+piątek godz. 8:30-11:30 ćw.
+Grupa 30:
+5 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:45 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-13:00 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+6 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-10:45 ćw
+piątek godz. 8:30-11:30 ćw.
+Grupa 1:
+8 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+9 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+Grupa 2:
+8 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-13:00 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+9 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+Grupa 3:
+8 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:45 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-13:00 ćw.
+9 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+Grupa 4:
+8 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+9 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:45 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+Grupa 5:
+8 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+9 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:00 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+Grupa 6:
+8 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+9 tydzień:
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+Grupa 7:
+10 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+11 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:45 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 8:
+10 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-13:00 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+11 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 9:
+10 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-13:00 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+11 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+Grupa 10:
+10 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+11 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 11:
+10 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+11 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 12:
+10 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+11 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 13:
+12 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+13 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:45 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 14:
+12 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-13:00 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+13 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 15:
+12 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-13:00 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+13 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+Grupa 16:
+12 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+13 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 17:
+12 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+13 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 18:
+12 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:45 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+13 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 20:
+14 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:00 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+15 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-13:45 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 21:
+14 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-13:00 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+15 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 22:
+14 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-13:00 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+15 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-10:45 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+Grupa 23:
+14 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-13:45 ćw.
+15 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+Grupa 24:
+14 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-13:45 ćw.
+czwartek godz. 8:30-10:00 sem.
+czwartek godz. 10:00-12:15 ćw.
+piątek godz. 8:30-10:00 sem.
+piątek godz. 10:00-12:15 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
+15 tydzień:
+środa godz. 8:30-10:00 sem.
+środa godz. 10:00-12:15 ćw.
+czwartek godz. 8:30-11:30 ćw
+piątek godz. 8:30-11:30 ćw.
+poniedz. godz. 8:30-10:00 sem.
+poniedz. godz. 10:00-12:15 ćw.
+wtorek godz. 8:30-10:00 sem.
+wtorek godz. 10:00-12:15 ćw.
 
 13. Medycyna Rodzinna:
 Grupy 36-38:

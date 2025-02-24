@@ -43,19 +43,17 @@ function App() {
 
   const warningMessage: ReactElement = useMemo(() => <>
     <p><b>Nowy semestr, nowe błędy w planie!</b> Plan został uzyskany w częściowo zautomatyzowany sposób i <u>nie został
-      jeszcze ręcznie sprawdzony</u>, co więcej: <b>na pewno zawiera błędy</b> - dla przykładu: w planie nie znajdują
-      sią jeszcze zajęcia z psychiatrii. W związku z tym nie opierajcie się jeszcze na tym planie w 100% i zgłaszajcie
-      wszystkie błędy które napotkacie - w ten sposób szybciej się ich pozbędziemy. W razie zauważenia błędów napisz
-      proszę maila na adres <a href="mailto:kszesiek@gmail.com"> kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu
-      problemu zawrzeć w mailu informację dla której grupy, tygodnia oraz których zajęć problem występuje. Możesz też
-      dołączyć zrzut ekranu. Nie jestem w stanie sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy,
-      ile błędów zostanie wychwyconych i naprawionych. 🤗</p>
+      w pełni ręcznie sprawdzony</u>, co znaczy, że może zawierać błędy. Zgłaszajcie wszystkie błędy które napotkacie -
+      w ten sposób szybciej się ich pozbędziemy. W razie zauważenia błędu napisz proszę maila na adres <a
+        href="mailto:kszesiek@gmail.com">kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu problemu zawrzeć w mailu
+      informację dla której grupy, tygodnia oraz których zajęć problem występuje. Możesz też dołączyć zrzut ekranu. Nie
+      jestem w stanie sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy, ile błędów zostanie
+      wychwyconych i naprawionych. 🤗</p>
   </>, [])
 
   useEffect(() => {
-    const mobileWarning: string | null = localStorage.getItem('mobile-warning');
-    // if (isMobile && mobileWarning !== "true") {
-    if (true) {
+    const didDismissWarning: string | null = localStorage.getItem('warning-25l');
+    if (didDismissWarning !== "true") {
       Swal.fire({
         title: "Proszę, przeczytaj mnie",
         html: renderToString(warningMessage),
@@ -64,7 +62,7 @@ function App() {
           popup: "Error-container Mobile-popup-container",
         },
         preConfirm() {
-          localStorage.setItem('mobile-warning', "true");
+          localStorage.setItem('warning-25l', "true");
         }
       });
     }
@@ -226,10 +224,9 @@ function App() {
               <div className="App-sidebar-warning-details">
                 <p>
                   <li><b>Plan na nowy semestr!</b></li>
-                  <li>W planie mogą zdarzać się błędy - jesteśmy w trakcie ręcznego sprawdzenia poprawności</li>
-                  <li><b>Uwaga! Plan jest niekompletny! Brakuje m.in. psychiatrii</b></li>
-                  <li>Dodano brakujące zajęcia z medycyny rodzinnej</li>
-                  <li>Dodano brakujące typy niektórych zajęć</li>
+                  <li>W planie mogą zdarzać się błędy - nie został w pełni ręcznie sprawdzony</li>
+                  <li>Dodano brakujące zajęcia z medycyny rodzinnej i psychiatrii</li>
+                  <li>Uzupełniono brakujące typy zajęć</li>
                 </p>
               </div>
             </div>
