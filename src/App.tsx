@@ -43,13 +43,13 @@ function App() {
 
   const warningMessage: ReactElement = useMemo(() => <>
     <p><b>Nowy semestr, nowe błędy w planie!</b> Plan został uzyskany w częściowo zautomatyzowany sposób i <u>nie został
-      jeszcze ręcznie sprawdzony</u>, co więcej: <b>na pewno zawiera błędy</b> - dla przykładu: jeden ze znanych błędów
-      dotyczy braków w zajęciach z medycyny rodzinnej dla części grup. W związku z tym nie opierajcie się jeszcze na tym
-      planie w 100% i zgłaszajcie wszystkie błędy które napotkacie - w ten sposób szybciej się ich pozbędziemy. W razie
-      zauważenia błędów napisz proszę maila na adres <a href="mailto:kszesiek@gmail.com"> kszesiek@gmail.com</a>.
-      Pamiętaj, aby oprócz opisu problemu zawrzeć w mailu informację dla której grupy, tygodnia oraz których zajęć
-      problem występuje. Możesz też dołączyć zrzut ekranu. Nie jestem w stanie sam sprawdzić poprawności wszystkich
-      danych, dlatego to od Was zależy, ile błędów zostanie wychwyconych i naprawionych. 🤗</p>
+      jeszcze ręcznie sprawdzony</u>, co więcej: <b>na pewno zawiera błędy</b> - dla przykładu: w planie nie znajdują
+      sią jeszcze zajęcia z psychiatrii. W związku z tym nie opierajcie się jeszcze na tym planie w 100% i zgłaszajcie
+      wszystkie błędy które napotkacie - w ten sposób szybciej się ich pozbędziemy. W razie zauważenia błędów napisz
+      proszę maila na adres <a href="mailto:kszesiek@gmail.com"> kszesiek@gmail.com</a>. Pamiętaj, aby oprócz opisu
+      problemu zawrzeć w mailu informację dla której grupy, tygodnia oraz których zajęć problem występuje. Możesz też
+      dołączyć zrzut ekranu. Nie jestem w stanie sam sprawdzić poprawności wszystkich danych, dlatego to od Was zależy,
+      ile błędów zostanie wychwyconych i naprawionych. 🤗</p>
   </>, [])
 
   useEffect(() => {
@@ -226,9 +226,10 @@ function App() {
               <div className="App-sidebar-warning-details">
                 <p>
                   <li><b>Plan na nowy semestr!</b></li>
-                  <li>W planie mogą zdarzać się błędy - wymaga ręcznego sprawdzenia poprawności</li>
-                  <li><b>Uwaga! Plan jest wybrakowany! (m.in. medycyna rodzinna)</b></li>
-                  <li>Niektóre zajęcia nie są oznaczone jako wykłady/ćwiczenia</li>
+                  <li>W planie mogą zdarzać się błędy - jesteśmy w trakcie ręcznego sprawdzenia poprawności</li>
+                  <li><b>Uwaga! Plan jest niekompletny! Brakuje m.in. psychiatrii</b></li>
+                  <li>Dodano brakujące zajęcia z medycyny rodzinnej</li>
+                  <li>Dodano brakujące typy niektórych zajęć</li>
                 </p>
               </div>
             </div>

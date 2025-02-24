@@ -242,6 +242,6 @@ def main(input_file, output_file):
 
 
 # Usage
-input_file = 'input_schedule_25l.txt'  # Path to your input text file
+input_file = 'input_schedule_25l_permanent.txt'  # Path to your input text file
 output_file = 'output_schedule.json'  # Path to your output JSON file
 main(input_file, output_file)
